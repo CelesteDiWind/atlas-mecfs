@@ -10,9 +10,12 @@ Interactive map of the ME/CFS research literature, 2010–2026: a hand-picked se
 corpus of 7,169 OpenAlex works, with topic analyses, topic syntheses and an analysis of the field: what the corpus
 contains, how its topics connect and what changed over the years.
 
-**Autoría / Author:** Celeste Giraldo Lozano, con la asistencia de Claude (Anthropic) para el código, los análisis y los
-textos / with the assistance of Claude (Anthropic) for code, analyses and texts. Cómo citarlo / How to cite: botón
-«Cite this repository» o [CITATION.cff](CITATION.cff).
+**Autoría / Author:** Celeste Giraldo Lozano concibió y dirigió el proyecto: las preguntas, la estrategia de análisis,
+los flujos de trabajo y la elección de métodos. Claude (Anthropic) implementó el código y los cálculos y redactó los
+borradores bajo su dirección. / Celeste Giraldo Lozano conceived and led the project: the questions, the analytical
+strategy, the workflows and the choice of methods. Claude (Anthropic) implemented the code and computations and
+drafted the texts under her direction. Cómo citarlo / How to cite: botón «Cite this repository» o
+[CITATION.cff](CITATION.cff).
 
 ## Contenido / Contents
 

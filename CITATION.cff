@@ -23,4 +23,4 @@ keywords:
 abstract: >-
   Interactive map of the ME/CFS research literature, 2010–2026: a hand-picked selection of 583 papers and a systematic
   corpus of 7,169 OpenAlex works, with topic analyses, an analysis of the field (structure, dialogue between topics,
-  change over time) and topic syntheses. Built with the assistance of Claude (Anthropic).
+  change over time) and topic syntheses. Conceived, designed and directed by Celeste Giraldo Lozano, with the assistance of Claude (Anthropic) for implementation.

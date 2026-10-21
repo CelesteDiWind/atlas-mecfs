@@ -1,6 +1,6 @@
 # Atlas EM/SFC: methods
 
-*Celeste Giraldo Lozano, with the assistance of Claude (Anthropic). October 2026.*
+*Celeste Giraldo Lozano (conception, design and direction), with the assistance of Claude (Anthropic). October 2026.*
 *Versión en español: [METODOLOGIA.md](METODOLOGIA.md).*
 
 The atlas has three layers, each built on the one before:
@@ -228,11 +228,18 @@ Everything is computed three times, once per relevance filter: all works; core a
 
 ## 4. Use of artificial intelligence
 
-- **Claude (Anthropic)** wrote the code, ran the analyses, drafted the website texts, and classified and summarised
-  papers. That covers the per-paper analyses and syntheses of the hand-picked set, the relevance labels for unclear
-  cases, and the OpenAlex topic syntheses.
-- **Celeste Giraldo Lozano** set the questions, chose between methodological options, reviewed the results and decided
-  what to publish.
+- **Celeste Giraldo Lozano** conceived and led the project. Specifically, she:
+  - Assembled the hand-picked selection of papers.
+  - Set the research questions.
+  - Designed the overall analytical strategy and workflows: from the map to persistent homology, then to validated
+    citation networks, the systematic corpus and the temporal analyses.
+  - Decided which methods to prioritise at each stage and which hypotheses to test.
+  - Assessed the results and steered each new phase according to what they showed.
+  - Decided what to publish and how to present it.
+- **Claude (Anthropic)**, working under her direction, implemented the code, ran the computations, proposed technical
+  alternatives where there were several options and drafted the texts. It also classified and summarised papers: the
+  per-paper analyses and syntheses of the hand-picked set, the relevance labels for unclear cases and the OpenAlex topic
+  syntheses.
 - **Checks:** AI classifications and syntheses were validated by script (format, every citation present in the input,
   every work labelled). The website texts that quote figures are generated from the data.
 - **Even so**, the interpretation may contain errors: check anything important against the sources before citing it.

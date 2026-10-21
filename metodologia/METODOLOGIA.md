@@ -1,6 +1,6 @@
 # Metodología del Atlas EM/SFC
 
-*Celeste Giraldo Lozano, con la asistencia de Claude (Anthropic). Octubre de 2026.*
+*Celeste Giraldo Lozano (concepción, diseño y dirección), con la asistencia de Claude (Anthropic). Octubre de 2026.*
 *English version: [METHODS.md](METHODS.md).*
 
 El atlas tiene tres capas, cada una construida sobre la anterior:
@@ -228,11 +228,18 @@ centrales.
 
 ## 4. Uso de inteligencia artificial
 
-- **Claude (Anthropic)** escribió el código, ejecutó los análisis, redactó los textos de la web y clasificó y resumió
-  artículos. En concreto: los análisis por artículo y las síntesis de la selección manual, la clasificación de
-  relevancia de los casos dudosos y las síntesis por tema del corpus OpenAlex.
-- **Celeste Giraldo Lozano** planteó las preguntas, eligió entre las opciones de método, revisó los resultados y
-  decidió qué publicar.
+- **Celeste Giraldo Lozano** concibió y dirigió el proyecto. En concreto:
+  - Reunió la selección manual de artículos.
+  - Planteó las preguntas de investigación.
+  - Diseñó las estrategias generales de análisis y los flujos de trabajo: del mapa a la homología persistente, de ahí
+    a las redes de citas validadas, al corpus sistemático y a los análisis temporales.
+  - Decidió qué metodologías priorizar en cada etapa y qué hipótesis contrastar.
+  - Evaluó los resultados y orientó cada nueva fase según lo que iban mostrando.
+  - Decidió qué publicar y cómo presentarlo.
+- **Claude (Anthropic)**, bajo esa dirección, implementó el código, ejecutó los cálculos, propuso alternativas técnicas
+  cuando había varias opciones y redactó los borradores de los textos. También clasificó y resumió artículos: los
+  análisis por artículo y las síntesis de la selección manual, la relevancia de los casos dudosos y las síntesis por
+  tema del corpus OpenAlex.
 - **Controles:** las clasificaciones y síntesis de la IA se validaron con scripts (formato, que cada cita exista en la
   entrada, que cada trabajo tenga etiqueta). Los textos con cifras de la web se generan a partir de los datos.
 - **Aun así**, la interpretación puede contener errores: comprueba lo importante en las fuentes antes de citarlo.
