@@ -40,6 +40,7 @@ PLAN = {
     "figuras": ["homologia/figs/*.png"],
     "figuras/explicativas": ["homologia/figs/explicativas/*.png"],
     "figuras/explicativas_citas": ["homologia/figs/explicativas_citas/*.png"],
+    "figuras/explicativas_en": ["homologia/figs/explicativas_en/*.png"],
     "metodologia/prompts": ["prompt_claude_code.md"],
 }
 
