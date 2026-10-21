@@ -1,0 +1,64 @@
+{
+ "cluster": 5,
+ "resumen": "These papers explore energy metabolism, mitochondrial function, tryptophan pathways and the gut microbiota in ME/CFS, using metabolomics, cellular bioenergetics, metagenomics and nutritional or microbial interventions. They point to disturbed energy and lipid metabolism, cells that cope poorly with increased demand, and a functional dysbiosis with low butyrate production [#17, #59, #205]. However, the markers do not replicate consistently and the evidence for treatments remains weak [#31, #32, #35].",
+ "sintesis": [
+  "Blood metabolomics is the largest strand. Case-control studies describe energy strain, with fatty acids and amino acids used differently as fuel, and three metabolic subgroups [#17]; changes in acylcholines, steroids and sphingolipids [#178]; lower plasmalogens consistent with peroxisomal dysfunction in a cohort of 106 patients [#237]; and lipid disturbances in a pilot cohort of 17 patients [#552]. Yet a systematic review of 11 studies found no metabolite that was consistently altered [#31], and a meta-analysis found lower acylcarnitine levels but with high heterogeneity [#174].",
+  "Cellular bioenergetics points to a lack of reserve capacity rather than of baseline production. PBMC show lower maximal respiration [#123] and, in a study of only 6 patients, lower coupling efficiency with changes in pyruvate dehydrogenase [#90]. Lymphoblasts show an isolated Complex V inefficiency that is compensated at rest but may limit the response to sudden increases in demand [#59]. By contrast, a 2010 study found normal OXPHOS in PBMC despite poorer performance on repeated exercise [#457], and a systematic review of 19 studies concludes that ME/CFS is not a primary mitochondrial disorder [#32]. Cultured muscle cells fail to activate AMPK and take up glucose after stimulation, a defect that drugs can correct [#42, #390], and biopsies show advanced changes in mitochondrial structure [#255].",
+  "Immunometabolic studies describe increased fatty acid oxidation in NK cells and T cells [#53], energy changes linked to CD24 and CD38 in B cells [#107, #295], and states consistent with CD8+ T-cell exhaustion, interpreted by analogy with chronic viral infections [#509, #113]. The kynurenine pathway also appears altered and correlates with severity [#221, #321]. Reviews and hypotheses present it as a key piece of the puzzle, including a mathematically formulated IDO 'metabolic trap' with no clinical data [#188, #518], and two pilot studies report raised BH4 in patients with orthostatic intolerance [#82, #206]. On the theoretical side, one hypothesis without data of its own attributes metabolic dysfunction in a subgroup to astrocyte-driven sympathetic overactivation [#278].",
+  "In the microbiota, the largest multi-omic study (106 patients and 91 controls) shows a shortage of butyrate-producing bacteria associated with fatigue [#205]. Another, with 154 patients, finds that dysbiosis is marked early in the illness and largely resolves in long-standing disease, while the metabolic changes persist [#352]. Comorbid IBS is a major confounder [#249], and virome studies in small cohorts of severely ill patients found no differences in diversity [#179, #313]. Other studies suggest changes in antimicrobial immunity, with antibody responses to Lachnospiraceae flagellins [#513, #197] and lower IgG reactivity to faecal microbes in 5 patient-household pairs [#311].",
+  "Support for treatments is limited. Systematic reviews of probiotics and mitochondrial nutraceuticals judge the evidence scarce or insufficient [#10, #70, #35]. Faecal microbiota transplantation looked favourable in a retrospective study assessed by clinical judgement [#28], but showed no benefit in a controlled pilot trial of 11 patients [#227]. Several supplement trials were funded or staffed by the manufacturer, compared outcomes only with baseline, or enrolled people with nonspecific chronic fatigue [#545, #536, #399].",
+  "Over time, early work on muscle pH and oxidative stress [#320, #467] gave way to discovery studies between 2016 and 2019, and since 2020 to systematic reviews, larger multi-omic cohorts and comparisons with long COVID [#255, #346, #535]. A few papers have little to do with ME/CFS: a study of ascorbate-ceftriaxone synergy [#425], a review of drug-induced mitochondrial toxicity [#293], and studies of fatigue in iron disorders [#145], IBS [#362] and systemic sclerosis [#239]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Metabolomics and lipidomics as biomarkers",
+   "texto": "Plasma and urine profiles identify changes in the metabolism of lipids, amino acids, steroids and purines, sometimes with highly accurate classifiers [#343, #58]. The most recurrent findings involve lipids, such as acylcholines, plasmalogens and acylcarnitines [#178, #237, #174]. A systematic review notes that no single metabolite is consistent across studies [#31]."
+  },
+  {
+   "titulo": "Mitochondrial bioenergetics in blood cells and muscle",
+   "texto": "Respirometry in PBMC and lymphoblasts suggests reduced respiratory reserve, or compensated defects that would limit the response to demand [#123, #59, #90]. Other studies find normal OXPHOS in PBMC [#457] or muscle structural changes consistent with adaptation [#255]. The reliability of commercial tests is disputed [#73, #466], and the dysfunction has been proposed to be secondary to inflammation and oxidative stress [#467, #32]."
+  },
+  {
+   "titulo": "Lymphocyte immunometabolism",
+   "texto": "Patients' NK, T and B cells show altered fuel use, more fatty acid oxidation and stress responses when stimulated [#53, #295, #107]. Reviews and commentaries link this to T-cell exhaustion and to a hypometabolic state like that seen in chronic viral infections [#509, #113]."
+  },
+  {
+   "titulo": "Skeletal muscle: AMPK, pH and redox state",
+   "texto": "Muscle cells cultured from patients do not activate AMPK or increase glucose uptake after electrical stimulation, a defect that metformin or compound 991 can bypass [#42, #390]. Spectroscopy shows suppressed proton efflux after exercise, linked to autonomic dysfunction [#320], and oxidative stress separates subgroups and is related to pain and vagal control [#57, #428]."
+  },
+  {
+   "titulo": "Tryptophan, kynurenine and biopterins",
+   "texto": "Kynurenine pathway metabolites differ in ME/CFS and fibromyalgia and are associated with severity and pain [#221, #321]. Reviews and hypotheses place the pathway at the junction of NAD, inflammation and neuroinflammation [#188, #518], and in long COVID it is linked to fatigue and mood symptoms [#535]. Two pilot studies report raised BH4 and relate it to the pentose phosphate pathway and microglia [#82, #206]."
+  },
+  {
+   "titulo": "Microbiota, virome and antimicrobial immunity",
+   "texto": "Studies of faecal and oral microbiota describe dysbiosis with fewer butyrate producers, and changes depending on disease duration and IBS [#205, #352, #249, #417, #152]. The gut virome and antibody reactivity to gut microbes and flagellins have been explored in small cohorts of severely ill patients [#179, #313, #311, #513]."
+  },
+  {
+   "titulo": "Nutritional and microbial interventions",
+   "texto": "Probiotics, antibiotics aimed at dysbiosis, faecal microbiota transplantation, CoQ10, creatine, polyphenols, quercetin and beta-glucan have all been tested [#372, #227, #346, #545]. Systematic reviews agree that the evidence is insufficient [#10, #35, #70], and several trials have small samples or conflicts of interest [#399, #536]."
+  }
+ ],
+ "consensos": [
+  "Energy and lipid metabolism are disturbed in ME/CFS, with changes in fatty acids, phospholipids and acylcarnitines that recur across studies and reviews [#17, #237, #552, #174, #220].",
+  "Patients' cells appear less able to respond to increases in energy demand, even though baseline ATP production may be preserved or compensated [#59, #123, #90, #295].",
+  "Mitochondrial dysfunction is mostly seen as secondary, linked to inflammation, oxidative stress or inactivity, rather than as a primary mitochondrial disorder [#32, #467, #255, #500].",
+  "There is a functional gut dysbiosis, with loss of butyrate-producing bacteria such as Faecalibacterium prausnitzii, most marked in the early stages [#205, #352, #249].",
+  "Patients are consistently heterogeneous, and several studies identify metabolic, redox or mitochondrial subgroups [#17, #57, #466, #450].",
+  "According to systematic and narrative reviews, the evidence is not strong enough to support the use of probiotics, nutraceuticals or supplements [#10, #35, #70, #208, #398]."
+ ],
+ "debates": [
+  "Metabolomic signatures with over 90% diagnostic accuracy in small samples [#343, #58] contrast with the systematic review's finding of no consistent metabolite [#31], the lack of a clear-cut biomarker [#178] and the high heterogeneity in the acylcarnitine meta-analysis [#174].",
+  "The metabolic state is variously described as a dauer-like hypometabolic state [#343], as energy strain with possible tissue hypoxia [#17], or as PEM-related hypermetabolism [#464]; these interpretations have not been reconciled.",
+  "Findings on mitochondrial function conflict: OXPHOS in PBMC is reduced in one study [#123] and normal in another [#457], and one commercial test detects dysfunction in every patient [#466] while another cannot be reproduced and depends on sample processing time [#73].",
+  "Faecal microbiota transplantation showed benefit in a retrospective study assessed by the author's own clinical judgement [#28], but not in a placebo-controlled pilot trial [#227]. Dysbiosis does not show up as a difference in viral or bacterial diversity in small cohorts of severely ill patients [#179, #313], and IBS confounds the picture [#249].",
+  "The positive supplement and probiotic trials have methodological limitations or conflicts of interest: comparison only with baseline [#545]; participants without an ME/CFS diagnosis and authors employed by the manufacturer [#536]; a product supplied by the company and a strong placebo effect [#399]; and an author who advises the industry [#346]."
+ ],
+ "lagunas": [
+  "Small samples and pilot studies without independent replication or multicentre validation predominate, which limits how far biomarkers can be generalized [#552, #90, #58, #311].",
+  "It is not known whether the metabolic, mitochondrial and microbial changes are a cause or a consequence of the disease; longitudinal designs are lacking [#123, #342, #417, #220].",
+  "Without shared diagnostic criteria, sampling protocols and bioinformatic methods, metabolomic, mitochondrial and microbiome studies are hard to compare [#31, #32, #217].",
+  "Few studies take measurements under dynamic conditions, such as after exertion or during PEM, which could make differences more visible [#178, #464, #59, #220].",
+  "Adequately powered, placebo-controlled trials free of conflicts of interest are needed for probiotics, faecal microbiota transplantation and nutraceuticals, as are larger studies of the virome and its interaction with gut bacteria [#227, #35, #372, #313]."
+ ]
+}

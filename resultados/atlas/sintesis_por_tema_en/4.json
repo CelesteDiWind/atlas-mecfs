@@ -1,0 +1,64 @@
+{
+ "cluster": 4,
+ "resumen": "These papers look at how ME/CFS is treated, perceived and legitimized: stigma and lived experience, what professionals know, the functional and social burden, outcome measurement, and the dispute between biopsychosocial and biomedical models [#480, #486, #458]. The overall message is that the disease causes severe, measurable disability that health services and society recognize poorly, and that ignoring post-exertional malaise (PEM) and dismissing patients are associated with worse outcomes [#253, #216, #223].",
+ "sintesis": [
+  "Stigma and invalidation are at the heart of this topic. Cross-sectional studies with large but self-selected samples show that perceived stigma is high, higher than in other neurological diseases, and is linked to worse functioning [#480, #180]. Other people's belief that the illness is controllable affects patients through stigma [#120], and blame and estrangement are associated with depression and suicidal thoughts [#223]. Small qualitative studies describe invisibility, diagnostic stigma, enforced loneliness and symbolic violence [#315, #506, #524, #284], and a meta-ethnography [#18] proposes a relational approach that moves away from individual blame. In contrast, one experiment suggests that a diagnostic label can increase social support [#186].",
+  "A second strand documents gaps in medical knowledge. A EUROMENE review finds that between a third and a half of GPs do not accept ME/CFS as a condition or do not feel able to manage it, with no change in decades [#486]. This is borne out by an audit of 44 hospital doctors, 82% of whom thought the illness at least partly psychological [#483], by limited teaching in UK medical schools [#491], by the views of European experts [#492] and by poor provision of care in Germany [#490]. In Norwegian surveys, failing to address PEM was associated with twice the likelihood of deterioration, and patients meeting the Canadian criteria rated CBT, rehabilitation and work assessment as harmful [#253, #216], although these data are self-reported.",
+  "An open controversy runs through this literature. On one side, position papers and narrative reviews defend models of sustained activation and the predictive brain, which are used to justify CBT and a gradual return to activity [#154, #141]. Their empirical support is limited, for example an experience-sampling study of 23 patients [#45]. On the other side, a reanalysis of the PACE trial puts recovery under the original protocol at between 3% and 7%, with no difference between treatments [#446], and critiques of the IAPT programme, of psychotherapeutic ethics and of the concept of 'illness without disease' challenge these practices [#478, #274, #525, #578]. Historical reviews and a re-examination of the 1955 Royal Free outbreak argue that the disease is organic [#382, #489, #443], in a markedly polemical tone.",
+  "The burden of illness is well documented. SF-36 scores are lower than in other chronic diseases and in multiple sclerosis [#458, #452], health utilities are about half the population norm [#75], and the illness affects relatives and carers [#488, #166]. Psychometric studies validate PROMIS and DSQ-SF instruments [#76, #490], but warn that the common data elements mostly measure body functions and barely capture participation [#137], and that the SF-36-PFS may not suit young people [#314]. Several studies look for subgroups based on symptoms, disease course or markers, with conflicting results [#72, #268, #508, #510].",
+  "Since 2020 the focus has shifted toward long COVID. A systematic review finds 25 of 29 ME/CFS symptoms in post-COVID studies [#487], a survey finds that 58% of 465 patients meet an ME/CFS case definition [#404], and other studies propose diagnostic tools or early prediction based on PEM, using small or homogeneous samples [#388, #143, #402]. Meanwhile, commentaries on legitimacy note institutional progress over the past decade, although stigma and the lack of biomarkers persist [#325, #495].",
+  "Some of the papers fit the topic poorly: reviews and studies centred on fibromyalgia, chronic pain or small-fibre neuropathy [#246, #250, #542, #224, #498]; autoimmune and mechanistic hypotheses [#177, #413, #554]; very preliminary treatment cases or series [#0, #470, #288]; documents with incomplete or noisy text [#477, #463, #484]; and pieces unrelated to ME/CFS, such as a letter on Nobel Prize nominations included by mistake [#579] and an essay on gaslighting in psychotherapy [#459]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Stigma, invalidation and lived experience",
+   "texto": "Cross-sectional quantitative studies link perceived stigma to worse functioning, lower satisfaction with social roles and a risk of suicidal thoughts. Qualitative studies describe invisibility, grief, enforced loneliness, being discredited and mechanisms of symbolic violence, and propose relational approaches and the concept of energy impairment."
+  },
+  {
+   "titulo": "Professional knowledge and quality of care",
+   "texto": "European audits, surveys and reviews show lack of knowledge, disbelief and poor medical training, leading to late diagnosis and patients left without care. Patient surveys link neglect of PEM to deterioration and lower satisfaction, and EUROMENE consensus papers put forward early diagnosis as secondary prevention."
+  },
+  {
+   "titulo": "The controversy over explanatory models and psychological therapies",
+   "texto": "Biopsychosocial and cognitive-behavioural models sit alongside critiques of the PACE trial, the IAPT programme and the concept of illness without disease. Reviews of mind-body interventions and the CBSM trial show modest benefits, with a risk of bias and without PEM as a primary outcome."
+  },
+  {
+   "titulo": "History and legitimacy of the disease",
+   "texto": "Reviews, commentaries and a book trace the history of ME/CFS from neurasthenia and the 1955 outbreak to long COVID, and compare it with HIV/AIDS. They note milestones in institutional recognition alongside persistent psychological dogma and underfunding."
+  },
+  {
+   "titulo": "Burden of illness and outcome measurement",
+   "texto": "Studies document very poor quality of life, worse than in other chronic diseases, with effects on work, finances and family. Psychometric work validates instruments but finds gaps in how participation is measured and questions whether the SF-36-PFS suits young people."
+  },
+  {
+   "titulo": "Heterogeneity and subgroups",
+   "texto": "Latent class analysis, hierarchical clustering, self-organizing maps and disease-course trajectories are used to look for clinical subgroups. Results range from heavily overlapping clusters to subgroups replicated in independent samples."
+  },
+  {
+   "titulo": "ME/CFS after COVID-19",
+   "texto": "Reviews and surveys show broad symptom overlap between long COVID and ME/CFS, with a high proportion of cases meeting ME/CFS criteria. Structured diagnostic questionnaires and PEM-centred predictive models have been proposed, so far with small samples or recall bias."
+  }
+ ],
+ "consensos": [
+  "ME/CFS causes severe, measurable functional disability, with worse quality of life than other chronic diseases and effects on employment, income and family.",
+  "Perceived stigma is high and is associated with worse functioning, poorer mental health and social isolation.",
+  "Doctors' knowledge of and training in ME/CFS are poor and have barely improved in decades, which delays diagnosis.",
+  "For patients and clinicians alike, PEM is the core feature, and failing to take it into account is associated with negative experiences and deterioration.",
+  "People with ME/CFS are clinically heterogeneous, and research into causes is wide-ranging, with no single dominant factor.",
+  "Long COVID and ME/CFS overlap substantially in their clinical features."
+ ],
+ "debates": [
+  "Competing explanatory models: sustained activation, threat perception and avoidance on one side; on the other, the case for an organic disease and the critique of the idea of illness without disease. An umbrella review also notes that truly integrated biopsychosocial models are rarely used.",
+  "Benefits and harms of CBT, GET and psychological therapies: the PACE reanalysis, patient surveys and the critique of IAPT contrast with the modest benefits of CBSM and mind-body interventions, and with enthusiastic results from weak designs such as the AIR programme.",
+  "The value of subgroups: a study in adolescents finds clusters but no distinct subgroups and questions the stricter criteria, while others describe subgroups that are validated or useful for guiding treatment.",
+  "The effects of diagnosis and language: a diagnostic label can legitimize the illness and increase social support, or carry diagnostic stigma; and self-diagnosis both over- and under-identifies cases compared with formal criteria.",
+  "Autoimmune hypotheses and experimental treatments (immunoglobulin, aripiprazole, ibudilast) are presented with emphatic conclusions that go beyond the strength of the available evidence."
+ ],
+ "lagunas": [
+  "Most designs are cross-sectional and self-reported, with convenience samples or self-reported diagnoses, so causality cannot be inferred.",
+  "There are no good instruments for measuring activity, participation and environmental factors, nor multi-domain measures suitable for young people.",
+  "The proposed drug and immune treatments have not been tested in randomized controlled trials.",
+  "Data on prevalence, economic cost and modifiable risk factors are scarce, and evidence about GPs often comes from experts' impressions.",
+  "Research rarely brings together social, healthcare and gender factors, and intervention trials do not include PEM as an outcome."
+ ]
+}

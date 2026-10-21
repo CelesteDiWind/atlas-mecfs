@@ -1,0 +1,54 @@
+{
+ "n_giant": 541,
+ "n_components": 43,
+ "n_isolated": 42,
+ "h1_bars": 583,
+ "h1_bars_full_rips": 1071,
+ "h1_tau_rewire": 1.903,
+ "h1_nsig": 0,
+ "h1_tau_add": 0.8491,
+ "h1_nsig_add": 2,
+ "q_nbars": 0.0,
+ "h1_top5_ratio": [
+  1.8634,
+  1.8396,
+  1.7944,
+  1.79,
+  1.7492
+ ],
+ "n_landmarks": 300,
+ "sem_full": {
+  "bottleneck_h0": 0.3646,
+  "bottleneck_h1": 0.2164,
+  "wasserstein_h1": 12.2663,
+  "ref_bottleneck_h1_median": 0.2117,
+  "ref_wasserstein_h1_median": 31.1545,
+  "frac_null_closer_bottleneck": 0.69,
+  "frac_null_closer_wasserstein": 0.0,
+  "mantel_rho": 0.3645,
+  "mantel_p": 0.001,
+  "partial_mantel_rho_year": 0.3542,
+  "partial_mantel_p": 0.001
+ },
+ "sem_k15": {
+  "bottleneck_h0": 0.1939,
+  "bottleneck_h1": 0.1963,
+  "wasserstein_h1": 52.3502,
+  "ref_bottleneck_h1_median": 0.1782,
+  "ref_wasserstein_h1_median": 53.7129,
+  "frac_null_closer_bottleneck": 1.0,
+  "frac_null_closer_wasserstein": 0.24,
+  "mantel_rho": 0.2606,
+  "mantel_p": 0.001,
+  "partial_mantel_rho_year": 0.2506,
+  "partial_mantel_p": 0.001
+ },
+ "louvain": {
+  "n_comm": 5,
+  "ARI_clusters": 0.2195,
+  "NMI_clusters": 0.3287,
+  "ARI_modes_specter2": 0.0263,
+  "ARI_modes_mpnet": 0.1544,
+  "ARI_modes_bge-m3": 0.1259
+ }
+}

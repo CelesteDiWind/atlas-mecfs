@@ -1,0 +1,243 @@
+{
+ "cluster": 2,
+ "resumen": "This topic gathers 1165 papers on cognitive behavioural therapy (CBT), graded exercise, the PACE trial, the NICE guideline and the experience of patients and clinicians. The sample combines efficacy trials and meta-analyses, critical reanalyses of PACE, paediatric studies and a large body of qualitative research. An open controversy defines it: whether these therapies help, how their effect was measured and which model of illness underlies them. Patient accounts describe scepticism and stigma in healthcare [#2716].",
+ "sintesis": [
+  "Part of the sample evaluates CBT and graded exercise as treatments. A 2011 meta-analysis found similar effects for graded exercise (g = 0.28) and CBT (g = 0.33), with smaller CBT effects in primary care [#830]. One trial compared pragmatic rehabilitation, supportive listening and usual care in 296 primary care patients [#207]. In a trial of 236 participants, the authors report better physical function with standard CBT than with a waiting list [#4410]. A reanalysis of three trials indicates that CBT reduces fatigue without raising physical activity measured by actigraphy [#102]. In routine clinical practice, 37.5% of patients no longer met Oxford or CDC criteria at six months [#1831].",
+  "The PACE trial is the centre of the debate. Its investigators reported recovery in 22% of participants after CBT and 22% after graded exercise, against 8% with adaptive pacing therapy and 7% with specialist medical care alone [#1337]. A reanalysis using the original protocol procedures concluded that recovery rates were low and did not differ between groups. According to that reanalysis, significant effects were almost entirely confined to self-report measures and did not last beyond two years [#3204]. Sharpe and colleagues replied that neither the criticisms nor the reanalysis justify changing the conclusions [#3564]. Other authors call for an independent review [#2885] and argue that patient surveys contradict the PACE findings [#2916].",
+  "The NICE guideline carried the controversy into clinical policy. The 2020 draft withdrew graded exercise and kept CBT as support for managing symptoms, citing published evidence and patient reports of no benefit and of harm [#4208]. Medical leaders objected that the guideline downplays exercise and CBT [#4631]. Vink and colleagues argue that the supportive trials had serious design flaws [#4872]. Fink and colleagues criticise the guideline for relying on the consensus of a group of specialists and patients [#4881]. The Oslo Chronic Fatigue Consortium proposes that these syndromes reflect brain responses to biological, psychological and social factors, and that recovery is possible [#5509]. Geraghty, by contrast, ascribes a negative effect on medical management to that psychiatric model [#4093].",
+  "The experience of patients, families and clinicians takes up much of the sample. A meta-synthesis of 21 qualitative studies describes primary care doctors with limited knowledge and scepticism, while those who diagnose tend to use a multifactorial model [#1727]. Blease and colleagues apply the concept of epistemic injustice to these clinical encounters [#2716], and a study of five people explores it from the perspective of patients [#5812]. Other papers describe stigma [#3583], life with severe illness [#4332] and gender differences in the English press [#3612]. In paediatrics, a Dutch study estimated a prevalence of 111 per 100 000 adolescents, with 45% missing more than half of school [#582]. In England, school clinics found cases among pupils with absenteeism [#418].",
+  "The topic holds 1165 papers. Of these, 915 are central to ME/CFS, 97 secondary, 144 peripheral, 6 uncertain and 3 about another concept. Annual output ranges from 45 to 98 papers: 65 in 2010, a low of 45 in 2014, a peak of 98 in 2016, 66 in 2025 and 62 in 2026 (a year incomplete until October). The main journals are Fatigue Biomedicine Health & Behavior (46), Journal of Psychosomatic Research (39) and Journal of Health Psychology (32). The topic talks to Fatigue, sleep, stress and general reviews (O/E 1.44) and to Pain, fibromyalgia and functional syndromes (1.36) more than chance predicts. It talks less to XMRV retrovirus (0.39) and Immunity, mitochondria and biomarkers (0.49). Links to long COVID [#6763, #6925] and to traditional Chinese medicine are growing, while coupling with pain and fibromyalgia is falling."
+ ],
+ "lineas": [
+  {
+   "titulo": "Efficacy of CBT and graded exercise",
+   "texto": "Trials and meta-analyses compare CBT and graded exercise with waiting lists, usual care and other therapies. One meta-analysis found similar effects for both [#830], and a reanalysis indicates that CBT reduces fatigue without changing physical activity [#102]. In a specialist clinic, a cohort of 995 patients received CBT in a naturalistic setting [#4142], and in routine care 18.3% recovered fully [#1831]. The authors of the Norwegian trial report better physical function and fatigue [#4410].",
+   "papers": [
+    830,
+    102,
+    4142,
+    1831,
+    4410,
+    207
+   ]
+  },
+  {
+   "titulo": "PACE and its reanalyses",
+   "texto": "The PACE investigators reported that CBT and graded exercise produced more recovery than adaptive pacing and medical care alone [#1337]. A reanalysis using the original protocol found no significant recovery differences between groups [#3204], and Sharpe and colleagues reject its conclusions [#3564]. Two commentaries in the Journal of Health Psychology question the methodology and the use of patient surveys [#2885, #2916].",
+   "papers": [
+    1337,
+    3204,
+    3564,
+    2885,
+    2916,
+    4872
+   ]
+  },
+  {
+   "titulo": "NICE guideline and clinical advice",
+   "texto": "The NICE draft withdrew graded exercise and recast CBT as support [#4208]. Medical leaders and authors such as Fink say the guideline undervalues exercise or rests on a biased consensus [#4631, #4881]. Vink and colleagues argue that the guideline exposed flaws in earlier trials [#4872]. A 2026 review compares international guidelines and finds activity pacing to be a central concept [#6763].",
+   "papers": [
+    4208,
+    4631,
+    4872,
+    4881,
+    6763,
+    5509
+   ]
+  },
+  {
+   "titulo": "Patient and clinician experience",
+   "texto": "Qualitative studies document difficulty getting a diagnosis, medical scepticism and stigma [#359, #1727, #3583]. Blease and colleagues and Hunt and colleagues read these experiences as epistemic injustice [#2716, #5812]. A meta-synthesis of 24 articles covering 389 patients identified four themes, including difficulty with diagnosis [#6164]. Another study interviewed 33 people with partial or full recovery and described individualised treatment without medical guidance [#5561].",
+   "papers": [
+    359,
+    1727,
+    2716,
+    5812,
+    3583,
+    6164,
+    5561,
+    4332
+   ]
+  },
+  {
+   "titulo": "ME/CFS in children and adolescents",
+   "texto": "A Dutch study estimated prevalence and incidence in adolescents [#582], and English school clinics identified undiagnosed cases [#418]. Paediatric cohorts differ from adult ones: adults had more disability and fatigue and had been ill longer [#2278]. Crawley notes that most children improve with specialist treatment [#3205], yet a qualitative study reminds us that at least 15% have not recovered at 12 months [#4385]. Other papers record the outcomes that matter to children, clinicians and teachers [#2287, #2812, #4295].",
+   "papers": [
+    582,
+    418,
+    2278,
+    3205,
+    4385,
+    2287,
+    2812,
+    4295
+   ]
+  },
+  {
+   "titulo": "Activity pacing and self-management",
+   "texto": "A consensus document proposes activity pacing to stabilise the illness and avoid post-exertional malaise [#843]. A scoping review found inconsistent effects for rehabilitation and activity pacing, and improvement with CBT [#3858]. Recent studies explore self-management needs [#6971, #6347], supplement use among 268 women [#7009] and videoconference stress-management CBT [#5706]. A thesis reviews third-wave therapies for post-viral fatigue [#6925].",
+   "papers": [
+    843,
+    3858,
+    6971,
+    6347,
+    7009,
+    5706,
+    6925
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Several qualitative studies and reviews in the sample describe difficulty getting a diagnosis, scepticism from some doctors and stigma felt by patients [#359, #1727, #2716, #3583, #6164].",
+   "papers": [
+    359,
+    1727,
+    2716,
+    3583,
+    6164,
+    5812
+   ]
+  },
+  {
+   "texto": "The papers agree that CBT does not cure the illness on its own. Only some patients recover after it [#784, #1831], and recent guidelines describe it as support rather than treatment of the illness itself [#4208, #6763].",
+   "papers": [
+    784,
+    1831,
+    4208,
+    6763,
+    4881
+   ]
+  },
+  {
+   "texto": "There is agreement that the illness is common and disabling in young people, with effects on school and family [#582, #2287, #3205, #2953].",
+   "papers": [
+    582,
+    2287,
+    3205,
+    2953,
+    418
+   ]
+  },
+  {
+   "texto": "Recent reviews accept that no treatment is definitively effective and that current guidelines recommend managing symptoms and supporting the patient [#5156, #6925, #6763].",
+   "papers": [
+    5156,
+    6925,
+    6763,
+    3629
+   ]
+  },
+  {
+   "texto": "Patient surveys rate activity pacing as helpful, and guidelines treat it as a central concept [#843, #6763].",
+   "papers": [
+    843,
+    6763,
+    2916,
+    4208
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Authors read the PACE results in opposite ways. Its investigators report that CBT and graded exercise more than doubled recovery against the other arms [#1337]. The reanalysis using the original protocol finds low rates with no differences between groups [#3204], and Sharpe and colleagues reject that reading [#3564].",
+   "papers": [
+    1337,
+    3204,
+    3564,
+    2885,
+    2916
+   ]
+  },
+  {
+   "texto": "Papers disagree on whether graded exercise helps or harms. One meta-analysis gives it an effect similar to CBT [#830], and a recent review of five trials reports gains in function and fatigue [#5774]. The patient surveys reviewed point to worsening with this treatment [#2916], and NICE withdrew it [#4208]. The 2026 guideline review views it with caution when post-exertional malaise is present [#6763].",
+   "papers": [
+    830,
+    5774,
+    2916,
+    4208,
+    6763,
+    4872
+   ]
+  },
+  {
+   "texto": "Authors disagree on the model of illness. The Oslo Chronic Fatigue Consortium proposes an origin in brain responses to stress and a possible recovery through gradual activation [#5509]. Geraghty and Vink and colleagues argue that the psychiatric model distorts practice and the reading of trials [#4093, #4872]. Fink and colleagues criticise the weight given to groups linked to the patient community in the guideline [#4881].",
+   "papers": [
+    5509,
+    4093,
+    4872,
+    4881,
+    2716
+   ]
+  },
+  {
+   "texto": "Recent meta-analyses of CBT disagree. One of 15 trials found a significant reduction in fatigue (SMD = -0.44) [#7152]. Another of 12 studies, which excluded Oxford-defined cohorts, found no significant effect when it pooled all forms of CBT (p = 0.12) [#6556]. A scoping review described difficulty comparing the studies [#3858].",
+   "papers": [
+    7152,
+    6556,
+    3858,
+    830
+   ]
+  },
+  {
+   "texto": "The 2021 NICE guideline draws opposing readings. For Vink and colleagues, it exposed flaws in the trials [#4872]. Medical leaders say it undervalues the role of exercise and CBT [#4631], and Fink and colleagues see it as shaped by a biased consensus [#4881].",
+   "papers": [
+    4872,
+    4631,
+    4881,
+    4208,
+    6763
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Diagnostic criteria vary between studies (Oxford, CDC 1994, Canadian), and reviews point out that this heterogeneity limits conclusions [#3629, #6556, #4410]. Few trials in the sample stratify by post-exertional malaise [#6763, #5706].",
+   "papers": [
+    3629,
+    6556,
+    4410,
+    6763,
+    5706
+   ]
+  },
+  {
+   "texto": "New interventions rest on pilots or small samples: a mindfulness-based pilot with 35 participants who completed the study [#784], a single case of CBT for health anxiety [#2670] and a review of third-wave therapies that found two randomised trials [#6925].",
+   "papers": [
+    784,
+    2670,
+    6925,
+    5706
+   ]
+  },
+  {
+   "texto": "Data are lacking on people with severe illness, and participation is hard to make accessible: disability complicates research in these cases [#4332, #7008], and severely affected young people have little evidence [#3629].",
+   "papers": [
+    4332,
+    7008,
+    3629,
+    6367
+   ]
+  },
+  {
+   "texto": "Qualitative studies use small or selected samples, such as five participants [#5812, #6347] or 48 patient-association members, 95.83% of them women [#6293]. Replication in more diverse populations is missing.",
+   "papers": [
+    5812,
+    6347,
+    6293,
+    4332,
+    6164
+   ]
+  },
+  {
+   "texto": "Trial follow-up is short and reporting of adverse effects is uneven: 52 weeks in the Norwegian trial [#4410], six months in the clinical cohort [#1831] and PACE effects that did not hold at two years according to its reanalysis [#3204]. Recent meta-analyses include adverse effects as a secondary outcome [#6556, #7152].",
+   "papers": [
+    4410,
+    1831,
+    3204,
+    6556,
+    7152
+   ]
+  }
+ ]
+}

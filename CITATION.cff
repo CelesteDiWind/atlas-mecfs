@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Si usas este atlas, cítalo así / If you use this atlas, please cite it as below."
+title: "Atlas EM/SFC: atlas interactivo de la literatura sobre encefalomielitis miálgica / síndrome de fatiga crónica (2010–2026)"
+authors:
+  - family-names: "Giraldo Lozano"
+    given-names: "Celeste"
+type: software
+version: "1.0"
+date-released: 2026-10-21
+url: "https://celestediwind.github.io/atlas-mecfs/"
+repository-code: "https://github.com/CelesteDiWind/atlas-mecfs"
+license: CC-BY-4.0
+keywords:
+  - ME/CFS
+  - myalgic encephalomyelitis
+  - chronic fatigue syndrome
+  - long COVID
+  - bibliometrics
+  - science mapping
+  - citation networks
+  - persistent homology
+  - OpenAlex
+abstract: >-
+  Interactive map of the ME/CFS research literature, 2010–2026: a hand-picked selection of 583 papers and a systematic
+  corpus of 7,169 OpenAlex works, with topic analyses, an analysis of the field (structure, dialogue between topics,
+  change over time) and topic syntheses. Built with the assistance of Claude (Anthropic).

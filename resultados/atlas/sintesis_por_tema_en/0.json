@@ -1,0 +1,58 @@
+{
+ "cluster": 0,
+ "resumen": "These papers look for the molecular basis of ME/CFS using susceptibility genetics, DNA methylation, transcriptomics, proteomics, miRNA, cytokines and new biophysical techniques applied to blood cells [#260, #147, #146, #48]. The overall picture is of a modest, polygenic inherited predisposition, with different omic layers converging on immune and mitochondrial changes. However, almost all the findings come from small samples and have yet to be replicated [#238, #109, #22].",
+ "sintesis": [
+  "The literature spans roughly fifteen years. It runs from early microarray expression signatures in very small samples [#16] and familial aggregation studies [#238] to GWAS with replication cohorts [#260], proteomics of extracellular vesicles after exertion [#318], and large-scale data and recruitment infrastructure [#574, #556]. Most papers are original case-control studies, often pilots with fewer than twenty patients per group. There are few systematic reviews [#37, #65, #232] and one theoretical model [#326].",
+  "On the genetic side, genealogical and national registries show raised risk in first- to third-degree relatives [#238], and a broad pattern of vulnerability shared with other functional syndromes, though weaker than in fibromyalgia [#547]. Candidate-gene studies link ME/CFS to HLA alleles [#273] and to variants in PTPN22 and CTLA4, the latter only in patients with an infectious onset [#86]. Yet the largest published GWAS found no locus at genome-wide significance [#260], and the only significant signal, in PDE10A, comes from a doctoral thesis [#312]. Combinatorial analyses of UK Biobank [#109, #261], a pilot using 23andMe data [#258] and a single case with a structural variant in AKR1C [#329] generate new hypotheses, but none has been independently validated.",
+  "Epigenetics is the most active line. Several methylation studies in PBMC or T cells separate patients from controls, mostly through immune and metabolic genes [#195, #147, #131]. Genotype appears to shape some of these marks [#262], and methylation profiles have been used to propose clinical subtypes [#305]. A follow-up of just two patients suggests that the methylome shifts with relapses [#218]. A joint reanalysis found only partial overlap at the level of individual sites but consistent pathways [#194], and a review puts forward the activation of transposable elements as a hypothesis [#232, #517]. The BDNF and COMT studies focus on patients with comorbid fibromyalgia [#196, #259].",
+  "Transcriptomic and proteomic studies point in the same direction: mitochondrial dysfunction and an abnormal immune response. PBMC proteomics supports impaired ATP production [#146], electron microscopy shows swollen mitochondria and more apoptosis [#391], and the mitochondria-derived peptides humanin and MOTS-c are reduced, although the drop is also seen in asymptomatic seropositive people [#23]. Exercise challenges reveal altered, sex-dependent transcriptomic responses [#257, #139, #502], as well as PEM-related changes in extracellular vesicles and CSF miRNA [#318, #301]. Comparisons with long COVID suggest shared pathways but little genetic overlap [#22, #65].",
+  "Cytokine findings in plasma and CSF are mixed. Studies report trends with severity [#193], lower IL-7, IL-16 and VEGF-A [#462], markers that reverse direction with disease duration [#285], and distinct profiles in atypical presentations [#286]. Meanwhile, Raman spectroscopy [#20, #48], impedance under osmotic stress [#445, #91] and red-cell deformability [#454] all report high accuracy in small samples; a recent review notes that their specificity has not yet been tested [#532]. A few papers sit awkwardly in this topic: a symptom network analysis [#359], a protocol for lifestyle interventions [#282], and the Swedish registry study, which treats ME/CFS as a secondary case [#547]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Susceptibility genetics",
+   "texto": "Familial aggregation, associations with HLA and autoimmunity genes, GWAS and combinatorial SNP analyses. Together they point to a polygenic predisposition with no confirmed large-effect loci, involving immune, mitochondrial and stress-response pathways [#238, #273, #260, #109]."
+  },
+  {
+   "titulo": "DNA methylation and epigenetics",
+   "texto": "Methylation profiles in PBMC and T cells that distinguish patients from controls, genome-epigenome interactions, subtypes defined by combining methylation with clinical scores, and dynamic changes during relapses. Reviews propose hypotheses such as transposon activation [#147, #262, #305, #232]."
+  },
+  {
+   "titulo": "Transcriptomics and the molecular response to exertion",
+   "texto": "Expression signatures at rest and after exercise challenges designed to provoke PEM, with subgroups defined by the response and differences between men and women. Causal network models and factor analysis are also used to compare ME/CFS with other fatiguing illnesses [#257, #139, #502, #5]."
+  },
+  {
+   "titulo": "Proteomics, mitochondria and extracellular vesicles",
+   "texto": "Proteomes of PBMC, plasma and CSF, plus the characterization of extracellular vesicles and their protein, cytokine and miRNA cargo. The main themes are mitochondrial dysfunction, immune and haemostatic changes, and an abnormal vesicle response to exercise [#146, #318, #421, #214]."
+  },
+  {
+   "titulo": "Cytokines and miRNA in blood and CSF",
+   "texto": "Cytokine profiles linked to severity, duration and clinical presentation, and circulating or CSF miRNAs with computational analysis of their targets. Results vary from study to study, although the miRNAs converge on a common set of target genes [#193, #285, #269, #301]."
+  },
+  {
+   "titulo": "Biophysical biomarkers and data infrastructure",
+   "texto": "Techniques such as single-cell Raman spectroscopy, bioimpedance, nanoelectronic assays and red-cell microfluidics aim to deliver a blood-based diagnostic test. Alongside them are data portals and mass-recruitment studies intended to scale up research [#20, #48, #445, #574]."
+  }
+ ],
+ "consensos": [
+  "Different omic layers converge on immune pathways: HLA and autoimmunity genes, methylation of immune-response genes, and altered gene expression and proteomes in immune cells [#273, #147, #195, #84].",
+  "Mitochondrial and energy dysfunction recurs across proteomics, transcriptomics, electron microscopy and Raman spectroscopy [#146, #22, #391, #20].",
+  "Susceptibility is partly inherited, but the genetic contribution is polygenic and made up of small effects; no single locus has reached replicated genome-wide significance [#238, #260, #109].",
+  "In patients, physical exertion triggers abnormal molecular responses in gene expression, extracellular vesicles and CSF miRNA, consistent with PEM [#257, #139, #318].",
+  "DNA methylation profiles differ between patients and controls and centre on immune and metabolic genes, although the specific sites vary between studies [#147, #131, #194]."
+ ],
+ "debates": [
+  "Cytokine profiles replicate poorly. Some studies find levels rising with severity, others find decreases or no difference in concentration, and the direction in which IL-6 and IL-8 separate patients from controls reverses with disease duration [#193, #462, #285, #192].",
+  "The autoimmune hypothesis has genetic and expression support, but T-cell receptor diversity does not distinguish patients from controls, and COMT polymorphisms are not specific to ME/CFS [#86, #273, #171, #259].",
+  "It is unclear whether these signatures are specific to ME/CFS or shared with other fatiguing illnesses. Studies report overlap with long COVID and other conditions, but also CSF proteomes that differ from post-Lyme syndrome and little genetic overlap with COVID-19 [#5, #22, #65, #214].",
+  "Diagnostic techniques report very high accuracy, sometimes perfect classification, but in small samples, without a stated sample size or without external validation [#20, #48, #140, #445].",
+  "Methylation and microarray studies agree poorly at the level of individual sites or genes, which is put down to differences in platform and cohort and to the methylome's variability over time [#16, #194, #218]."
+ ],
+ "lagunas": [
+  "Large cohorts and independent replication are missing. Pilots with four to twenty patients are common, and several studies do not report their sample size [#91, #218, #391, #146].",
+  "Few studies include disease controls or longitudinal designs, which are needed to assess specificity, change over time and causality [#532, #285, #192].",
+  "Omic findings still need to be linked to biological function through multi-omic integration, experimental validation and studies of whether epigenetic marks are reversible [#517, #262, #269].",
+  "Clinical heterogeneity, sex, severity and the definition of PEM call for strict, standardized phenotyping so that homogeneous subgroups can be analysed [#260, #305, #502, #326].",
+  "Large genetic studies and data sharing are only just starting: large-scale GWAS and data portals have not yet produced established results [#556, #574, #312]."
+ ]
+}

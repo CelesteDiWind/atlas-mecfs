@@ -1,0 +1,109 @@
+{
+ "cluster": 4,
+ "resumen": "Este tema reúne 606 trabajos sobre cómo responde el organismo al esfuerzo y a la postura erguida en la EM/SFC. Combina cuatro sublíneas: el ejercicio y el malestar post-esfuerzo, la función autonómica, la intolerancia ortostática con POTS y el cerebro, con neuroimagen, flujo cerebral y cognición. Lo caracterizan la prueba de esfuerzo cardiopulmonar de dos días, la inclinación en camilla y la resonancia magnética. Crece con fuerza desde 2020 y se conecta cada vez más con la fibromialgia y el dolor.",
+ "sintesis": [
+  "La sublínea de ejercicio gira en torno a la prueba de esfuerzo cardiopulmonar (CPET) repetida en dos días consecutivos. En la muestra, las mujeres con SFC se parecían a los controles en la primera prueba, pero alcanzaban menos consumo de oxígeno y menos carga en la segunda [#1456]. Otro estudio con 22 pacientes registró descensos del VO2 pico del 13,8 % entre ambas pruebas [#1629]. Una cohorte posterior reunió a 84 pacientes y 71 controles sedentarios para traducir esos descensos a grados de discapacidad [#5899]. Existen una guía metodológica del protocolo [#3368] y una réplica en 25 varones [#3853]. En 2026 un estudio retrospectivo halló un patrón de recuperación fallida similar en COVID persistente [#6866].",
+  "El malestar post-esfuerzo (PEM) se estudia además como síntoma. Tras las dos pruebas máximas, los pacientes refirieron una media de 14 síntomas, frente a 4 en los controles [#4055]. En otro trabajo, ninguna paciente se recuperó por completo en 24 horas, mientras que sí lo hizo el 85 % de los controles [#112]. Los grupos focales y las encuestas describen agotamiento, dificultades cognitivas y molestias neuromusculares [#4150], y señalan el esfuerzo físico como el desencadenante más frecuente [#4293]. Un metaanálisis de 31 estudios halló un PEM 10,4 veces más probable en pacientes que en controles [#2763]. Los cuestionarios breves intentan medirlo sin prueba de esfuerzo [#3376, #6529].",
+  "La función autonómica y la intolerancia ortostática van de la mano en la muestra. Un metaanálisis de 64 artículos halló mayor frecuencia cardíaca en reposo y durante la inclinación en ME/CFS [#3756]. Un estudio con 68 pacientes y 68 controles describió más actividad simpática y menos parasimpática en reposo [#1078]. En el estudio MCAM, el 97 % de los participantes con ME/CFS tuvo algún síntoma autonómico [#6469]. La inclinación con Doppler en 429 pacientes mostró una caída del flujo cerebral del 26 %, frente al 7 % de los controles, incluso sin hipotensión ni taquicardia [#3852]. La caída también apareció en 19 pacientes graves con solo 20 grados de inclinación [#4046]. El POTS coexiste con el SFC en una parte de los casos [#749, #746].",
+  "El cerebro se estudia con resonancia, EEG y pruebas neuropsicológicas. Una revisión de 63 artículos recoge un reclutamiento adicional de áreas cerebrales en tareas cognitivas y anomalías del tronco encefálico, observadas por varios grupos [#4133]. Una resonancia de 25 pacientes y 25 controles ya vinculaba el volumen del tronco encefálico con la presión de pulso [#622]. La conectividad en reposo y la red neuronal por defecto aparecen alteradas [#2286, #3068]. Un metaanálisis de 65 estudios describió hipoactividad en la ínsula y el tálamo [#5584]. En cognición, un metaanálisis de 50 estudios halló déficits de atención, memoria y tiempo de reacción [#103].",
+  "El tema suma 606 trabajos y crece con el tiempo: 17 en 2010, 46 en 2020, 58 en 2025 y 86 en 2026, un año incompleto que llega solo hasta octubre. De ellos, 481 tratan de forma central de la EM/SFC, 36 de forma secundaria y 87 de forma solo periférica; 2 quedan inciertos. Las revistas más frecuentes son Journal of Translational Medicine (26) y Medicine & Science in Sports & Exercise (17). El tema dialoga más de lo esperable por azar con el de dolor, fibromialgia y síndromes funcionales (O/E 1,25) y menos con el de retrovirus XMRV (0,15). Su acoplamiento con el dolor sube de 0,069 en 2010-2012 a 0,473 en 2024-2026, mientras que las citas directas con el COVID persistente bajan de 2,312 a 0,844."
+ ],
+ "lineas": [
+  {
+   "titulo": "CPET de dos días y recuperación",
+   "texto": "La CPET repetida a las 24 horas ofrece una medida objetiva del PEM. Los pacientes rinden menos en la segunda prueba [#1456, #1629], también los varones [#3853] y los 84 pacientes de una cohorte mayor [#5899]. Un estudio de 2026 halló una recuperación fallida similar en COVID persistente [#6866]. La recuperación de la frecuencia cardíaca tras el esfuerzo fue menor en ME/CFS [#4698], y se propone la incompetencia cronotrópica como rasgo de la respuesta al esfuerzo [#3578].",
+   "papers": [1456, 1629, 3368, 3853, 5899, 6866, 4698, 3578]
+  },
+  {
+   "titulo": "Naturaleza y medida del PEM",
+   "texto": "Los estudios cualitativos describen el PEM tras esfuerzo físico, cognitivo y emocional [#3288, #4150]. Tras la CPET de dos días, los pacientes refieren más síntomas y durante más tiempo que los controles [#4055]. El aumento del dolor tras el ejercicio tiene un efecto pequeño a moderado (d de Hedges 0,42) en ME/CFS y fibromialgia [#4621]. Los cuestionarios DSQ intentan estandarizar la medida del PEM [#3376, #6529].",
+   "papers": [3288, 4150, 4293, 4055, 3376, 2763, 6529, 4621]
+  },
+  {
+   "titulo": "Variabilidad cardíaca y disautonomía",
+   "texto": "Las revisiones concluyen que la respuesta autonómica de los pacientes difiere de la de los controles [#1726, #3756]. Los estudios de variabilidad señalan menos actividad parasimpática [#1078] y una variabilidad menor asociada a más fatiga [#3914]. Un metaanálisis halló adrenalina elevada y mayor expresión de receptores adrenérgicos en sangre [#5963]. Una revisión de 196 artículos plantea la disfunción simpática como rasgo común con la fibromialgia, el intestino irritable y la cistitis intersticial [#1754].",
+   "papers": [1078, 3756, 3914, 6469, 5963, 1726, 1754, 6013]
+  },
+  {
+   "titulo": "Ortostatismo, POTS y flujo cerebral",
+   "texto": "La inclinación con Doppler extracraneal muestra caídas del flujo cerebral en ME/CFS [#3852], también en pacientes graves con 20 grados de inclinación [#4046]. Los pacientes con seudosíncope tuvieron una caída mayor, del 39 % frente al 25 % [#4755]. Los pacientes con POTS y SFC mostraron más taquicardia ortostática que los que no cumplían criterios de SFC [#746], y la inclinación empeoró su rendimiento en una tarea de memoria de trabajo [#749]. Una revisión sistemática de 118 artículos analiza el flujo cerebral en ME/CFS y en intolerancia ortostática [#6443].",
+   "papers": [3852, 4046, 4755, 6443, 749, 746, 3662, 4125]
+  },
+  {
+   "titulo": "Neuroimagen del SFC",
+   "texto": "Las revisiones identifican anomalías del tronco encefálico y un reclutamiento cortical adicional [#4133, #4703]. Los estudios de conectividad funcional hallan menor conectividad en redes frontoparietales y en la red neuronal por defecto [#2286, #3068]. Un grupo propone el acoplamiento neurovascular alterado como origen y lo evalúa con resonancia multimodal [#5021]. Un metaanálisis de 65 estudios añade la neuroinflamación como hipótesis [#5584].",
+   "papers": [622, 2286, 3068, 4133, 4004, 4703, 5584, 5021]
+  },
+  {
+   "titulo": "Cognición y niebla mental",
+   "texto": "Un metaanálisis de 50 estudios halló déficits moderados a grandes de velocidad de procesamiento y de memoria de trabajo [#103]. En 50 pacientes con esfuerzo validado, solo el tiempo de reacción estaba alterado [#1359]. Otro metaanálisis describe afectación de la memoria visuoespacial inmediata y de la lectura, y una atención poco eficiente [#4776]. La «niebla mental» se interpreta como la interacción de factores fisiológicos, cognitivos y perceptivos [#1255]. El estudio MCAM evaluó el efecto del ejercicio sobre la cognición en 426 participantes [#6009].",
+   "papers": [103, 1359, 4776, 3270, 6009, 1255, 1136]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "El PEM tras el esfuerzo distingue a los pacientes de los controles por la recuperación más lenta y el mayor número de síntomas [#112, #4055, #3265]. Aparece con esfuerzo físico, cognitivo y emocional [#3288].",
+   "papers": [112, 4055, 3265, 3288, 2763]
+  },
+  {
+   "texto": "Las revisiones coinciden en que la respuesta autonómica de los pacientes difiere de la de los controles [#1726, #3756, #1754], con mayor frecuencia cardíaca en reposo [#3756]. El estudio MCAM confirma una carga alta de síntomas autonómicos [#6469].",
+   "papers": [1726, 3756, 1754, 6469, 1078]
+  },
+  {
+   "texto": "La intolerancia ortostática es frecuente y los estudios con Doppler y inclinación muestran una caída del flujo cerebral [#3852, #4046, #6443]. Los mareos aparecen también en posición recostada [#3662].",
+   "papers": [3852, 4046, 6443, 3662, 6469]
+  },
+  {
+   "texto": "En cognición, varios estudios señalan lentitud del procesamiento de la información y fallos de atención [#103, #1359, #4776]. Una revisión indica que el esfuerzo insuficiente aparece solo en una minoría de los sujetos evaluados [#3270].",
+   "papers": [103, 1359, 4776, 3270, 6009]
+  },
+  {
+   "texto": "La neuroimagen apunta con frecuencia al tronco encefálico y a un reclutamiento cerebral adicional [#4133, #4703, #622].",
+   "papers": [4133, 4703, 622, 4004, 5584]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "El alcance del déficit cognitivo varía entre estudios. Un metaanálisis halló alteraciones de atención, memoria y tiempo de reacción [#103]. Otro estudio con esfuerzo validado solo halló lentitud de procesamiento, con atención y memoria comparables a las de los controles [#1359]. Un metaanálisis posterior indica que las funciones ejecutivas se afectan poco o nada [#4776]. Una revisión señala una discordancia entre los síntomas subjetivos y unos déficits objetivos inconsistentes [#3270].",
+   "papers": [103, 1359, 4776, 3270, 1255, 6009]
+  },
+  {
+   "texto": "El papel del flujo cerebral en la niebla mental se discute. Un estudio con 16 pacientes con SFC y POTS no halló diferencias de velocidad del flujo cerebral entre grupos ni relación con el rendimiento cognitivo [#749]. Los autores de un estudio con Doppler extracraneal señalan que las medidas indirectas con Doppler transcraneal apoyan la hipótesis de forma inconsistente [#3852]. Una revisión sistemática encontró reducción significativa del flujo en 12 de los artículos sobre ME/CFS [#6443].",
+   "papers": [749, 3852, 6443, 1255, 4046]
+  },
+  {
+   "texto": "La relación entre POTS e intolerancia ortostática no está resuelta. En 39 pacientes con SFC, la taquicardia ortostática no explicó los síntomas de intolerancia [#3662]. El flujo cerebral cayó incluso sin hipotensión ni taquicardia [#3852], y otro estudio halló incompetencia cronotrópica en pacientes sin POTS [#5337]. Un análisis del DSQ con 242 participantes indica que la intolerancia ortostática y el deterioro neurocognitivo se solapan [#4736].",
+   "papers": [3662, 3852, 5337, 746, 4736]
+  },
+  {
+   "texto": "Los resultados de variabilidad de la frecuencia cardíaca no coinciden. En 68 pacientes aumentó la actividad de baja frecuencia [#1078]. En 30 pacientes bajaron la baja frecuencia, la alta frecuencia y su cociente [#6013]. En 45 mujeres bajaron todos los parámetros salvo el cociente [#3914]. El metaanálisis halló un cociente más alto en reposo y recuerda que los resultados previos eran equívocos [#3756].",
+   "papers": [1078, 6013, 3914, 3756, 1726]
+  },
+  {
+   "texto": "Se discute cuánto de la respuesta anómala al esfuerzo es propia de la ME/CFS. Un trabajo previo indicó que, al controlar la condición física y la fibromialgia, la respuesta cardiorrespiratoria máxima no era anormal [#840]. Los estudios de dos días hallan diferencias en la segunda prueba [#1456, #5899]. El estudio MCAM comparó a los pacientes con y sin emparejamiento por condición aeróbica [#4808], y un metaanálisis describe resultados mixtos en la CPET [#3856].",
+   "papers": [840, 1456, 5899, 4808, 3856]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Las muestras de la CPET de dos días son pequeñas: 22 pacientes [#1629], 51 con solo 10 controles [#1456] y 25 varones [#3853]. El MCAM reunió 403 participantes en seis clínicas [#4808], y los estudios de dos días de la muestra no llegan a ese tamaño [#5899].",
+   "papers": [1629, 1456, 3853, 5899, 4808]
+  },
+  {
+   "texto": "La neuroimagen carece de replicación. La revisión de 63 artículos indica que se sabe poco sobre qué anomalías se reproducen [#4133]. Los estudios individuales usan 25 [#622], 19 [#2286] o 37 pacientes [#6230]. Los metaanálisis mezclan modalidades distintas, como resonancia, espectroscopia, EEG y PET [#5584].",
+   "papers": [4133, 622, 2286, 6230, 5584]
+  },
+  {
+   "texto": "Faltan estudios longitudinales y de subgrupos. Un seguimiento en dos momentos reunió a 38 participantes con COVID persistente o ME/CFS [#6967]. Un protocolo de 2026 propone subgrupos neuropsicofisiológicos que aún no tienen resultados [#7007]. En la muestra, un estudio relaciona la conectividad cerebral con la mejora tras terapia cognitivo-conductual [#5687].",
+   "papers": [6967, 7007, 5687, 4293]
+  },
+  {
+   "texto": "Hay pocos datos en poblaciones concretas. En la muestra, los adolescentes aparecen en un único estudio de cognición [#1136], los pacientes graves en 19 casos [#4046] y los varones en 25 casos de CPET [#3853]. Las comparaciones con COVID persistente y enfermedad de Lyme son recientes y transversales [#6183, #6729].",
+   "papers": [1136, 4046, 3853, 6183, 6729, 4712]
+  },
+  {
+   "texto": "La evidencia de tratamiento es escasa. Una revisión de 18 ensayos de fisioterapia halló solo uno con pacientes en los que el PEM era criterio obligatorio [#4297]. Los avances recientes son protocolos o marcos teóricos [#7051, #6759]. La revisión del tratamiento farmacológico señala pocos estudios clínicos [#6994].",
+   "papers": [4297, 7051, 6759, 6994, 5775]
+  }
+ ]
+}

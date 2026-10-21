@@ -1,0 +1,256 @@
+{
+ "cluster": 3,
+ "resumen": "Este tema reúne la medicina tradicional china (acupuntura, moxibustión, tuina, qigong y fórmulas herbales), otros tratamientos complementarios y modelos animales de «síndrome de fatiga crónica» inducido. De 495 trabajos, 247 se etiquetan como centrales para la EM/SFC y 104 como modelos animales. Dominan los ensayos pequeños o de calidad metodológica baja, con criterios diagnósticos a menudo sin detallar, y los roedores sometidos a natación forzada o estrés múltiple. Las revisiones sistemáticas favorecen estas terapias, pero con certeza baja.",
+ "sintesis": [
+  "El tema agrupa 495 trabajos, 317 de ellos con resumen. La palabra clave más frecuente es «chronic fatigue syndrome» (402), seguida de acupuntura (84), medicina tradicional china (78), estrés oxidativo (59) y moxibustión (37). Entre las revistas figuran títulos chinos de medicina tradicional, como Liaoning zhongyi zazhi (10) y Shanghai zhenjiu zazhi (9), junto con Evidence-based Complementary and Alternative Medicine (10) y Journal of Ethnopharmacology (7). La muestra de 80 trabajos combina ensayos clínicos con acupuntura, moxibustión, tuina, qigong y fórmulas herbales [#922, #2705, #3080, #1606, #1303], revisiones sistemáticas [#2865, #3672, #4646] y estudios con roedores [#423, #1814, #5341]. Una parte procede de revistas coreanas y chinas [#464, #925, #2214].",
+  "Los ensayos clínicos de la muestra suelen ser pequeños o medianos y miden la fatiga con escalas. Los controles son con frecuencia otro tratamiento activo, como la inyección de Shengmai [#478, #922], vitaminas, ATP y oryzanol [#902, #1303], o una lista de espera [#925, #1091]. Los resúmenes chinos informan a menudo «tasas de eficacia» globales: 88,89% en una serie sin grupo control [#459] y 96,2% frente a 83,3% en un ensayo con comparador farmacológico [#922]. Los ensayos más recientes usan escalas como la Fatigue Severity Scale [#2214, #4829] y el criterio CDC de 1994 [#6708]. Una revisión de 2010 señala la falta de estudios con muestras grandes y de un valor de eficacia reconocido [#52].",
+  "Los modelos animales suman 104 de los 495 trabajos del tema (21%). El diseño dominante induce fatiga con natación forzada diaria [#695, #2311, #6306, #7156, #6859], natación en agua fría [#916], natación exhaustiva con privación de sueño [#1643] o estrés múltiple combinado [#4290, #5768, #5341, #6845]. Solo dos estudios de la muestra usan estímulos inmunitarios: el antígeno de Brucella abortus [#423] y el poli-I:C [#1814]. Los desenlaces habituales son la inmovilidad, la actividad locomotora, el estrés oxidativo, el eje hipotálamo-hipófiso-adrenal y las citocinas del hipocampo [#916, #1643, #5768]. Estos estudios prueban extractos vegetales, polisacáridos o electroacupuntura. Los resúmenes consultados no describen medidas del malestar posesfuerzo.",
+  "«Síndrome de fatiga crónica» se usa aquí en un sentido más amplio que la EM/SFC de los criterios internacionales. Varios ensayos mezclan el síndrome con la fatiga crónica idiopática [#925, #2214], hablan de «enfermedad similar al SFC» [#1267, #1606, #2813] o incluyen a personas con fibromialgia [#4713, #5322]. Una revisión reciente de herbolaria tras la COVID-19 señala que los diagnósticos se basaron sobre todo en el CDC de 1994 [#6080]. Dos ensayos citan ese criterio de forma explícita [#2423, #6708]. Los modelos animales llaman «SFC» a la fatiga inducida por estrés, sin criterios clínicos [#695, #4290]. Fuera de la medicina china aparecen chocolate rico en polifenoles [#365], ginseng rojo [#4713, #4781], ayurveda [#6234, #6609] y medicina persa [#2946].",
+  "El tema publicó 37 trabajos en 2010 y 38 en 2012, bajó a 16 en 2019 y subió hasta 33 en 2024 y 33 en 2025. En 2026, con el año incompleto hasta octubre, suma 45. Según la etiqueta de relevancia, 247 de 495 trabajos (50%) tratan de forma central de la EM/SFC. Hay además 104 modelos animales, 89 periféricos, 37 secundarios, 13 de otro concepto y 5 inciertos. El tema dialoga más con «Fatiga, sueño, estrés y revisiones generales» (O/E 1,41) y menos con «Retrovirus XMRV» (O/E 0,51). Cita más a otros temas de lo que recibe (balance −1,9 frente a −0,7 esperado). Su acoplamiento con COVID persistente sube de 0,153 a 0,531 entre 2012-2014 y 2024-2026."
+ ],
+ "lineas": [
+  {
+   "titulo": "Acupuntura y moxibustión en ensayos",
+   "texto": "Los ensayos comparan acupuntura o moxibustión con lista de espera, fármacos o atención habitual. Un ensayo coreano de 150 participantes encontró una FSS menor con acupuntura corporal que con la atención habitual a las 5 semanas [#2214]. Otro, con 290 participantes, halló una mejora mayor de la fatiga al añadir moxibustión con jengibre a la acupuntura [#4829]. En un ensayo piloto de 45 participantes, la moxibustión redujo más la fatiga que la acupuntura [#2705].",
+   "papers": [
+    2214,
+    4829,
+    2705,
+    922,
+    478,
+    925,
+    1422
+   ]
+  },
+  {
+   "titulo": "Revisiones y metaanálisis de la MTC",
+   "texto": "Las síntesis agrupan decenas de ensayos, casi todos chinos. Una revisión incluyó 31 ensayos de acupuntura y moxibustión [#2865]. Otra halló un mayor porcentaje de respuesta con acupuntura que con acupuntura simulada (RR 2,08), con certeza baja [#3672]. Un metaanálisis de moxibustión con 15 estudios valoró la evidencia entre moderada y muy baja [#4646]. Una revisión de masaje reunió 32 ensayos y 2594 pacientes [#5831], y un metaanálisis en red de 2026 incluyó 29 estudios [#6824].",
+   "papers": [
+    2865,
+    3672,
+    4646,
+    5831,
+    6824,
+    6323,
+    2925
+   ]
+  },
+  {
+   "titulo": "Qigong, tuina y terapias corporales",
+   "texto": "Tres ensayos de qigong con 64, 137 y 150 participantes frente a lista de espera mejoraron la fatiga [#1091, #1267, #1606]. El qigong también aumentó la adiponectina en 108 mujeres con enfermedad similar al SFC [#2813]. El tuina abdominal superó a la acupuntura en la escala de fatiga FS-14 y en depresión en un ensayo de 80 participantes [#3080]. Un protocolo de 2025 compara qigong tuina con terapia cognitivo-conductual [#6194].",
+   "papers": [
+    1091,
+    1267,
+    1606,
+    2813,
+    3080,
+    6194,
+    6708,
+    783
+   ]
+  },
+  {
+   "titulo": "Fórmulas herbales y suplementos",
+   "texto": "Muchos ensayos chinos prueban fórmulas orales o aplicaciones sobre puntos de acupuntura frente a vitaminas, ATP o ungüento placebo [#457, #902, #1303]. Un ensayo doble ciego de 190 adultos con cistanche y ginkgo redujo las puntuaciones de fatiga física y mental [#4664]. Una revisión de ginseng en SFC solo halló dos estudios con 68 pacientes [#4781]. Un ensayo cruzado con ácido guanidinoacético en 21 mujeres no cambió el desenlace principal de fatiga [#2423].",
+   "papers": [
+    457,
+    902,
+    1303,
+    4664,
+    4781,
+    2423,
+    4713,
+    365
+   ]
+  },
+  {
+   "titulo": "Modelos animales de fatiga inducida",
+   "texto": "Roedores sometidos a natación forzada o estrés múltiple reciben extractos vegetales, fórmulas o electroacupuntura. Un hongo comestible mejoró la tolerancia al ejercicio y los marcadores antioxidantes en ratones [#3116]. El polisacárido de astrágalo modificó la microbiota intestinal y los ácidos grasos de cadena corta [#5341]. La electroacupuntura mejoró la memoria espacial y redujo NF-κB hipocampal en ratas [#4290, #5768]. Otros modelos usan antígeno bacteriano o poli-I:C [#423, #1814].",
+   "papers": [
+    3116,
+    5341,
+    4290,
+    5768,
+    423,
+    1814,
+    916,
+    1643
+   ]
+  },
+  {
+   "titulo": "Otras tradiciones y estilo de vida",
+   "texto": "Revisiones y casos describen ayurveda, medicina unani, medicina persa y naturopatía como opciones para la fatiga crónica [#5402, #6433, #2946, #5895]. Un caso clínico de ayurveda, dieta y yoga se presenta como éxito terapéutico en un solo paciente [#6234]. En atención primaria, un ensayo con nutrición, cronobiología y ejercicio incluye fibromialgia y SFC [#5322, #6073]. Una minirrevisión de 2026 propone medicina del estilo de vida para fibromialgia y EM/SFC [#7135].",
+   "papers": [
+    5402,
+    6433,
+    2946,
+    5895,
+    6234,
+    5322,
+    6073,
+    7135
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Las revisiones coinciden en que no existe un tratamiento específico para el síndrome y en que la medicina china se propone como terapia complementaria [#52, #3881, #4781].",
+   "papers": [
+    52,
+    3881,
+    4781,
+    5030,
+    6613
+   ]
+  },
+  {
+   "texto": "Los metaanálisis de acupuntura, moxibustión y masaje señalan una reducción de la fatiga frente a los controles [#3672, #4646, #5831, #6824].",
+   "papers": [
+    3672,
+    4646,
+    5831,
+    6824,
+    2925
+   ]
+  },
+  {
+   "texto": "Los efectos adversos descritos son escasos y leves: dos casos de hemorragia subcutánea leve en ensayos de acupuntura [#2925] y síntomas leves en dos estudios de moxibustión [#4646]. Un ensayo de 290 participantes no notificó eventos graves [#4829].",
+   "papers": [
+    2925,
+    4646,
+    4829
+   ]
+  },
+  {
+   "texto": "Los propios autores admiten una calidad metodológica limitada: baja en la mayoría de los estudios de acupuntura [#3672], con debilidades metodológicas [#6323] y evidencia de moderada a muy baja en moxibustión [#4646].",
+   "papers": [
+    3672,
+    6323,
+    4646,
+    4781
+   ]
+  },
+  {
+   "texto": "En los modelos animales, los estudios con extractos vegetales miden el estrés oxidativo (malondialdehído, superóxido dismutasa) como mecanismo diana [#695, #2311, #3116, #6306].",
+   "papers": [
+    695,
+    2311,
+    3116,
+    6306,
+    7156
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "La eficacia de la acupuntura sigue discutida. Un metaanálisis de 2025 la describe como motivo de debate intenso por resultados contradictorios [#6323]. Otra revisión halló beneficio frente a acupuntura simulada, pero con certeza baja [#3672]. Una tercera encontró alivio de fatiga y dolor frente a simulación, sin conclusiones sobre calidad de vida y estado de ánimo [#2925].",
+   "papers": [
+    6323,
+    3672,
+    2925,
+    2865,
+    3881
+   ]
+  },
+  {
+   "texto": "No hay acuerdo sobre qué modalidad es mejor. La moxibustión superó a la acupuntura en un ensayo pequeño [#2705] y en un metaanálisis (OR 4,58) con evidencia de calidad variable [#4646]. En el metaanálisis en red, la moxibustión destacó en fatiga global, el masaje en fatiga física y mental y las ventosas en el sueño [#6824]. Un protocolo de 2026 parte de que la moxibustión convencional tiene eficacia limitada [#6985].",
+   "papers": [
+    2705,
+    4646,
+    6824,
+    6985,
+    2214
+   ]
+  },
+  {
+   "texto": "El qigong da resultados desiguales según el desenlace. Reduce la fatiga y la depresión, pero en un ensayo no mejoró la ansiedad [#1267]. En otro, la puntuación global de sueño quedó en el límite (P = 0,064), con mejoras en calidad subjetiva y latencia [#1606]. Una revisión de ensayos complementarios halló efecto positivo para qigong y ninguno para la sanación a distancia [#783].",
+   "papers": [
+    1267,
+    1606,
+    1091,
+    783,
+    2813
+   ]
+  },
+  {
+   "texto": "Los suplementos dan señales mixtas. El chocolate rico en polifenoles mejoró la fatiga en 10 personas [#365]. El ácido guanidinoacético no cambió la fatiga general, aunque aumentó la creatina muscular y la fuerza [#2423]. El ginseng rojo mejoró la autopercepción en un estudio abierto [#4713], y una revisión no pudo extraer conclusiones firmes [#4781].",
+   "papers": [
+    365,
+    2423,
+    4713,
+    4781,
+    4664
+   ]
+  },
+  {
+   "texto": "Los modelos animales no se validan frente a la EM/SFC. Los autores admiten que faltaba un modelo aplicable [#423], y los diseños varían entre antígeno bacteriano [#423], poli-I:C [#1814] y estrés repetido [#4290]. Un trabajo describe la EM y el malestar posesfuerzo, pero induce la fatiga con natación forzada [#6306].",
+   "papers": [
+    423,
+    1814,
+    4290,
+    6306,
+    695
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Faltan ensayos con control simulado y doble ciego. Muchos usan lista de espera [#925, #1091], atención habitual sin ciego [#2214] o un comparador activo distinto de la intervención [#478, #922]. El ensayo con ungüento placebo es una excepción [#457]. Los protocolos de 2020 y 2021 prevén doble ciego con placebo [#3880, #4664].",
+   "papers": [
+    925,
+    1091,
+    2214,
+    478,
+    922,
+    457,
+    3880
+   ]
+  },
+  {
+   "texto": "Los criterios diagnósticos casi nunca se detallan y los resúmenes no describen exigir el malestar posesfuerzo. Aparecen el CDC de 1994 [#2423, #6708], la «enfermedad similar al SFC» [#1267] y la fatiga crónica idiopática [#2214]. No hay datos sobre subgrupos de EM/SFC según criterios internacionales.",
+   "papers": [
+    2423,
+    6708,
+    1267,
+    2214,
+    6080,
+    4713
+   ]
+  },
+  {
+   "texto": "Las muestras son pequeñas, el seguimiento es corto y falta replicación fuera de Asia. Hay estudios con 10 y 21 participantes [#365, #2423] y 45 participantes [#2705]. Los seguimientos llegan a 3 meses [#1606, #3080] o 12 semanas [#4829]. Las revisiones de herbolaria tras la COVID-19 incluyen solo estudios asiáticos [#6080].",
+   "papers": [
+    365,
+    2423,
+    2705,
+    1606,
+    3080,
+    4829,
+    6080
+   ]
+  },
+  {
+   "texto": "Los modelos animales carecen de validación frente a los rasgos clínicos de la EM/SFC. Los estudios de natación forzada miden inmovilidad y antioxidantes [#695, #2311, #6306, #7156, #6859], y los mecanismos de microbiota o autofagia no se comprueban en pacientes [#5341, #6845].",
+   "papers": [
+    695,
+    2311,
+    6306,
+    7156,
+    6859,
+    5341
+   ]
+  },
+  {
+   "texto": "Muchos protocolos aún no tienen resultados y las fórmulas carecen de estandarización [#3880, #6194, #6985, #5322]. Una revisión de moxibustión con tortas medicinales pide normalizar las recetas [#6691]. Dos registros duplicados de Zenodo resumen ensayos de tai chi y qigong con ayuda de una herramienta de IA [#6711, #6730].",
+   "papers": [
+    3880,
+    6194,
+    6985,
+    5322,
+    6691,
+    6711,
+    6730
+   ]
+  }
+ ]
+}

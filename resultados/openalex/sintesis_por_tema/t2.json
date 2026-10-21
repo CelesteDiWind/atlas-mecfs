@@ -1,0 +1,243 @@
+{
+ "cluster": 2,
+ "resumen": "Este tema reúne 1165 trabajos sobre la terapia cognitivo-conductual (TCC), el ejercicio gradual, el ensayo PACE, la guía NICE y la experiencia de pacientes y profesionales. La muestra combina ensayos y metaanálisis de eficacia, reanálisis críticos de PACE, estudios pediátricos y mucha investigación cualitativa. Lo caracteriza una controversia abierta sobre si estas terapias ayudan, cómo se midió su efecto y qué modelo de enfermedad las sustenta. Los testimonios de pacientes describen escepticismo y estigma en la atención sanitaria [#2716].",
+ "sintesis": [
+  "Una parte de la muestra evalúa la TCC y el ejercicio gradual como tratamientos. Un metaanálisis de 2011 halló efectos similares para el ejercicio gradual (g = 0,28) y la TCC (g = 0,33), con menor efecto de la TCC en atención primaria [#830]. Un ensayo comparó rehabilitación pragmática, escucha de apoyo y cuidados habituales en 296 pacientes de atención primaria [#207]. En un ensayo con 236 participantes, los autores informan mejoras de función física con TCC estándar frente a lista de espera [#4410]. Un reanálisis de tres ensayos indica que la TCC reduce la fatiga sin aumentar la actividad física medida por actigrafía [#102]. En la práctica clínica, el 37,5 % de los pacientes dejó de cumplir criterios de Oxford o CDC a los seis meses [#1831].",
+  "El ensayo PACE concentra el debate. Sus investigadores informaron recuperación en el 22 % de los participantes tras TCC y en el 22 % tras ejercicio gradual, frente al 8 % con terapia de ritmo adaptado y el 7 % con atención médica especializada sola [#1337]. Un reanálisis con los procedimientos del protocolo original concluyó que las tasas de recuperación eran bajas y no diferían entre grupos. Según ese reanálisis, los efectos significativos se limitaban casi por completo a medidas autoinformadas y no persistían más allá de dos años [#3204]. Sharpe y colegas respondieron que ni las críticas ni el reanálisis justifican cambiar las conclusiones [#3564]. Otros autores piden una revisión independiente [#2885] y sostienen que las encuestas de pacientes contradicen los resultados de PACE [#2916].",
+  "La guía NICE trasladó la controversia a la política clínica. El borrador de 2020 retiraba el ejercicio gradual y dejaba la TCC como apoyo para manejar síntomas, con base en la evidencia publicada y en informes de pacientes sobre falta de beneficio y daños [#4208]. Dirigentes médicos objetaron que la guía resta importancia al ejercicio y a la TCC [#4631]. Vink y colegas sostienen que los ensayos favorables tenían fallos graves de diseño [#4872]. Fink y colegas critican que la guía se apoye en el consenso de un grupo de especialistas y pacientes [#4881]. El Consorcio de Fatiga de Oslo propone que estos síndromes reflejan respuestas cerebrales a factores biológicos, psicológicos y sociales, y que la recuperación es posible [#5509]. Geraghty, en cambio, atribuye a ese modelo psiquiátrico un efecto negativo en el manejo médico [#4093].",
+  "La experiencia de pacientes, familias y profesionales ocupa buena parte de la muestra. Una metasíntesis de 21 estudios cualitativos describe médicos de atención primaria con escaso conocimiento y escepticismo, mientras que quienes diagnostican suelen usar un modelo multifactorial [#1727]. Blease y colegas aplican el concepto de injusticia epistémica a estos encuentros clínicos [#2716], y un estudio con cinco personas lo explora desde la perspectiva del paciente [#5812]. Otros trabajos describen estigma [#3583], vida con enfermedad grave [#4332] y diferencias de género en la prensa inglesa [#3612]. En pediatría, un estudio holandés estimó una prevalencia de 111 por 100 000 adolescentes, con un 45 % de ausencia escolar superior a la mitad del tiempo [#582]. En Inglaterra, clínicas escolares detectaron casos entre alumnos con absentismo [#418].",
+  "El tema reúne 1165 trabajos. De ellos, 915 son centrales para la EM/SFC, 97 secundarios, 144 periféricos, 6 inciertos y 3 de otro concepto. La producción anual oscila entre 45 y 98 trabajos: 65 en 2010, mínimo de 45 en 2014, máximo de 98 en 2016, 66 en 2025 y 62 en 2026 (año incompleto hasta octubre). Predominan Fatigue Biomedicine Health & Behavior (46), Journal of Psychosomatic Research (39) y Journal of Health Psychology (32). El tema dialoga más de lo esperable con Fatiga, sueño, estrés y revisiones generales (O/E 1,44) y con Dolor, fibromialgia y síndromes funcionales (1,36), y menos con Retrovirus XMRV (0,39) e Inmunidad, mitocondria y biomarcadores (0,49). Crecen los vínculos con COVID persistente [#6763, #6925] y con medicina tradicional china, mientras baja el acoplamiento con dolor y fibromialgia."
+ ],
+ "lineas": [
+  {
+   "titulo": "Eficacia de la TCC y el ejercicio gradual",
+   "texto": "Ensayos y metaanálisis comparan la TCC y el ejercicio gradual con listas de espera, cuidados habituales y otras terapias. Un metaanálisis halló efectos similares para ambas [#830], y un reanálisis indica que la TCC reduce la fatiga sin cambiar la actividad física [#102]. En consulta especializada, una cohorte de 995 pacientes recibió TCC en un entorno naturalista [#4142], y en rutina clínica el 18,3 % se recuperó por completo [#1831]. Los autores del ensayo noruego informan mejoras de función física y fatiga [#4410].",
+   "papers": [
+    830,
+    102,
+    4142,
+    1831,
+    4410,
+    207
+   ]
+  },
+  {
+   "titulo": "PACE y sus reanálisis",
+   "texto": "Los investigadores de PACE comunicaron que la TCC y el ejercicio gradual lograron más recuperación que el ritmo adaptado y la atención médica sola [#1337]. Un reanálisis con el protocolo original no halló diferencias significativas de recuperación entre grupos [#3204], y Sharpe y colegas rechazan sus conclusiones [#3564]. Dos comentarios en el Journal of Health Psychology cuestionan la metodología y el uso de las encuestas de pacientes [#2885, #2916].",
+   "papers": [
+    1337,
+    3204,
+    3564,
+    2885,
+    2916,
+    4872
+   ]
+  },
+  {
+   "titulo": "Guía NICE y recomendaciones clínicas",
+   "texto": "El borrador de NICE retiró el ejercicio gradual y redefinió la TCC como apoyo [#4208]. Dirigentes médicos y autores como Fink consideran que la guía subestima el ejercicio o se apoya en un consenso sesgado [#4631, #4881]. Vink y colegas defienden que la guía expuso fallos de los ensayos previos [#4872]. Una revisión de 2026 compara guías internacionales y encuentra el ritmo de actividad como concepto central [#6763].",
+   "papers": [
+    4208,
+    4631,
+    4872,
+    4881,
+    6763,
+    5509
+   ]
+  },
+  {
+   "titulo": "Experiencia de pacientes y profesionales",
+   "texto": "Estudios cualitativos documentan dificultad para obtener diagnóstico, escepticismo médico y estigma [#359, #1727, #3583]. Blease y colegas y Hunt y colegas leen estas experiencias como injusticia epistémica [#2716, #5812]. Una metasíntesis de 24 artículos con 389 pacientes identificó cuatro temas, entre ellos la dificultad diagnóstica [#6164]. Otro estudio entrevistó a 33 personas con recuperación parcial o total y describió tratamientos individualizados sin guía médica [#5561].",
+   "papers": [
+    359,
+    1727,
+    2716,
+    5812,
+    3583,
+    6164,
+    5561,
+    4332
+   ]
+  },
+  {
+   "titulo": "EM/SFC en niños y adolescentes",
+   "texto": "Un estudio holandés estimó prevalencia e incidencia en adolescentes [#582], y clínicas escolares inglesas identificaron casos no diagnosticados [#418]. Las cohortes de menores difieren de las adultas: los adultos tenían más discapacidad y fatiga y llevaban más tiempo enfermos [#2278]. Crawley señala que la mayoría mejora con tratamiento especializado [#3205], aunque un estudio cualitativo recuerda que al menos el 15 % no se recupera a los 12 meses [#4385]. Otros trabajos recogen los resultados que importan a niños, profesionales y docentes [#2287, #2812, #4295].",
+   "papers": [
+    582,
+    418,
+    2278,
+    3205,
+    4385,
+    2287,
+    2812,
+    4295
+   ]
+  },
+  {
+   "titulo": "Ritmo de actividad y autogestión",
+   "texto": "Un documento de consenso propone el ritmo de actividad para estabilizar la enfermedad y evitar el malestar posesfuerzo [#843]. Una revisión de alcance halló efectos incoherentes en rehabilitación y ritmo de actividad, y mejoría con TCC [#3858]. Estudios recientes exploran necesidades de autogestión [#6971, #6347], suplementos en 268 mujeres [#7009] y TCC de manejo del estrés por videoconferencia [#5706]. Una tesis revisa terapias de tercera ola en fatiga posviral [#6925].",
+   "papers": [
+    843,
+    3858,
+    6971,
+    6347,
+    7009,
+    5706,
+    6925
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Varios estudios cualitativos y revisiones de la muestra describen dificultades para obtener diagnóstico, escepticismo de parte de los médicos y estigma percibido por los pacientes [#359, #1727, #2716, #3583, #6164].",
+   "papers": [
+    359,
+    1727,
+    2716,
+    3583,
+    6164,
+    5812
+   ]
+  },
+  {
+   "texto": "Los trabajos coinciden en que la TCC no cura la enfermedad por sí sola. Solo una parte de los pacientes se recupera tras ella [#784, #1831], y las guías recientes la describen como apoyo y no como tratamiento de la enfermedad [#4208, #6763].",
+   "papers": [
+    784,
+    1831,
+    4208,
+    6763,
+    4881
+   ]
+  },
+  {
+   "texto": "Hay acuerdo en que la enfermedad es frecuente y discapacitante en jóvenes, con efectos en la escuela y la familia [#582, #2287, #3205, #2953].",
+   "papers": [
+    582,
+    2287,
+    3205,
+    2953,
+    418
+   ]
+  },
+  {
+   "texto": "Las revisiones recientes admiten que no hay tratamientos definitivamente eficaces y que las guías actuales recomiendan manejar síntomas y apoyar al paciente [#5156, #6925, #6763].",
+   "papers": [
+    5156,
+    6925,
+    6763,
+    3629
+   ]
+  },
+  {
+   "texto": "El ritmo de actividad es valorado en encuestas de pacientes y aparece como concepto central en las guías [#843, #6763].",
+   "papers": [
+    843,
+    6763,
+    2916,
+    4208
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Los resultados de PACE se interpretan de forma opuesta. Sus investigadores informan que la TCC y el ejercicio gradual duplican con creces la recuperación frente a otros brazos [#1337]. El reanálisis con el protocolo original halla tasas bajas y sin diferencias entre grupos [#3204], y Sharpe y colegas rechazan esa lectura [#3564].",
+   "papers": [
+    1337,
+    3204,
+    3564,
+    2885,
+    2916
+   ]
+  },
+  {
+   "texto": "Se discute si el ejercicio gradual beneficia o perjudica. Un metaanálisis le atribuye un efecto similar al de la TCC [#830] y una revisión reciente de cinco ensayos informa mejoras de función y fatiga [#5774]. Las encuestas de pacientes revisadas indican empeoramiento con este tratamiento [#2916], y NICE lo retiró [#4208]. La revisión de guías de 2026 lo ve con cautela cuando hay malestar posesfuerzo [#6763].",
+   "papers": [
+    830,
+    5774,
+    2916,
+    4208,
+    6763,
+    4872
+   ]
+  },
+  {
+   "texto": "Hay desacuerdo sobre el modelo de enfermedad. El Consorcio de Fatiga de Oslo propone un origen en respuestas cerebrales al estrés y una recuperación posible con activación gradual [#5509]. Geraghty y Vink y colegas sostienen que el modelo psiquiátrico distorsiona la práctica y la lectura de los ensayos [#4093, #4872]. Fink y colegas critican el peso de grupos asociados a la comunidad de pacientes en la guía [#4881].",
+   "papers": [
+    5509,
+    4093,
+    4872,
+    4881,
+    2716
+   ]
+  },
+  {
+   "texto": "Los metaanálisis recientes de la TCC no coinciden. Uno de 15 ensayos halló una reducción significativa de la fatiga (SMD = -0,44) [#7152]. Otro de 12 estudios, que excluyó cohortes con criterios de Oxford, no halló efecto significativo al analizar todas las formas de TCC juntas (p = 0,12) [#6556]. Una revisión de alcance describió dificultades para comparar los estudios [#3858].",
+   "papers": [
+    7152,
+    6556,
+    3858,
+    830
+   ]
+  },
+  {
+   "texto": "La guía NICE de 2021 recibe lecturas opuestas. Para Vink y colegas, expuso fallos de los ensayos [#4872]. Dirigentes médicos dicen que subestima el papel del ejercicio y la TCC [#4631], y Fink y colegas la ven condicionada por un consenso sesgado [#4881].",
+   "papers": [
+    4872,
+    4631,
+    4881,
+    4208,
+    6763
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Los criterios diagnósticos varían entre estudios (Oxford, CDC 1994, Canadá), y las revisiones señalan que esa heterogeneidad limita las conclusiones [#3629, #6556, #4410]. Pocos ensayos de la muestra estratifican por malestar posesfuerzo [#6763, #5706].",
+   "papers": [
+    3629,
+    6556,
+    4410,
+    6763,
+    5706
+   ]
+  },
+  {
+   "texto": "Las intervenciones nuevas se apoyan en pilotos o muestras pequeñas: un piloto de terapia basada en mindfulness con 35 participantes que terminaron el estudio [#784], un caso único de TCC para ansiedad por la salud [#2670] y una revisión de terapias de tercera ola con dos ensayos aleatorizados [#6925].",
+   "papers": [
+    784,
+    2670,
+    6925,
+    5706
+   ]
+  },
+  {
+   "texto": "Faltan datos de personas con enfermedad grave y de participación accesible: la investigación en esos casos se ve dificultada por la discapacidad [#4332, #7008], y los menores gravemente afectados tienen poca evidencia [#3629].",
+   "papers": [
+    4332,
+    7008,
+    3629,
+    6367
+   ]
+  },
+  {
+   "texto": "Los estudios cualitativos tienen muestras pequeñas o selectas, como cinco participantes [#5812, #6347] o 48 miembros de asociaciones de pacientes, 95,83 % mujeres [#6293]. Faltan réplicas en poblaciones más diversas.",
+   "papers": [
+    5812,
+    6347,
+    6293,
+    4332,
+    6164
+   ]
+  },
+  {
+   "texto": "El seguimiento de los ensayos es corto y el registro de efectos adversos es irregular: 52 semanas en el ensayo noruego [#4410], seis meses en la cohorte clínica [#1831] y efectos de PACE que no se mantenían a los dos años según su reanálisis [#3204]. Los metaanálisis recientes incluyen los efectos adversos como resultado secundario [#6556, #7152].",
+   "papers": [
+    4410,
+    1831,
+    3204,
+    6556,
+    7152
+   ]
+  }
+ ]
+}

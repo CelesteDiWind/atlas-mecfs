@@ -1,0 +1,109 @@
+{
+ "cluster": 6,
+ "resumen": "Este tema reúne 1353 trabajos sobre el núcleo biomédico de la EM/SFC: inmunidad (células NK, citocinas, autoanticuerpos), metabolismo y mitocondria, microbiota intestinal, biomarcadores y ómicas. La mayoría (934) se centra en la enfermedad, y el tema pasa de 38 trabajos en 2010 a 147 en 2025. En la muestra predominan los estudios de casos y controles pequeños y las revisiones. Los hallazgos más repetidos son la menor citotoxicidad NK y las alteraciones metabólicas. Ningún biomarcador diagnóstico está validado, y autoanticuerpos, citocinas y microbiota dan resultados desiguales.",
+ "sintesis": [
+  "La inmunidad celular domina la muestra. Brenu y colaboradores describieron, en 95 pacientes y 50 controles, una citotoxicidad reducida de las células NK y de los linfocitos T CD8, junto con más IL-10, IFN-γ y TNF-α [#639]. Una revisión sistemática de 17 estudios observacionales confirma que la citotoxicidad NK comprometida es un rasgo consistente, mientras que el fenotipo y los receptores siguen siendo equívocos [#3794]. Otros trabajos añaden alteraciones en subpoblaciones B, linfocitos T reguladores y neutrófilos [#1590], cambios en receptores de células NK y T según la gravedad [#2162] y menos células NK terminales con un perfil T menos maduro [#6614]. Un estudio de célula única, con cuatro pacientes y cuatro controles, apunta en la misma dirección [#5985].",
+  "Las citocinas y los autoanticuerpos ofrecen un panorama más difícil. Montoya y colaboradores encontraron 17 citocinas que aumentan de forma lineal con la gravedad, 13 de ellas proinflamatorias [#2989]. Hornig y colaboradores observaron que los casos tempranos muestran activación de citocinas pro y antiinflamatorias, y que los cambios se relacionan más con la duración de la enfermedad que con la gravedad [#2048]. Las revisiones sistemáticas concluyen que la evidencia no basta para usar las citocinas como índices diagnósticos independientes [#3679] y que la diferencia basal con la población sana sigue sin aclararse [#3729]. En autoinmunidad, una cohorte de 268 pacientes mostró anticuerpos elevados frente a receptores β2, M3 y M4 [#2265], pero un análisis posterior de 172 participantes no halló diferencias [#6237].",
+  "La línea metabólica describe un estado hipometabólico. Naviaux y colaboradores analizaron 612 metabolitos en 45 pacientes y 39 controles y hallaron anomalías en 20 rutas, con el 80 % de los metabolitos diagnósticos disminuidos [#2623]. En células mononucleares de sangre periférica, seis pacientes mostraron menor eficiencia de acoplamiento mitocondrial y cambios proteómicos centrados en la piruvato deshidrogenasa [#4496]. Otro estudio multimodal halló un cociente ATP/ADP reducido en células inmunitarias [#6614]. Tras el ejercicio, un análisis multiómico describió alteraciones del ciclo del ácido cítrico y de la beta-oxidación [#6464]. Una revisión advierte que el estrés oxidativo es casi invariable en estos trastornos, mientras que la disfunción mitocondrial es menos consistente en el SFC [#2104].",
+  "En microbiota, Giloteaux y colaboradores hallaron menor diversidad y más marcadores de translocación microbiana (LPS, LBP, sCD14) en 48 casos frente a 39 controles [#2551]. Una revisión de 11 estudios, con 553 pacientes y 480 controles, confirma menor diversidad alfa, aunque la falta de métodos estandarizados limita la comparación [#5743]. Entre las ómicas, la secuenciación de ARN en 10 pacientes neozelandeses señaló IL8 y NFKBIA, validados por qPCR [#3466], y 11 microARN circulantes discriminaron la EM/SFC de la fibromialgia con un modelo de aprendizaje automático [#5222]. Una revisión sistemática de 2023 concluye que ningún biomarcador diagnóstico está validado [#5352].",
+  "El tema suma 1353 trabajos, 889 con resumen. Crece de 38 en 2010 a 147 en 2025, y 2026 lleva 112 hasta octubre. Por relevancia, 934 son centrales para la EM/SFC, 107 secundarios, 295 periféricos, 9 inciertos, 3 de modelo animal y 5 de otro concepto. Dialoga más de lo esperable con el tema del retrovirus XMRV (O/E 2,0) y con COVID persistente (1,37), y menos con la terapia cognitivo-conductual y PACE (0,49) y con dolor y fibromialgia (0,66). La razón de citas directas con COVID persistente baja de 2,076 (2010-2012) a 0,762 (2024-2026), mientras las revisiones recientes sitúan la EM/SFC entre los síndromes postinfecciosos [#7077, #6917]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Células NK y linfocitos T",
+   "texto": "La citotoxicidad NK reducida es el hallazgo más repetido. Una revisión sistemática de 17 estudios observacionales la considera una característica consistente, mientras que fenotipo y receptores siguen siendo equívocos [#3794]. Brenu y colaboradores la describen en 95 pacientes frente a 50 controles [#639]. Otros estudios añaden alteraciones en linfocitos B, T reguladores y neutrófilos [#1590] y en receptores de células NK y T según la gravedad [#2162]. Un estudio de célula única con cuatro pacientes y cuatro controles muestra menor expresión de perforina y CD107a tras estimulación [#5985].",
+   "papers": [3794, 639, 1590, 2162, 5985, 6614, 6633, 1621]
+  },
+  {
+   "titulo": "Citocinas e inflamación sistémica",
+   "texto": "Montoya y colaboradores asocian 17 citocinas con la gravedad [#2989], y Hornig y colaboradores describen un perfil que cambia con la duración de la enfermedad [#2048]. IP-10 es el eje de otro estudio de 92 pacientes [#2880]. Tras el ejercicio, un análisis multiómico describe una respuesta innata exagerada a antígenos microbianos [#6464]. Un ensayo aleatorizado con Bifidobacterium infantis redujo PCR, TNF-α e IL-6 en 48 pacientes con SFC [#1467].",
+   "papers": [2989, 2048, 2880, 3679, 3729, 1467, 6464, 5794]
+  },
+  {
+   "titulo": "Autoanticuerpos y autoinmunidad",
+   "texto": "Löbel y colaboradores hallaron anticuerpos elevados frente a receptores β2, M3 y M4 en una cohorte de 268 pacientes, y los niveles descendieron tras la depleción prolongada de linfocitos B con rituximab [#2265]. Una revisión resume ensayos noruegos con beneficio clínico en cerca de la mitad de los pacientes [#3249]. Otro estudio de 188 personas propone los anticuerpos anti-β2 y anti-M4 como marcadores de progresión [#5621]. En Suecia, el líquido cefalorraquídeo definió inmunotipos distintos [#6312]. Un análisis de 172 participantes no confirmó las diferencias [#6237].",
+   "papers": [2265, 3249, 5621, 6237, 6312]
+  },
+  {
+   "titulo": "Metabolismo, mitocondria y estrés redox",
+   "texto": "Naviaux y colaboradores describieron 20 rutas alteradas, con predominio de metabolitos disminuidos [#2623]. Las células inmunitarias de los pacientes muestran menor acoplamiento mitocondrial [#4496] y menor cociente ATP/ADP [#6614]. Una revisión vincula el desequilibrio redox con la hipometabolia en la EM/SFC y en el COVID prolongado [#4557]. En UK Biobank, un modelo con nueve biomarcadores de RMN alcanzó un AUC de 0,83 [#6031].",
+   "papers": [2623, 4496, 6614, 4557, 6031, 6464, 2104, 3256]
+  },
+  {
+   "titulo": "Microbiota intestinal",
+   "texto": "Los estudios de 16S y de metagenómica describen menor diversidad y más translocación microbiana [#2551]. Los subgrupos definidos por el síndrome del intestino irritable separan los perfiles bacterianos [#2892]. Dos revisiones sistemáticas sintetizan siete estudios [#3441] y once estudios [#5743]. Las revisiones recientes plantean intervenir sobre el intestino con fines terapéuticos [#4629, #6665].",
+   "papers": [2551, 2892, 3441, 5743, 4629, 6665, 1467]
+  },
+  {
+   "titulo": "Biomarcadores, ómicas y genética",
+   "texto": "Una revisión sistemática de 2023 concluye que ningún biomarcador diagnóstico está validado [#5352]. Entre los candidatos, 11 microARN circulantes distinguen la EM/SFC de la fibromialgia [#5222], y el transcriptoma de células mononucleares señala IL8 y NFKBIA en 10 pacientes [#3466]. En genética, un análisis piloto de 383 participantes [#3649] y un estudio combinatorio en UK Biobank con 199 SNP en 14 genes [#5138] preceden a DecodeME, que recluta hasta 25 000 personas [#4957].",
+   "papers": [5352, 5222, 3466, 3649, 5138, 4957, 6909, 5951]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Ningún biomarcador diagnóstico está validado. Las revisiones coinciden en que el diagnóstico sigue siendo clínico y de exclusión [#5352, #3722, #4623].",
+   "papers": [5352, 3722, 4623, 3708, 1759, 6799]
+  },
+  {
+   "texto": "La citotoxicidad reducida de las células NK aparece de forma consistente en estudios de casos y controles [#3794, #639, #6633].",
+   "papers": [3794, 639, 6633, 5985, 6614]
+  },
+  {
+   "texto": "Las revisiones describen una alteración metabólica con rasgos hipometabólicos [#2623, #4557] y con estrés oxidativo casi invariable [#2104], que se resume como un fallo de la homeostasis energética [#3708].",
+   "papers": [2623, 4557, 2104, 6614, 6464, 3708]
+  },
+  {
+   "texto": "La heterogeneidad de los pacientes exige estratificar por subgrupos, duración o gravedad [#3708, #2892, #6312, #2048].",
+   "papers": [3708, 2892, 6312, 2048, 5253]
+  },
+  {
+   "texto": "La EM/SFC y el COVID persistente comparten alteraciones inmunitarias y redox [#4557, #6633, #5384].",
+   "papers": [4557, 6633, 5384, 7077, 4817]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Los autoanticuerpos frente a receptores adrenérgicos y muscarínicos aparecen elevados en una cohorte de 268 pacientes [#2265] y se proponen como marcadores de progresión [#5621]. Un análisis con 172 participantes y dos plataformas de alto rendimiento no halló diferencias, ni siquiera frente a los receptores acoplados a proteínas G [#6237]. La revisión sobre autoinmunidad pide más trabajo sobre su papel [#3249].",
+   "papers": [2265, 5621, 6237, 3249]
+  },
+  {
+   "texto": "El valor de las citocinas como marcadores sigue en discusión. Un estudio asocia 17 citocinas con la gravedad [#2989], pero las revisiones no hallan evidencia para su uso diagnóstico independiente [#3679] y consideran no resuelta la diferencia basal con los controles [#3729]. Los perfiles cambian además con la duración de la enfermedad [#2048], lo que complica la comparación.",
+   "papers": [2989, 3679, 3729, 2048, 2880]
+  },
+  {
+   "texto": "El papel de la persistencia viral divide a los autores. Una revisión sobre enterovirus concluye que los métodos previos no bastan para descartar una infección crónica [#4481], y otra sobre herpesvirus atribuye los resultados negativos a datos inconsistentes [#4321]. Un estudio de 200 pacientes halló infección activa en el 45 % [#5197], pero la revisión de EUROMENE subraya la falta de estudios grandes con grupos bien diseñados [#3385].",
+   "papers": [4481, 4321, 5197, 3385, 6644, 6896]
+  },
+  {
+   "texto": "Los resultados sobre microbiota dependen de los métodos y de las comorbilidades. Una revisión de 11 estudios señala la falta de métodos analíticos estandarizados [#5743]. Un estudio metagenómico indica que el síndrome del intestino irritable asociado separa los perfiles bacterianos [#2892], de modo que la comorbilidad puede influir en los resultados [#2551].",
+   "papers": [5743, 2892, 2551, 3441, 4629]
+  },
+  {
+   "texto": "Se discute si la EM/SFC es una entidad distinta de cuadros solapados. Once microARN discriminan la EM/SFC de la fibromialgia [#5222]. Otras revisiones agrupan estos cuadros como trastornos de bajo consumo energético [#6487] o dentro de los síndromes postinfecciosos [#7077]. Una revisión plantea que parte de los pacientes podrían tener un síndrome de respuesta inflamatoria crónica no reconocido [#6406].",
+   "papers": [5222, 6487, 7077, 6406, 6375]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Muchos hallazgos mecanísticos proceden de muestras muy pequeñas: seis pacientes en bioenergética [#4496], cuatro y cuatro en célula única [#5985], 10 y 10 en transcriptoma [#3466] y nueve pacientes en PET de neuroinflamación [#1738]. Un caso único con seguimiento longitudinal aporta detalle, pero no permite generalizar [#5794].",
+   "papers": [4496, 5985, 3466, 1738, 5794]
+  },
+  {
+   "texto": "Los estudios incluidos en las revisiones sistemáticas son observacionales de casos y controles [#3794, #3729], y los biomarcadores candidatos no se han validado [#5352]. Faltan réplicas independientes con métodos estandarizados, sobre todo en microbiota [#5743] y en autoanticuerpos [#6237].",
+   "papers": [3794, 3729, 5352, 5743, 6237]
+  },
+  {
+   "texto": "Faltan estudios longitudinales desde el inicio de la enfermedad. El perfil de citocinas cambia con la duración [#2048], y un modelo de estadios propone pasar de un estado hipermetabólico a uno hipometabólico [#4118] que requiere comprobación en cohortes seguidas en el tiempo. Los diseños antes y después del ejercicio son aún escasos [#6464].",
+   "papers": [2048, 4118, 6464, 5794, 1759]
+  },
+  {
+   "texto": "Falta validar los biomarcadores en cohortes prospectivas y por subgrupos. Un panel inflamatorio, inmunitario y de receptores espera validación en estudios prospectivos [#5621], y se propone una red de ensayos con criterios armonizados y fenotipado de biomarcadores [#5384].",
+   "papers": [5621, 5384, 6909, 6312, 5352]
+  },
+  {
+   "texto": "La genética carece aún de replicación: el análisis de 383 participantes es piloto [#3649], el estudio de UK Biobank usa un método combinatorio con cohortes de réplica propias [#5138] y DecodeME se describe aquí por su protocolo de reclutamiento [#4957].",
+   "papers": [3649, 5138, 4957, 6909, 7077]
+  }
+ ]
+}

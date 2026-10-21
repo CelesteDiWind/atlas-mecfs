@@ -1,0 +1,218 @@
+{
+ "cluster": 1,
+ "resumen": "This topic covers the episode of 2010 to 2012 in which the retrovirus XMRV was proposed as a cause of ME/CFS and then ruled out. The studies in the sample look for the virus in blood by PCR and serology, in cohorts from several countries, and do not find it. Other work traces the positive signals to contamination with mouse DNA and laboratory reagents, and this closes the debate. The episode left a methodological lesson on pathogen detection and a discussion on transfusion safety.",
+ "sintesis": [
+  "In October 2009, a US team reported the retrovirus XMRV in 67% of 101 patients with chronic fatigue syndrome and in 3.7% of 218 healthy controls [#231]. The virus had been described in prostate tumors in 2006 [#355, #367]. The authors held that PCR on unstimulated mononuclear cells is the least sensitive method, and they recommended combining several assays [#307]. They later said they had confirmed infection in 85% of the original 101 patients [#355]. The 2009 paper is not in the sample. Other work built on the hypothesis: a signature of ten cytokines and chemokines in XMRV-positive CFS patients [#732], virus-producing B cell lines from patients with lymphoma [#661], and inhibition of the virus in vitro by raltegravir [#181].",
+  "The replications came in 2010, and they were negative. A British group found no XMRV or MLV in 186 patients [#101]. Another study of two UK cohorts also found nothing by PCR, and serum neutralization showed cross-reactivity with other viruses [#128]. Similar results came from the Netherlands [#141], the United States [#266], China [#313], Germany [#392], Canada [#816] and Japan [#548]. Defenders of the finding objected to the selection of patients and controls [#231]. Teams then repeated the work with stricter criteria for post-exertional malaise [#531], with the original PCR [#546] and with samples from the first study [#614]. A blinded trial in nine laboratories, using samples from subjects previously found positive, could not detect the virus reproducibly [#757].",
+  "From 2010, several papers traced the positive signals to contamination. Mouse DNA in human samples produced XMRV-like sequences with a nested PCR of low specificity [#378]. A commercial RT-PCR kit contained RNA from a murine endogenous retrovirus [#376], and Taq polymerase carried traces of mouse DNA [#614]. A phylogenetic analysis of sequences from patients sampled 15 years apart pointed to contamination, not viral evolution [#723]. In 2012, plasma sequences from CFS patients behaved like endogenous MLVs, and the positive cultures matched contaminated cell lines [#979]. Science issued an expression of concern [#656], and the authors partially retracted their paper [#760]. The blinded analysis of 2012, which included the original investigators, found no association [#1152].",
+  "The topic holds 206 papers and concentrates almost all of its volume in two years: 58 in 2010, 102 in 2011 and 29 in 2012. Then come 6 in 2013 and 1 to 4 per year until 2018, plus a retrospective review from 2024 titled \"False Alarm\" [#5903]. By relevance, 77 papers are central and 19 secondary to ME/CFS, and 110 are peripheral. Many of these deal with XMRV in prostate cancer (64 papers carry that keyword) and are not in the sample, which holds 66 papers with abstracts. The topic looks inward: its openness index is -0.663, against 0.667 expected by chance. It talks more than expected with Immunity, mitochondria and biomarkers (O/E 2.0) and less with Exercise, autonomic system and brain (O/E 0.15). The analysis detects no trends.",
+  "The episode left practical marks. In the United Kingdom, the blood service permanently deferred donors with CFS from November 2010, and a letter discussed the safety of transplanting organs from these donors [#554]. One author described the decision as a case of acting under uncertainty [#561]. A later review concluded that XMRV was neither a marker nor a cause of prostate cancer or CFS [#2561]. The blinded analysis of 2012 called for strategies to evaluate molecular pathogen discoveries quickly [#1152]. A bioinformatic analysis from 2017 argues that the XMRV genome contains repeated sequences that make diagnostic PCR unreliable [#2926]. With the virus ruled out, a cerebrospinal fluid study concluded that other causes needed exploring [#517]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Proposal and defense of XMRV",
+   "texto": "A US team reported XMRV in 67% of 101 patients and 3.7% of 218 controls, and stated that it did not claim the virus caused the disease [#231]. The authors argued that combining PCR, culture and serology detects the virus better [#307, #355]. Reviews presented XMRV as a possible biomarker and therapeutic target [#267, #262].",
+   "papers": [
+    231,
+    307,
+    355,
+    267,
+    262,
+    732,
+    661
+   ]
+  },
+  {
+   "titulo": "Negative replications across countries",
+   "texto": "Cohorts from the United Kingdom [#101, #128], the Netherlands [#141], the United States [#266], China [#313] and Canada [#816] showed no XMRV in CFS patients. A Boston study added patients with HIV, rheumatoid arthritis and transplants, and found nothing there either [#339]. In Japan, serology found anti-Gag reactivity in a small fraction of cases, and all CFS patients tested negative for viral DNA [#548].",
+   "papers": [
+    101,
+    128,
+    141,
+    266,
+    313,
+    339,
+    816,
+    548
+   ]
+  },
+  {
+   "titulo": "Contaminated samples and reagents",
+   "texto": "Mouse DNA in human samples generated false XMRV-like sequences [#378]. A commercial RT-PCR kit [#376] and Taq polymerase [#614] supplied murine material. Another study detected MLV sequences in commercial reagents [#640]. Analysis of plasma from CFS patients pointed to endogenous mouse MLVs [#979].",
+   "papers": [
+    378,
+    376,
+    614,
+    640,
+    723,
+    979,
+    2561
+   ]
+  },
+  {
+   "titulo": "Blinded trials and serology",
+   "texto": "A blinded trial in nine laboratories did not reproduce detection of the virus [#757]. The original investigators took part in a blinded analysis of 147 patients and 146 controls and found neither XMRV nor polytropic MLV [#1152]. Serology with chemiluminescence immunoassays or multiplex arrays also found no specific antibodies [#404, #1104]. A prospective multicenter biobank reached the same conclusion [#1826].",
+   "papers": [
+    757,
+    1152,
+    404,
+    1104,
+    1826,
+    266,
+    128
+   ]
+  },
+  {
+   "titulo": "Origin of the virus and retraction",
+   "texto": "One review describes XMRV as the product of a recombination in a laboratory mouse around 1993, spread through cell lines derived from a tumor [#2561]. Another review cites Paprotka's work on its origin [#710]. Science issued an expression of concern [#656], and the authors partially retracted their study [#760]. BMJ reported the dismissal of the lead researcher and charges over the disappearance of laboratory material [#787, #824].",
+   "papers": [
+    2561,
+    710,
+    656,
+    760,
+    651,
+    5903,
+    787
+   ]
+  },
+  {
+   "titulo": "Blood, organs and antiretrovirals",
+   "texto": "Fear of transmission led to the exclusion of donors with CFS [#554, #561]. Raltegravir and other drugs inhibited XMRV in vitro [#181]. Later studies judged antiretroviral use in CFS unjustified [#614, #779].",
+   "papers": [
+    554,
+    561,
+    2561,
+    181,
+    614,
+    779,
+    757
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "In the sample, studies from at least eight countries found no XMRV or MLV in CFS patients: the United Kingdom [#101], the Netherlands [#141], the United States [#266], China [#313], Germany [#392], Canada [#816], Japan [#548] and Italy [#1015].",
+   "papers": [
+    101,
+    141,
+    266,
+    313,
+    392,
+    816,
+    548,
+    1015
+   ]
+  },
+  {
+   "texto": "Positive signals are explained by contamination with mouse DNA or with murine sequences present in reagents [#378, #376, #614, #640, #979].",
+   "papers": [
+    378,
+    376,
+    614,
+    640,
+    979
+   ]
+  },
+  {
+   "texto": "Serological reactivity was low and nonspecific. Sera showed cross-reactivity with other viruses [#128], and anti-Gag antibodies appeared in 1.6-3.0% of cases regardless of disease [#548]. In Spain, they also appeared in blood donors [#852].",
+   "papers": [
+    128,
+    548,
+    852,
+    1104
+   ]
+  },
+  {
+   "texto": "Blinded analyses and retrospective reviews conclude that XMRV is not associated with ME/CFS [#1152, #757]. Later reviews describe it as a false alarm caused by contamination [#5903, #2561].",
+   "papers": [
+    1152,
+    757,
+    5903,
+    2561
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "The original authors attributed the negative results to the selection of patients and controls [#231] and to the low sensitivity of PCR on unstimulated cells [#307]. They said they had confirmed infection in 85% of the original patients [#355]. Replications with the original PCR [#546], with strict criteria [#531] and with samples from the first study [#614] did not confirm it. One group detected weak signals in 15% of patients, with no difference from controls [#759]. A 2010 workshop concluded that the field was in \"a zone of chaos\" [#315].",
+   "papers": [
+    231,
+    307,
+    355,
+    546,
+    531,
+    614,
+    759,
+    315
+   ]
+  },
+  {
+   "texto": "Another group described polytropic MLV sequences in 86.5% of CFS patients [#354]. A phylogenetic analysis found that sequences from two time points were distinct endogenous retroviruses, which suggests contamination [#723]. An Italian study found two positives among 12 patients and none in controls, and noted that this contrasts with the claim of widespread contamination [#1094]. One review did not rule out a \"stealth\" infection that is hard to detect [#421].",
+   "papers": [
+    354,
+    723,
+    1094,
+    421,
+    979
+   ]
+  },
+  {
+   "texto": "Blood services deferred donors with CFS in the face of scientific uncertainty [#561, #554]. The multicenter blinded trial concluded that donor screening is not warranted [#757]. A later review analyzes the effect of this decision on the transfusion community [#2561].",
+   "papers": [
+    561,
+    757,
+    554,
+    2561
+   ]
+  },
+  {
+   "texto": "Raltegravir inhibited XMRV at submicromolar concentrations, and its authors proposed clinical trials if the virus proved causal [#181]. One review judged that approved drugs could be used, but that the evidence for XMRV in CFS was very weak [#367]. Other papers concluded that antiretroviral use in CFS was not justified [#614, #779].",
+   "papers": [
+    181,
+    367,
+    614,
+    779
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "The sample analyzes mostly blood. Only one study examined the cerebrospinal fluid of 43 patients [#517], and another examined brain tissue from people with encephalopathy [#1632]. Other designs relied on blood PCR alone, such as the study of monozygotic twins discordant for CFS [#801] or the one of 186 British patients [#101].",
+   "papers": [
+    517,
+    1632,
+    801,
+    101
+   ]
+  },
+  {
+   "texto": "Case definitions varied between studies. Some used broad criteria, and others required post-exertional malaise [#531]. Several worked with archived samples from the 1990s [#141, #759]. A prospective biobank with fresh samples arrived late [#1826].",
+   "papers": [
+    531,
+    141,
+    759,
+    1826,
+    101
+   ]
+  },
+  {
+   "texto": "Findings that grew out of the hypothesis, such as the cytokine signature [#732] and the XMRV-producing B cell lines [#661], have no independent replication in the sample. They are not reassessed after the virus was ruled out.",
+   "papers": [
+    732,
+    661,
+    355,
+    267
+   ]
+  },
+  {
+   "texto": "Detection standards for emerging pathogens are missing. The blinded analysis calls for strategies to evaluate such findings quickly [#1152], and XMRV PCR proved poorly specific [#2926]. With the virus ruled out, the sample offers no alternative etiology and suggests exploring other causes [#517].",
+   "papers": [
+    2926,
+    1152,
+    517,
+    801,
+    5903
+   ]
+  }
+ ]
+}

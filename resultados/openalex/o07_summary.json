@@ -1,0 +1,81 @@
+{
+ "2017-2019->2018-2020": {
+  "jaccard": 0.893,
+  "comunes": 981,
+  "perdidos": 0,
+  "nuevos": 117,
+  "jaccard_sin_covid": 0.895,
+  "comunes_sin_covid": 981,
+  "perdidos_sin_covid": 0,
+  "nuevos_sin_covid": 115
+ },
+ "2018-2020->2019-2021": {
+  "jaccard": 0.744,
+  "comunes": 1302,
+  "perdidos": 0,
+  "nuevos": 449,
+  "jaccard_sin_covid": 0.86,
+  "comunes_sin_covid": 1276,
+  "perdidos_sin_covid": 0,
+  "nuevos_sin_covid": 207
+ },
+ "2019-2021->2020-2022": {
+  "jaccard": 0.802,
+  "comunes": 1800,
+  "perdidos": 0,
+  "nuevos": 445,
+  "jaccard_sin_covid": 0.853,
+  "comunes_sin_covid": 1252,
+  "perdidos_sin_covid": 0,
+  "nuevos_sin_covid": 215
+ },
+ "2020-2022->2021-2023": {
+  "jaccard": 0.878,
+  "comunes": 1954,
+  "perdidos": 0,
+  "nuevos": 272,
+  "jaccard_sin_covid": 0.878,
+  "comunes_sin_covid": 882,
+  "perdidos_sin_covid": 0,
+  "nuevos_sin_covid": 122
+ },
+ "bootstrap": {
+  "transiciones": [
+   "2016-18->2017-19",
+   "2017-19->2018-20",
+   "2018-20->2019-21",
+   "2019-21->2020-22"
+  ],
+  "media": [
+   0.967,
+   0.905,
+   0.808,
+   0.842
+  ],
+  "ci95": [
+   [
+    0.901,
+    0.997
+   ],
+   [
+    0.787,
+    0.983
+   ],
+   [
+    0.652,
+    0.922
+   ],
+   [
+    0.7,
+    0.931
+   ]
+  ],
+  "diff_2018_20_vs_previas": -0.128,
+  "diff_ci95": [
+   -0.215,
+   -0.05
+  ],
+  "frac_lowest": 0.9
+ },
+ "papers_2010_11": 600
+}

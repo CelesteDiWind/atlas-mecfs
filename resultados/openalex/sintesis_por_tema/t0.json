@@ -1,0 +1,229 @@
+{
+ "cluster": 0,
+ "resumen": "El tema reúne 1536 trabajos sobre el diagnóstico clínico de la EM/SFC y su relación con la COVID persistente. En la muestra dominan las definiciones de caso, la epidemiología, las guías clínicas y la comparación entre ambas enfermedades. La producción se dispara desde 2021, cuando la pandemia lleva a medir cuántos pacientes con COVID persistente cumplen criterios de EM/SFC. Predominan las revisiones, los consensos y los estudios descriptivos. Los ensayos y los estudios mecanísticos son escasos.",
+ "sintesis": [
+  "El diagnóstico de la EM/SFC sigue sin prueba objetiva. Varias revisiones de la muestra lo describen como un diagnóstico clínico, basado en criterios y en la exclusión de otras enfermedades [#5973, #6536, #6634]. Una revisión sistemática identificó 20 definiciones de caso y 38 estudios de validación, pequeños y con debilidades metodológicas [#1702]. Otra contó 25 definiciones creadas desde 1986 [#4106]. Las definiciones no seleccionan a los mismos pacientes. En una muestra con diagnóstico de SFC, el 76% cumplía los criterios del Instituto de Medicina y el 44% los criterios de Londres revisados [#2780]. En Europa, cinco de 17 países informaron de guías nacionales de diagnóstico, y los criterios de Fukuda eran los más recomendados [#3817].",
+  "La epidemiología descrita en la muestra depende de la definición y del método de captación. En tres regiones de Inglaterra, la prevalencia mínima fue del 0,2% [#712]. Un registro noruego estimó una incidencia de 25,8 por 100 000 personas-año, con una relación mujer/hombre de 3,2 y dos picos de edad, uno entre los 10 y 19 años y otro entre los 30 y 39 [#1617]. Un metaanálisis de 46 estudios dio una prevalencia de 0,68% [#3949]. Los códigos diagnósticos no bastan para identificar casos: en un sistema sanitario integrado, solo el 15% de los casos codificados que se revisaron resultó confirmado o probable [#5906]. En una serie de 150 personas, el 64% refirió una infección en torno al inicio [#3526].",
+  "La COVID-19 reorienta el tema. Ya en 2020 una hipótesis anticipó un síndrome posviral parecido a la EM/SFC, a partir de lo observado tras el SARS [#4071, #553]. Una revisión sistemática halló que 25 de 29 síntomas conocidos de la EM/SFC aparecían en al menos un estudio de COVID persistente [#4420]. Las cifras de solapamiento varían mucho según el estudio. Una cohorte mexicana encontró un 13% con criterios del Instituto de Medicina a los seis meses [#4472]. Una clínica estadounidense halló un 43% [#5237]. Un metaanálisis de 13 estudios estimó un 51% (IC 95% 42-60) [#5971]. En 216 pacientes de rehabilitación, el fenotipo EM/SFC fue del 6,9% [#6816].",
+  "El tema crece con el tiempo. Pasa de 34 trabajos en 2010 a 80 en 2015 y 77 en 2020. En 2021 salta a 159 y en 2025 llega a 179. Los 127 de 2026 llegan solo hasta octubre. De los 1536 trabajos, 896 son centrales para la EM/SFC y 169 secundarios. Otros 434 la mencionan de forma periférica, 26 son inciertos, 9 usan otro concepto y 2 son modelos animales. El tema dialoga más de lo esperable con «Inmunidad, mitocondria y biomarcadores» (O/E 1,37) y con «Ejercicio, sistema autonómico y cerebro» (1,15). Dialoga menos con «Dolor, fibromialgia y síndromes funcionales» y con «Medicina tradicional china y tratamientos complementarios» (ambos 0,76). El acoplamiento con esta última sube de 0,153 en 2012-2014 a 0,531 en 2024-2026. Las citas directas hacia inmunidad bajan de 2,076 a 0,762, y hacia ejercicio, de 2,312 a 0,844.",
+  "Una parte de la muestra trata de la atención y de la carga de la enfermedad. Un consenso europeo de 22 países ofrece recomendaciones de diagnóstico y atención [#4440]. La guía NICE de 2021 reconoce el malestar posesfuerzo como síntoma central y permite diagnosticar a los 3 meses [#5124]. Un grupo de 21 clínicos resume la práctica recomendada [#4566]. Sobre la carga, una revisión de alcance recoge el impacto sanitario, social y económico [#6491], un registro australiano describe mala calidad de vida [#7015] y una revisión de la forma grave describe a pacientes encamados [#6721]. En el terreno terapéutico, un ensayo de fase II con rituximab en 30 pacientes dio respuesta en 10 de 15 frente a 2 de 15 con placebo [#792]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Criterios y definiciones de caso",
+   "texto": "Las revisiones comparan las definiciones disponibles y su validez. Una revisión sistemática no halló datos empíricos que mostraran que alguna definición identificara una condición neuroinmunológica específica [#1702]. Otra revisión recorre 25 definiciones desde 1986 [#4106]. Un estudio compara los criterios del Instituto de Medicina con los de Londres revisados [#2780], mientras que los criterios internacionales de consenso y el informe de 2015 proponen alternativas [#706, #2052].",
+   "papers": [
+    1702,
+    4106,
+    2780,
+    706,
+    2052,
+    1569,
+    3817,
+    5826
+   ]
+  },
+  {
+   "titulo": "Prevalencia, incidencia y registros",
+   "texto": "Las estimaciones cambian con la definición y la fuente. Un estudio en atención primaria inglesa dio una prevalencia mínima del 0,2% [#712]. Un registro noruego mostró dos picos de incidencia [#1617]. Un metaanálisis estimó un 0,68% [#3949] y una encuesta estadounidense encontró que el 20,7% de quienes alguna vez recibieron el diagnóstico dice que ya no lo tiene [#6891]. Un protocolo europeo busca reunir las cifras de prevalencia e incidencia del continente [#3366].",
+   "papers": [
+    712,
+    1617,
+    3949,
+    5906,
+    6891,
+    3366
+   ]
+  },
+  {
+   "titulo": "Solapamiento con COVID persistente",
+   "texto": "Varios estudios miden qué proporción de pacientes con COVID persistente cumple criterios de EM/SFC. La cifra va del 6,9% en rehabilitación ambulatoria [#6816] al 51% en un metaanálisis [#5971]. En una cohorte alemana, 19 de 42 pacientes cumplían los criterios canadienses de consenso [#5000]. Una revisión sistemática de síntomas [#4420] y un estudio mexicano de seguimiento [#4472] apuntan al mismo solapamiento clínico.",
+   "papers": [
+    6816,
+    5971,
+    5000,
+    4420,
+    4472,
+    5237,
+    4071,
+    4665
+   ]
+  },
+  {
+   "titulo": "Guías y manejo clínico",
+   "texto": "Un grupo de 21 clínicos resume las prácticas recomendadas [#4566], y el consenso EUROMENE hace lo propio para Europa [#4440]. La guía NICE de 2021 acepta el diagnóstico a los 3 meses [#5124] y otro artículo defiende su proceso de elaboración [#5741]. El consenso D-A-CH propone los criterios canadienses como base diagnóstica [#5826], y una revisión de Mayo Clinic ofrece un enfoque para el generalista [#5517].",
+   "papers": [
+    4566,
+    4440,
+    5124,
+    5741,
+    5826,
+    5517,
+    2319
+   ]
+  },
+  {
+   "titulo": "Carga y experiencia de pacientes",
+   "texto": "La calidad de vida se mide en cohortes y registros. Una encuesta danesa estimó la calidad de vida con el EQ-5D-3L en 105 pacientes [#2199], y un registro australiano describe mala salud y bienestar [#7015]. Una revisión de alcance resume la carga sanitaria, social y económica [#6491]. Un análisis cualitativo de 505 entradas de una lista conmemorativa describe negligencia sistémica [#6862], y una revisión describe la forma grave [#6721].",
+   "papers": [
+    2199,
+    7015,
+    6491,
+    6862,
+    6721,
+    154,
+    3912,
+    4533
+   ]
+  },
+  {
+   "titulo": "Mecanismos y tratamientos propuestos",
+   "texto": "Las revisiones discuten posibles causas biológicas de ambas enfermedades. Una revisa los factores biológicos que podrían sostener los síntomas de la COVID persistente, que pueden diferir entre pacientes [#4488]. Otra propone autoanticuerpos, disfunción endotelial y mitocondrial y un microbioma proinflamatorio [#6410]. En el plano terapéutico, el único ensayo controlado de la muestra evalúa rituximab [#792]. Otras revisiones discuten el desarrollo de fármacos y el reposicionamiento psicofarmacológico [#4323, #6792].",
+   "papers": [
+    4488,
+    6410,
+    792,
+    4323,
+    6792,
+    3747
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "La EM/SFC carece de biomarcador diagnóstico validado. El diagnóstico se basa en criterios clínicos y en excluir otras causas [#3676, #5973, #6634].",
+   "papers": [
+    3676,
+    5973,
+    6634,
+    6536,
+    5826
+   ]
+  },
+  {
+   "texto": "El malestar posesfuerzo se considera un síntoma central. Aparece como rasgo clave en guías y revisiones recientes [#5124, #5826, #6536].",
+   "papers": [
+    5124,
+    5826,
+    6536,
+    4566,
+    5719
+   ]
+  },
+  {
+   "texto": "Los síntomas de la EM/SFC y de la COVID persistente se parecen mucho. Revisiones y estudios clínicos señalan un solapamiento notable [#4420, #5367, #5971].",
+   "papers": [
+    4420,
+    5367,
+    5971,
+    4665,
+    5000
+   ]
+  },
+  {
+   "texto": "La enfermedad se diagnostica poco y se conoce poco entre los profesionales. Hasta el 91% de los pacientes estadounidenses seguiría sin diagnóstico, y los países europeos difieren en guías y práctica [#4566, #3817, #6010].",
+   "papers": [
+    4566,
+    3817,
+    6010,
+    6419,
+    5382
+   ]
+  },
+  {
+   "texto": "La enfermedad suele aparecer tras una infección y tiene un impacto grave en la calidad de vida [#3526, #2199, #6491].",
+   "papers": [
+    3526,
+    2199,
+    6491,
+    7015,
+    4071
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Los tratamientos de ejercicio gradual y de terapia cognitivo-conductual siguen discutidos. Una carta señala que las pruebas sobre daños del ejercicio gradual son insuficientes [#2319], y otra relata una recaída atribuida a él [#2321]. Un artículo clínico afirma que varias instituciones retiraron ambas intervenciones como tratamiento de elección [#4566], y los autores de un comentario defienden la guía NICE frente a críticas [#5741]. Una revisión reciente, en cambio, afirma que la terapia cognitivo-conductual ha tenido éxito [#6588].",
+   "papers": [
+    2319,
+    2321,
+    4566,
+    5741,
+    6588
+   ]
+  },
+  {
+   "texto": "No hay acuerdo sobre qué proporción de la COVID persistente es EM/SFC. Las cifras van del 6,9% [#6816] al 13% [#4472], 43% [#5237] y 51% [#5971]. Algunas revisiones tratan ambas como entidades que se solapan pero son distintas [#6588, #6612].",
+   "papers": [
+    6816,
+    4472,
+    5237,
+    5971,
+    6588,
+    6612
+   ]
+  },
+  {
+   "texto": "Se discute qué definición de caso usar. En una muestra, el 76% cumplía los criterios del Instituto de Medicina frente al 44% de los de Londres revisados [#2780]. Los criterios de Fukuda eran los más recomendados en las guías europeas [#3817], mientras que el consenso D-A-CH destaca los criterios canadienses [#5826]. La revisión sistemática no halló una definición que identificara una condición neuroinmunológica específica [#1702].",
+   "papers": [
+    2780,
+    3817,
+    5826,
+    1702,
+    4106
+   ]
+  },
+  {
+   "texto": "Las estimaciones de prevalencia no coinciden. Las cifras citadas van del 0,2% [#712] al 0,68% de un metaanálisis [#3949] y al 1,5% de adultos que alguna vez recibieron el diagnóstico en una encuesta estadounidense [#6891]. Los códigos CIE solos clasifican mal los casos [#5906].",
+   "papers": [
+    712,
+    3949,
+    6891,
+    5906,
+    2199
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Faltan estudios de validación de las definiciones de caso. La revisión sistemática encontró que ningún estudio evaluó con rigor la reproducibilidad ni la viabilidad de las definiciones [#1702], y la heterogeneidad de las muestras dificulta replicar hallazgos [#2780].",
+   "papers": [
+    1702,
+    2780,
+    4106,
+    1569
+   ]
+  },
+  {
+   "texto": "Faltan cohortes prospectivas largas y descripciones por fases de la enfermedad. Un marco de historia natural propone grandes cohortes prospectivas en cada fase [#4766]. Los estudios de COVID persistente de la muestra son pequeños o retrospectivos y miden a los seis meses [#4472, #5237, #6816].",
+   "papers": [
+    4766,
+    4472,
+    5237,
+    6816,
+    5000,
+    2825
+   ]
+  },
+  {
+   "texto": "Hay pocos ensayos terapéuticos en la muestra. El ensayo con rituximab incluyó 30 pacientes [#792], y varias revisiones señalan la ausencia de tratamientos eficaces [#4323, #6721]. La evidencia sobre daños de las terapias de ejercicio es insuficiente [#2319].",
+   "papers": [
+    792,
+    4323,
+    6721,
+    2319,
+    6634
+   ]
+  },
+  {
+   "texto": "La cobertura geográfica y clínica es desigual. La encuesta europea recibió respuestas de 17 países [#3817]. Los registros y cohortes de la muestra proceden de Noruega, Inglaterra y Australia [#1617, #712, #7015]. La investigación biomédica de las formas graves ha sido escasa [#6721].",
+   "papers": [
+    3817,
+    1617,
+    712,
+    7015,
+    6721
+   ]
+  }
+ ]
+}

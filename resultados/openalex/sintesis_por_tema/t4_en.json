@@ -1,0 +1,109 @@
+{
+ "cluster": 4,
+ "resumen": "This topic gathers 606 papers on how the body responds to exertion and upright posture in ME/CFS. It combines four strands: exercise and post-exertional malaise, autonomic function, orthostatic intolerance with POTS, and the brain, covering neuroimaging, cerebral blood flow and cognition. Two-day cardiopulmonary exercise testing, head-up tilt and MRI define it. Output has grown sharply since 2020, and the topic is increasingly tied to fibromyalgia and pain research.",
+ "sintesis": [
+  "The exercise strand centers on cardiopulmonary exercise testing (CPET) repeated on two consecutive days. In the sample, women with CFS looked like controls on the first test but reached lower oxygen consumption and workload on the second [#1456]. Another study of 22 patients recorded a 13.8% drop in peak VO2 between the two tests [#1629]. A later cohort of 84 patients and 71 sedentary controls tried to translate those drops into impairment levels [#5899]. A methods guide for the protocol [#3368] and a replication in 25 men [#3853] also exist. In 2026 a retrospective study found a similar pattern of failed recovery in long COVID [#6866].",
+  "Post-exertional malaise (PEM) is also studied as a symptom. After two maximal tests, patients reported an average of 14 symptoms against 4 in controls [#4055]. In another study, no patient recovered fully within 24 hours, while 85% of controls did [#112]. Focus groups and surveys describe exhaustion, cognitive difficulty and neuromuscular complaints [#4150], and name physical exertion as the most common trigger [#4293]. A meta-analysis of 31 studies found PEM 10.4 times more likely in patients than in controls [#2763]. Brief questionnaires try to measure it without an exercise test [#3376, #6529].",
+  "Autonomic function and orthostatic intolerance go together in the sample. A meta-analysis of 64 articles found higher heart rate at rest and during tilt in ME/CFS [#3756]. A study of 68 patients and 68 controls reported more sympathetic and less parasympathetic activity at rest [#1078]. In the MCAM study, 97% of participants with ME/CFS had at least one autonomic symptom [#6469]. Doppler tilt testing in 429 patients showed a 26% drop in cerebral blood flow, against 7% in controls, even without hypotension or tachycardia [#3852]. The drop also appeared in 19 severely ill patients at only 20 degrees of tilt [#4046]. POTS coexists with CFS in part of the cases [#749, #746].",
+  "The brain strand is studied with MRI, EEG and neuropsychological tests, and it is distinct from the autonomic work. A review of 63 articles reports extra brain recruitment during cognitive tasks and brainstem abnormalities, seen by several groups [#4133]. An MRI study of 25 patients and 25 controls already linked brainstem volume to pulse pressure [#622]. Resting-state connectivity and the default mode network look altered [#2286, #3068]. A meta-analysis of 65 studies described hypoactivity in the insula and thalamus [#5584]. On cognition, a meta-analysis of 50 studies found deficits in attention, memory and reaction time [#103].",
+  "The topic holds 606 papers and grows over time: 17 in 2010, 46 in 2020, 58 in 2025 and 86 in 2026, a year that is incomplete and runs only to October. Of these, 481 deal centrally with ME/CFS, 36 secondarily and 87 only peripherally; 2 remain uncertain. The most frequent journals are Journal of Translational Medicine (26) and Medicine & Science in Sports & Exercise (17). The topic talks to pain, fibromyalgia and functional syndromes more than chance predicts (O/E 1.25) and to the XMRV retrovirus topic less (0.15). Its coupling with pain rises from 0.069 in 2010-2012 to 0.473 in 2024-2026, while direct citations with long COVID fall from 2.312 to 0.844."
+ ],
+ "lineas": [
+  {
+   "titulo": "Two-day CPET and recovery",
+   "texto": "CPET repeated after 24 hours gives an objective measure of PEM. Patients perform worse on the second test [#1456, #1629], and so do men [#3853] and the 84 patients of a larger cohort [#5899]. A 2026 study found a similar failure to recover in long COVID [#6866]. Heart rate recovery after exercise was lower in ME/CFS [#4698], and chronotropic incompetence is proposed as a feature of the exercise response [#3578].",
+   "papers": [1456, 1629, 3368, 3853, 5899, 6866, 4698, 3578]
+  },
+  {
+   "titulo": "Nature and measurement of PEM",
+   "texto": "Qualitative studies describe PEM after physical, cognitive and emotional exertion [#3288, #4150]. After two-day CPET, patients report more symptoms for longer than controls [#4055]. The rise in pain after exercise shows a small to moderate effect (Hedges d 0.42) in ME/CFS and fibromyalgia [#4621]. DSQ questionnaires try to standardize how PEM is measured [#3376, #6529].",
+   "papers": [3288, 4150, 4293, 4055, 3376, 2763, 6529, 4621]
+  },
+  {
+   "titulo": "Heart rate variability and dysautonomia",
+   "texto": "Reviews conclude that patients' autonomic responses differ from those of controls [#1726, #3756]. Variability studies point to lower parasympathetic activity [#1078] and to lower variability linked to more fatigue [#3914]. A meta-analysis found raised adrenaline and higher adrenergic receptor expression in blood [#5963]. A review of 196 articles raises sympathetic dysfunction as a feature shared with fibromyalgia, irritable bowel syndrome and interstitial cystitis [#1754].",
+   "papers": [1078, 3756, 3914, 6469, 5963, 1726, 1754, 6013]
+  },
+  {
+   "titulo": "Orthostasis, POTS and cerebral blood flow",
+   "texto": "Tilt testing with extracranial Doppler shows drops in cerebral blood flow in ME/CFS [#3852], including in severely ill patients tilted to 20 degrees [#4046]. Patients with pseudosyncope had a larger drop, 39% against 25% [#4755]. Patients with POTS and CFS showed more orthostatic tachycardia than those who did not meet CFS criteria [#746], and tilt worsened their performance on a working-memory task [#749]. A systematic review of 118 articles examines cerebral blood flow in ME/CFS and in orthostatic intolerance [#6443].",
+   "papers": [3852, 4046, 4755, 6443, 749, 746, 3662, 4125]
+  },
+  {
+   "titulo": "Brain imaging in CFS",
+   "texto": "Reviews identify brainstem abnormalities and extra cortical recruitment [#4133, #4703]. Functional connectivity studies find lower connectivity in frontoparietal networks and in the default mode network [#2286, #3068]. One group proposes altered neurovascular coupling as the origin and tests it with multimodal MRI [#5021]. A meta-analysis of 65 studies adds neuroinflammation as a hypothesis [#5584].",
+   "papers": [622, 2286, 3068, 4133, 4004, 4703, 5584, 5021]
+  },
+  {
+   "titulo": "Cognition and brain fog",
+   "texto": "A meta-analysis of 50 studies found moderate to large deficits in processing speed and working memory [#103]. In 50 patients with validated effort, only reaction time was impaired [#1359]. Another meta-analysis describes poorer immediate visuospatial memory and reading speed, and inefficient attention [#4776]. 'Brain fog' is read as an interaction of physiological, cognitive and perceptual factors [#1255]. The MCAM study assessed the effect of exercise on cognition in 426 participants [#6009].",
+   "papers": [103, 1359, 4776, 3270, 6009, 1255, 1136]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "PEM after exertion sets patients apart from controls through slower recovery and a larger number of symptoms [#112, #4055, #3265]. It appears after physical, cognitive and emotional exertion [#3288].",
+   "papers": [112, 4055, 3265, 3288, 2763]
+  },
+  {
+   "texto": "Reviews agree that patients' autonomic responses differ from those of controls [#1726, #3756, #1754], with higher resting heart rate [#3756]. The MCAM study confirms a high burden of autonomic symptoms [#6469].",
+   "papers": [1726, 3756, 1754, 6469, 1078]
+  },
+  {
+   "texto": "Orthostatic intolerance is common, and Doppler studies with tilt show a drop in cerebral blood flow [#3852, #4046, #6443]. Dizziness also occurs while lying down [#3662].",
+   "papers": [3852, 4046, 6443, 3662, 6469]
+  },
+  {
+   "texto": "On cognition, several studies point to slowed information processing and attention failures [#103, #1359, #4776]. One review reports that poor effort appears in only a minority of the people tested [#3270].",
+   "papers": [103, 1359, 4776, 3270, 6009]
+  },
+  {
+   "texto": "Neuroimaging often points to the brainstem and to extra brain recruitment [#4133, #4703, #622].",
+   "papers": [4133, 4703, 622, 4004, 5584]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Studies disagree on how far the cognitive deficit extends. One meta-analysis found impaired attention, memory and reaction time [#103]. Another study with validated effort found only slowed processing, with attention and memory comparable to controls [#1359]. A later meta-analysis suggests executive functions are little or not affected [#4776]. A review notes a mismatch between subjective symptoms and inconsistent objective deficits [#3270].",
+   "papers": [103, 1359, 4776, 3270, 1255, 6009]
+  },
+  {
+   "texto": "The role of cerebral blood flow in brain fog is contested. A study of 16 patients with CFS and POTS found no difference in cerebral blood flow velocity between groups and no link to cognitive performance [#749]. The authors of an extracranial Doppler study note that indirect transcranial Doppler measures support the hypothesis inconsistently [#3852]. A systematic review found a significant flow reduction in 12 of the articles on ME/CFS [#6443].",
+   "papers": [749, 3852, 6443, 1255, 4046]
+  },
+  {
+   "texto": "The link between POTS and orthostatic intolerance remains unsettled. In 39 patients with CFS, orthostatic tachycardia did not explain intolerance symptoms [#3662]. Cerebral blood flow fell even without hypotension or tachycardia [#3852], and another study found chronotropic incompetence in patients without POTS [#5337]. A DSQ analysis of 242 participants indicates that orthostatic intolerance and neurocognitive impairment overlap [#4736].",
+   "papers": [3662, 3852, 5337, 746, 4736]
+  },
+  {
+   "texto": "Heart rate variability results do not agree. In 68 patients, low-frequency activity rose [#1078]. In 30 patients, low frequency, high frequency and their ratio all fell [#6013]. In 45 women, every parameter fell except the ratio [#3914]. The meta-analysis found a higher ratio at rest and notes that earlier results were equivocal [#3756].",
+   "papers": [1078, 6013, 3914, 3756, 1726]
+  },
+  {
+   "texto": "Researchers dispute how much of the abnormal exercise response belongs to ME/CFS itself. An earlier study reported that, once aerobic fitness and fibromyalgia were controlled, the maximal cardiorespiratory response was not abnormal [#840]. Two-day studies find differences on the second test [#1456, #5899]. The MCAM study compared patients with and without matching for aerobic fitness [#4808], and a meta-analysis describes mixed CPET results [#3856].",
+   "papers": [840, 1456, 5899, 4808, 3856]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Samples for two-day CPET are small: 22 patients [#1629], 51 with only 10 controls [#1456] and 25 men [#3853]. The MCAM study enrolled 403 participants at six clinics [#4808], and the two-day studies in the sample do not reach that size [#5899].",
+   "papers": [1629, 1456, 3853, 5899, 4808]
+  },
+  {
+   "texto": "Neuroimaging lacks replication. The review of 63 articles says little is known about which abnormalities reproduce [#4133]. Individual studies use 25 [#622], 19 [#2286] or 37 patients [#6230]. Meta-analyses mix different modalities, such as MRI, spectroscopy, EEG and PET [#5584].",
+   "papers": [4133, 622, 2286, 6230, 5584]
+  },
+  {
+   "texto": "Longitudinal and subgroup studies are missing. A two-timepoint follow-up included 38 participants with long COVID or ME/CFS [#6967]. A 2026 protocol proposes neuropsychophysiological subgroups that have no results yet [#7007]. In the sample, one study links brain connectivity to improvement after cognitive behavioral therapy [#5687].",
+   "papers": [6967, 7007, 5687, 4293]
+  },
+  {
+   "texto": "Data on specific populations are scarce. In the sample, adolescents appear in a single cognition study [#1136], severely ill patients in 19 cases [#4046] and men in 25 CPET cases [#3853]. Comparisons with long COVID and Lyme disease are recent and cross-sectional [#6183, #6729].",
+   "papers": [1136, 4046, 3853, 6183, 6729, 4712]
+  },
+  {
+   "texto": "Treatment evidence is thin. A review of 18 physiotherapy trials found only one in patients for whom PEM was a required criterion [#4297]. Recent advances are protocols or theoretical frameworks [#7051, #6759]. The review of drug treatment notes few clinical studies [#6994].",
+   "papers": [4297, 7051, 6759, 6994, 5775]
+  }
+ ]
+}

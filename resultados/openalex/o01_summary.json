@@ -1,0 +1,11 @@
+{
+ "n": 7245,
+ "calls": 44,
+ "missing": [],
+ "core": 4514,
+ "with_refs": 5266,
+ "with_abstract": 5544,
+ "manual_in": 484,
+ "manual_total": 558,
+ "english": 6610
+}

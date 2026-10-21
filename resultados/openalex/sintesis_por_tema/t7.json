@@ -1,0 +1,109 @@
+{
+ "cluster": 7,
+ "resumen": "Este tema reúne 1187 trabajos sobre fatiga, sueño, estrés y revisiones generales del síndrome de fatiga crónica. Combina revisiones clínicas, estudios de la fatiga como síntoma en atención primaria, trabajos sobre el eje del estrés y el sueño, encuestas en poblaciones concretas y ensayos de ejercicio, terapia cognitivo-conductual y suplementos. Mezcla la fatiga crónica inespecífica con la EM/SFC como enfermedad y depende de definiciones diagnósticas muy heterogéneas. Funciona como punto de encuentro con casi todos los demás temas del corpus.",
+ "sintesis": [
+  "Una parte grande de la muestra son revisiones generales del síndrome de fatiga crónica. Van desde artículos de actualización hasta manuales clínicos, fichas de enfermería y revisiones narrativas de revistas regionales [#408, #1613, #2547, #4493, #4590, #3968]. Casi todas repiten el mismo esquema: fatiga de seis meses o más, diagnóstico por exclusión, etiología desconocida y tratamiento sintomático [#1185, #1280, #5512]. Varias enumeran factores etiológicos muy diversos, como genéticos, inmunitarios, infecciosos, endocrinos y neuropsiquiátricos [#408, #761, #64]. Las revisiones más recientes añaden la posible relación con la COVID persistente y el peso del malestar post-esfuerzo [#5411, #4590]. Muchas se dirigen a psiquiatras, médicos de familia o enfermeras, lo que explica su carácter divulgativo [#868, #6492, #6908].",
+  "El segundo bloque trata la fatiga como síntoma y la separa de la EM/SFC como enfermedad. Una revisión sistemática de atención primaria con 26 estudios estima una prevalencia de depresión del 18,5 % entre las personas con cansancio y de enfermedad somática grave del 4,3 %. No pudo agrupar los datos del síndrome de fatiga crónica [#2678]. Una guía de evaluación clasifica la fatiga en fisiológica, secundaria y crónica, y reserva la EM/SFC para un subgrupo definido por el malestar post-esfuerzo [#5411]. Otros trabajos distinguen la fatiga o la astenia del síndrome [#5830, #4731, #1248] y comparan la fatiga entre enfermedades físicas y mentales [#7146]. El cuestionario de Chalder nació para el síndrome, pero hoy mide el cansancio en población clínica y no clínica [#1941].",
+  "Los estudios de mecanismos se centran en el estrés, el eje hipotálamo-hipófiso-suprarrenal (HPA) y el sueño. Una revisión describe hipoactividad del eje HPA, hiperactividad simpática y bajo tono vagal en la fatiga crónica [#218]. Otra recoge hipocortisolismo basal y menor variación diurna, y no puede establecer si la alteración es causa o consecuencia [#1529]. Un metanálisis parcial halló una respuesta de despertar del cortisol atenuada en el síndrome (d = -0,34), sin diferencias en otros marcadores [#1479]. En el sueño, la queja subjetiva es frecuente, pero los registros objetivos no muestran un patrón consistente [#1813, #4436]. Otros estudios exploran la genética, los telómeros y un modelo de fatiga persistente inducida por interferón alfa [#1911, #3194, #3454].",
+  "Las intervenciones forman otro bloque numeroso. Las revisiones presentan la terapia cognitivo-conductual y el ejercicio graduado como las opciones con beneficio moderado [#1185, #2547]. Las revisiones Cochrane sobre ejercicio se basan en búsquedas hasta 2014 [#2896, #3765, #6065]. Una revisión de 56 ensayos aleatorizados con 6956 participantes encontró ocho intervenciones con significación estadística y ninguna con eficacia probada [#3915]. Crece la literatura sobre suplementos y nutracéuticos, con pocos estudios y alto riesgo de sesgo [#6161, #4342, #6374, #3412]. También aparecen el yoga isométrico, el masaje, la medicina complementaria y la medicina tradicional china [#1626, #6934, #146, #913].",
+  "El tema reúne 1187 trabajos entre 2010 y 2026. La producción baja de 108 trabajos en 2010 a un mínimo de 48 en 2022 y sube a 63 en 2025. En 2026 suma 41 hasta octubre. Según la etiqueta de relevancia, 884 trabajos (74 %) tratan de forma central la EM/SFC y 49 de forma secundaria. Otros 170 la tratan de forma periférica, 66 parten de otro concepto y 14 quedan inciertos, así que una parte apreciable habla de la fatiga en general y solo menciona la EM/SFC. El tema dialoga más de lo esperable con el retrovirus XMRV (O/E 1,52) y con la terapia cognitivo-conductual y PACE (1,44). Dialoga menos con la COVID persistente (0,80). El acoplamiento con dolor y fibromialgia cae de 0,966 a 0,423 entre 2010-2012 y 2024-2026, y el de inmunidad y biomarcadores sube de 0,47 a 0,695."
+ ],
+ "lineas": [
+  {
+   "titulo": "Revisiones generales y manuales clínicos",
+   "texto": "Las revisiones narrativas y los manuales resumen la definición, el diagnóstico y el manejo del síndrome. Coinciden en el diagnóstico por exclusión y en que la etiología sigue sin aclarar [#408, #1280, #4493]. Una revisión de 2016 concluye que ningún factor etiológico propuesto tiene evidencia sólida y reproducible [#2547]. Varias se dirigen a psiquiatras, médicos de familia o enfermería [#868, #6492, #6908].",
+   "papers": [408, 1280, 4493, 2547, 868, 6492, 6908, 4590]
+  },
+  {
+   "titulo": "Fatiga como síntoma inespecífico",
+   "texto": "Este grupo estudia la fatiga fuera del marco de la EM/SFC. Incluye el diagnóstico diferencial en atención primaria, donde la depresión pesa más que la enfermedad somática grave [#2678], y la evaluación clínica del paciente fatigado [#5411, #1248]. También incluye instrumentos de medida como el cuestionario de Chalder [#1941] y comparaciones de la fatiga entre siete cohortes clínicas [#7146]. Otros trabajos distinguen la fatiga mental del síndrome [#5830].",
+   "papers": [2678, 5411, 1248, 1941, 7146, 5830, 4731, 5611]
+  },
+  {
+   "titulo": "Estrés, cortisol, sueño y genética",
+   "texto": "Los estudios biológicos buscan mecanismos de la fatiga crónica. Una revisión vincula la fatiga con hipoactividad del eje HPA, desequilibrio autonómico y alteraciones inmunitarias [#218], y otra revisa la función de ese eje en el síndrome [#1529]. Un estudio de gemelos con 146 parejas estimó concordancias del 55 % en monocigóticos y del 19 % en dicigóticos para la fatiga crónica idiopática [#1911]. Un trabajo con interferón alfa propone un modelo de fatiga persistente inducida por inflamación [#3454].",
+   "papers": [218, 1529, 1479, 1813, 4436, 1911, 3194, 3454]
+  },
+  {
+   "titulo": "Epidemiología y factores de riesgo",
+   "texto": "Los estudios poblacionales y las encuestas estiman la frecuencia del síndrome y sus asociaciones. Un estudio con datos de Medicare asoció el síndrome con linfoma no hodgkiniano (OR 1,29) [#1067], y una cohorte taiwanesa asoció la atopía con mayor riesgo (HR 1,48) [#2191]. Las encuestas en profesores y estudiantes dan prevalencias del 12,9 % y del 33,8 % [#895, #6197]. En la cohorte LifeLines, las personas con síndrome mostraron menor actividad física [#3409].",
+   "papers": [1067, 2191, 895, 5191, 6197, 6747, 3409, 346]
+  },
+  {
+   "titulo": "Ensayos y revisiones de tratamiento",
+   "texto": "Esta línea evalúa terapias para el síndrome. Las revisiones Cochrane sobre ejercicio y una metarrevisión de 2025 examinan la rehabilitación con ejercicio [#2896, #3765, #6097]. Un ensayo aleatorizado con 30 pacientes resistentes a terapias convencionales probó el yoga isométrico [#1626]. Las revisiones de ensayos señalan que ninguna intervención está probada [#3915, #2794], y las de suplementos describen estudios heterogéneos con alto riesgo de sesgo [#6161].",
+   "papers": [2896, 3765, 6097, 1626, 3915, 2794, 6161, 6065]
+  },
+  {
+   "titulo": "Criterios, nomenclatura y subgrupos",
+   "texto": "Varios trabajos discuten cómo definir y nombrar la enfermedad. El Institute of Medicine recomendó un nuevo nombre y nuevos criterios [#2081]. Una propuesta plantea estratificar la fatiga crónica inexplicada en síndromes más específicos [#3123], y otra propone llamar al cuadro «trastorno inmunitario sistémico» [#2389]. Un análisis de concepto en enfermería cuenta más de 25 criterios diagnósticos desde 1988 [#6908], y una guía australiana de 2002 se marcó como desactualizada [#6496].",
+   "papers": [2081, 3123, 2389, 6908, 6496, 868]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Las revisiones coinciden en que no existe una prueba diagnóstica y en que el diagnóstico es clínico y de exclusión [#1185, #4493, #2794, #4342].",
+   "papers": [1185, 4493, 2794, 4342, 408]
+  },
+  {
+   "texto": "Los autores coinciden en que la etiología es desconocida y probablemente multifactorial [#2547, #408, #1613, #5936].",
+   "papers": [2547, 408, 1613, 5936, 5512]
+  },
+  {
+   "texto": "Ningún tratamiento específico tiene eficacia demostrada, y la evidencia procede de estudios heterogéneos o de calidad limitada [#3915, #2794, #4392, #6161].",
+   "papers": [3915, 2794, 4392, 6161, 1185]
+  },
+  {
+   "texto": "En atención primaria, la fatiga rara vez se explica por una enfermedad somática grave y se asocia con depresión y factores psicosociales [#2678, #5411, #218].",
+   "papers": [2678, 5411, 218, 1248]
+  },
+  {
+   "texto": "Las alteraciones del sueño son frecuentes en el síndrome según la queja de los pacientes [#1813, #4590, #4436].",
+   "papers": [1813, 4590, 4436, 1185]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "La utilidad de la terapia cognitivo-conductual y del ejercicio graduado sigue en discusión. Varias revisiones los presentan como opciones con eficacia moderada [#1185, #2547, #1613]. Otros autores los consideran ineficaces y ligados a una visión somatomorfa [#2389]. Una guía reciente advierte de que el ejercicio puede desencadenar malestar post-esfuerzo [#5411], y una metarrevisión de 2025 describe su eficacia como objeto de debate [#6097].",
+   "papers": [1185, 2547, 1613, 2389, 5411, 6097]
+  },
+  {
+   "texto": "El síndrome se interpreta unas veces con el modelo biopsicosocial y otras como un trastorno inmunitario u orgánico. El modelo biopsicosocial gana terreno sobre el biomédico en una revisión de 2016 [#2547]. Otra revisión señala que muchos psiquiatras lo consideran un trastorno puramente psicológico [#868]. Otros textos lo describen como trastorno inmunitario sistémico o enfermedad de origen inmunitario [#2389, #3123, #4731].",
+   "papers": [2547, 868, 2389, 3123, 4731, 1280]
+  },
+  {
+   "texto": "El papel del eje HPA es incierto. Una revisión no puede establecer si la disfunción endocrina es causa, consecuencia o epifenómeno [#1529]. El metanálisis de cortisol salival solo halló diferencias en el aumento del cortisol al despertar, y el cortisol total rara vez se asoció con la fatiga [#1479]. Otra revisión atribuye a la hipoactividad del eje un papel en el mantenimiento de la fatiga crónica [#218].",
+   "papers": [218, 1529, 1479]
+  },
+  {
+   "texto": "Los datos de sueño no coinciden entre medidas subjetivas y objetivas. La polisomnografía no muestra un patrón consistente, y la heterogeneidad de fenotipos y protocolos podría explicarlo [#1813]. En LifeLines, las personas con síndrome durmieron más que los controles, y la asociación lineal entre actividad, sueño y gravedad solo apareció en los controles [#3409]. Una revisión sistemática de 20 estudios observacionales evalúa estas medidas objetivas [#4436].",
+   "papers": [1813, 3409, 4436]
+  },
+  {
+   "texto": "La prevalencia varía mucho según el criterio y el método. Las revisiones citan rangos de 0,2 a 6,4 % [#2547], de 0,23 a 2,6 % [#1813] y un 0,89 % global [#6908]. Las encuestas dan cifras del 12,9 % en profesores [#895], del 27 % en mujeres de mediana edad atendidas en una policlínica [#1600] y del 33,8 % en estudiantes [#6197].",
+   "papers": [2547, 1813, 6908, 895, 1600, 6197]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Faltan biomarcadores validados y replicación independiente. Las revisiones señalan que no hay prueba diagnóstica ni tratamiento dirigido [#4342, #2794]. Los dos trabajos sobre telómeros de la muestra proceden del mismo estudio de vigilancia de Georgia [#2478, #3194], y la causalidad de la disfunción del eje HPA sigue sin establecerse [#1529].",
+   "papers": [4342, 2794, 2478, 3194, 1529]
+  },
+  {
+   "texto": "Faltan ensayos grandes y de buena calidad. Una revisión de suplementos incluye 14 estudios con 809 participantes y alto riesgo de sesgo [#6161]. Un ensayo de yoga reclutó a 30 pacientes [#1626]. Una revisión de ensayos clínicos pide estudios más robustos y mejores medidas de resultado [#5684], y la revisión Cochrane de ejercicio mantiene búsquedas de 2014 [#6065].",
+   "papers": [6161, 1626, 5684, 3915, 6065]
+  },
+  {
+   "texto": "Muchas encuestas identifican el síndrome con cuestionarios de autoevaluación sin confirmación clínica, y pocos estudios separan la EM/SFC de la fatiga inespecífica. Las encuestas en estudiantes usan cuestionarios en línea o autoadministrados [#6197, #5191, #6749]. El estudio de profesores añadió una evaluación posterior por médicos [#895]. La revisión de atención primaria no pudo agrupar los datos del síndrome [#2678], y la comparación entre cohortes clínicas es transversal [#7146].",
+   "papers": [6197, 5191, 6749, 895, 2678, 7146]
+  },
+  {
+   "texto": "Faltan estudios longitudinales y de mecanismo causal. Un seguimiento de 100 pacientes mostró que la gravedad de la fatiga se mantiene estable [#346]. Las cohortes poblacionales que asocian el síndrome con linfoma o atopía no aclaran el mecanismo [#1067, #2191]. Entre los trabajos leídos, el único modelo experimental es un modelo humano indirecto basado en interferón alfa [#3454].",
+   "papers": [346, 1067, 2191, 3454]
+  },
+  {
+   "texto": "Faltan datos en poblaciones específicas y en la fatiga posterior a la COVID. Una guía prevé que el síndrome sea más frecuente tras la pandemia [#5411]. Un estudio de aprendizaje automático con 3850 pacientes predice la fatiga posterior a la COVID, sin separarla de la EM/SFC [#6833]. En una revisión de 56 ensayos, solo 457 de los 6956 participantes eran adolescentes [#3915].",
+   "papers": [5411, 6833, 3915, 7146]
+  }
+ ]
+}

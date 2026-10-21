@@ -1,0 +1,218 @@
+{
+ "cluster": 1,
+ "resumen": "Este tema recoge el episodio de 2010 a 2012 en que el retrovirus XMRV se propuso como causa de la EM/SFC y se descartó. Los estudios de la muestra buscan el virus en sangre con PCR y serología, en cohortes de varios países, y no lo encuentran. Los trabajos que explican las señales positivas por contaminación con ADN de ratón y reactivos de laboratorio cierran el debate. El episodio dejó una lección metodológica sobre la detección de patógenos y una discusión sobre la seguridad de las transfusiones.",
+ "sintesis": [
+  "En octubre de 2009, un equipo estadounidense comunicó la presencia del retrovirus XMRV en el 67% de 101 pacientes con síndrome de fatiga crónica y en el 3,7% de 218 controles sanos [#231]. El virus se había descrito en 2006 en tumores de próstata [#355, #367]. Los autores sostuvieron que la PCR de células mononucleares sin estimular es el método menos sensible y recomendaron combinar varios ensayos [#307]. Más tarde afirmaron haber confirmado la infección en el 85% de los 101 pacientes iniciales [#355]. El artículo de 2009 no figura en la muestra. Otros trabajos desarrollaron la hipótesis: una firma de diez citocinas y quimiocinas en pacientes con SFC positivos para XMRV [#732], líneas de linfocitos B productoras de virus en pacientes con linfoma [#661] y la inhibición del virus in vitro por raltegravir [#181].",
+  "Las réplicas llegaron en 2010 y fueron negativas. Un grupo británico no halló XMRV ni MLV en 186 pacientes [#101]. Otro estudio con dos cohortes del Reino Unido tampoco lo detectó por PCR, y la neutralización sérica mostró reactividad cruzada con otros virus [#128]. Resultados semejantes surgieron en los Países Bajos [#141], Estados Unidos [#266], China [#313], Alemania [#392], Canadá [#816] y Japón [#548]. Los defensores del hallazgo objetaron la selección de pacientes y de controles [#231]. Los equipos repitieron entonces el trabajo con criterios más estrictos de malestar postesfuerzo [#531], con la PCR original [#546] y con muestras del estudio inicial [#614]. Un ensayo ciego en nueve laboratorios, con muestras de sujetos antes positivos, no detectó el virus de forma reproducible [#757].",
+  "Desde 2010 varios trabajos explicaron las señales positivas por contaminación. El ADN de ratón en muestras humanas produjo secuencias similares a XMRV con una PCR anidada poco específica [#378]. Un kit comercial de RT-PCR contenía ARN de un retrovirus endógeno murino [#376], y la polimerasa Taq contenía trazas de ADN de ratón [#614]. Un análisis filogenético de secuencias de pacientes muestreados con 15 años de diferencia indicó contaminación y no evolución viral [#723]. En 2012, las secuencias de plasma de pacientes con SFC se comportaron como MLV endógenos, y los cultivos positivos coincidieron con líneas celulares contaminadas [#979]. Science publicó una expresión de preocupación [#656] y los autores retractaron parcialmente su trabajo [#760]. El análisis ciego de 2012, con los investigadores originales, no mostró asociación [#1152].",
+  "El tema reúne 206 trabajos y concentra casi todo su volumen en dos años: 58 en 2010, 102 en 2011 y 29 en 2012. Después aparecen 6 en 2013 y de 1 a 4 por año hasta 2018, más una revisión retrospectiva de 2024 titulada «False Alarm» [#5903]. Según la relevancia, 77 trabajos son centrales y 19 secundarios para la EM/SFC, y 110 son periféricos. Muchos de estos tratan de XMRV en cáncer de próstata (64 trabajos llevan esa palabra clave) y no entran en la muestra, que reúne 66 trabajos con resumen. El tema mira hacia dentro: su índice de apertura es -0,663, frente a 0,667 esperable por azar. Dialoga más de lo esperable con Inmunidad, mitocondria y biomarcadores (O/E 2,0) y menos con Ejercicio, sistema autonómico y cerebro (O/E 0,15). El análisis no detecta tendencias.",
+  "El episodio dejó huellas prácticas. En el Reino Unido, el servicio de sangre excluyó de forma permanente a los donantes con SFC desde noviembre de 2010, y una carta discutió la seguridad del trasplante de órganos de estos donantes [#554]. Un autor describió la decisión como un caso de actuación bajo incertidumbre [#561]. Una revisión posterior concluyó que el XMRV no era marcador ni causa del cáncer de próstata ni del SFC [#2561]. El análisis ciego de 2012 pidió estrategias para evaluar con rapidez los descubrimientos de patógenos hechos con métodos moleculares [#1152]. Un análisis bioinformático de 2017 argumenta que el genoma del XMRV contiene secuencias repetidas que vuelven poco fiable la PCR diagnóstica [#2926]. Con el virus descartado, un estudio del líquido cefalorraquídeo concluyó que había que explorar otras causas [#517]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Propuesta y defensa del XMRV",
+   "texto": "Un equipo estadounidense comunicó XMRV en el 67% de 101 pacientes y en el 3,7% de 218 controles, y precisó que no afirmaba que el virus causara la enfermedad [#231]. Los autores defendieron que combinar PCR, cultivo y serología detecta mejor el virus [#307, #355]. Revisiones presentaron el XMRV como posible biomarcador y diana terapéutica [#267, #262].",
+   "papers": [
+    231,
+    307,
+    355,
+    267,
+    262,
+    732,
+    661
+   ]
+  },
+  {
+   "titulo": "Réplicas negativas en varios países",
+   "texto": "Cohortes del Reino Unido [#101, #128], los Países Bajos [#141], Estados Unidos [#266], China [#313] y Canadá [#816] no mostraron XMRV en pacientes con SFC. Un estudio de Boston añadió pacientes con VIH, artritis reumatoide y trasplantes, y tampoco lo halló [#339]. En Japón, la serología detectó reactividad anti-Gag en una fracción pequeña de casos, y todos los pacientes con SFC resultaron negativos para ADN viral [#548].",
+   "papers": [
+    101,
+    128,
+    141,
+    266,
+    313,
+    339,
+    816,
+    548
+   ]
+  },
+  {
+   "titulo": "Contaminación de muestras y reactivos",
+   "texto": "El ADN de ratón en muestras humanas generó falsas secuencias similares a XMRV [#378]. Un kit comercial de RT-PCR [#376] y la polimerasa Taq [#614] aportaron material murino. Otro trabajo detectó secuencias de MLV en reactivos comerciales [#640]. El análisis de plasma de pacientes con SFC apuntó a MLV endógenos de ratón [#979].",
+   "papers": [
+    378,
+    376,
+    614,
+    640,
+    723,
+    979,
+    2561
+   ]
+  },
+  {
+   "titulo": "Ensayos ciegos y serología",
+   "texto": "Un ensayo ciego en nueve laboratorios no reprodujo la detección del virus [#757]. Los investigadores originales participaron en un análisis ciego de 147 pacientes y 146 controles, y no hallaron XMRV ni MLV politrópico [#1152]. La serología con inmunoensayos de quimioluminiscencia o con matrices múltiples tampoco detectó anticuerpos específicos [#404, #1104]. Un biobanco prospectivo multicéntrico llegó a la misma conclusión [#1826].",
+   "papers": [
+    757,
+    1152,
+    404,
+    1104,
+    1826,
+    266,
+    128
+   ]
+  },
+  {
+   "titulo": "Origen del virus y retractación",
+   "texto": "Una revisión describe el XMRV como resultado de una recombinación en un ratón de laboratorio hacia 1993, difundida por líneas celulares derivadas de un tumor [#2561]. Otra revisión cita el trabajo de Paprotka sobre su origen [#710]. Science emitió una expresión de preocupación [#656] y los autores retractaron parcialmente su estudio [#760]. BMJ informó del despido de la investigadora principal y de cargos por la desaparición de material del laboratorio [#787, #824].",
+   "papers": [
+    2561,
+    710,
+    656,
+    760,
+    651,
+    5903,
+    787
+   ]
+  },
+  {
+   "titulo": "Sangre, órganos y antirretrovirales",
+   "texto": "El temor a la transmisión llevó a excluir a los donantes con SFC [#554, #561]. Raltegravir y otros fármacos inhibieron el XMRV in vitro [#181]. Estudios posteriores consideraron injustificado el uso de antirretrovirales en el SFC [#614, #779].",
+   "papers": [
+    554,
+    561,
+    2561,
+    181,
+    614,
+    779,
+    757
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "En la muestra, estudios de al menos ocho países no hallaron XMRV ni MLV en pacientes con SFC: Reino Unido [#101], Países Bajos [#141], Estados Unidos [#266], China [#313], Alemania [#392], Canadá [#816], Japón [#548] e Italia [#1015].",
+   "papers": [
+    101,
+    141,
+    266,
+    313,
+    392,
+    816,
+    548,
+    1015
+   ]
+  },
+  {
+   "texto": "Las señales positivas se explican por contaminación con ADN de ratón o con secuencias murinas presentes en reactivos [#378, #376, #614, #640, #979].",
+   "papers": [
+    378,
+    376,
+    614,
+    640,
+    979
+   ]
+  },
+  {
+   "texto": "La reactividad serológica fue baja e inespecífica. Los sueros mostraron reactividad cruzada con otros virus [#128], y los anticuerpos anti-Gag aparecieron en el 1,6-3,0% de los casos sin importar la enfermedad [#548]. En España, también aparecieron en donantes de sangre [#852].",
+   "papers": [
+    128,
+    548,
+    852,
+    1104
+   ]
+  },
+  {
+   "texto": "Los análisis ciegos y las revisiones retrospectivas concluyen que el XMRV no se asocia con la EM/SFC [#1152, #757]. Las revisiones posteriores lo describen como una falsa alarma causada por contaminación [#5903, #2561].",
+   "papers": [
+    1152,
+    757,
+    5903,
+    2561
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Los autores originales atribuyeron los resultados negativos a la selección de pacientes y de controles [#231] y a la baja sensibilidad de la PCR en células sin estimular [#307]. Afirmaron haber confirmado la infección en el 85% de los pacientes iniciales [#355]. Las réplicas con la PCR original [#546], con criterios estrictos [#531] y con muestras del estudio inicial [#614] no la confirmaron. Un grupo detectó señales débiles en el 15% de los pacientes, sin diferencia con los controles [#759]. Un taller de 2010 concluyó que el campo estaba en «una zona de caos» [#315].",
+   "papers": [
+    231,
+    307,
+    355,
+    546,
+    531,
+    614,
+    759,
+    315
+   ]
+  },
+  {
+   "texto": "Otro grupo describió secuencias de MLV politrópico en el 86,5% de los pacientes con SFC [#354]. Un análisis filogenético concluyó que las secuencias de dos momentos eran retrovirus endógenos distintos, lo que sugiere contaminación [#723]. Un estudio italiano halló dos positivos entre 12 pacientes y ninguno en los controles, y señaló que esto contrasta con la contaminación generalizada [#1094]. Una revisión no descartó una infección «sigilosa» difícil de detectar [#421].",
+   "papers": [
+    354,
+    723,
+    1094,
+    421,
+    979
+   ]
+  },
+  {
+   "texto": "Los bancos de sangre excluyeron a los donantes con SFC ante una incertidumbre científica [#561, #554]. El ensayo ciego multicéntrico concluyó que el cribado de donantes no está justificado [#757]. Una revisión posterior analiza el efecto de esta decisión sobre la comunidad transfusional [#2561].",
+   "papers": [
+    561,
+    757,
+    554,
+    2561
+   ]
+  },
+  {
+   "texto": "Raltegravir inhibió el XMRV a concentraciones submicromolares, y sus autores propusieron ensayos clínicos si el virus resultaba causal [#181]. Una revisión consideró que los fármacos aprobados podrían usarse, pero que la evidencia del XMRV en el SFC era muy débil [#367]. Otros trabajos concluyeron que el uso de antirretrovirales en el SFC no se justificaba [#614, #779].",
+   "papers": [
+    181,
+    367,
+    614,
+    779
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "La muestra analiza sobre todo sangre. Solo un estudio examinó el líquido cefalorraquídeo de 43 pacientes [#517] y otro, tejido cerebral de personas con encefalopatía [#1632]. Otros diseños se limitaron a PCR en sangre, como el de gemelos monocigóticos discordantes [#801] o el de 186 pacientes británicos [#101].",
+   "papers": [
+    517,
+    1632,
+    801,
+    101
+   ]
+  },
+  {
+   "texto": "Las definiciones de caso variaron entre estudios. Algunos usaron criterios amplios y otros exigieron malestar postesfuerzo [#531]. Varios trabajaron con muestras archivadas de los años noventa [#141, #759]. Un biobanco prospectivo con muestras frescas llegó tarde [#1826].",
+   "papers": [
+    531,
+    141,
+    759,
+    1826,
+    101
+   ]
+  },
+  {
+   "texto": "Los hallazgos derivados de la hipótesis, como la firma de citocinas [#732] y las líneas de linfocitos B con XMRV [#661], no tienen réplica independiente en la muestra. Tampoco se reevalúan después del descarte del virus.",
+   "papers": [
+    732,
+    661,
+    355,
+    267
+   ]
+  },
+  {
+   "texto": "Faltan estándares de detección para patógenos emergentes. El análisis ciego pide estrategias para evaluar estos hallazgos con rapidez [#1152], y la PCR del XMRV resultó poco específica [#2926]. Con el virus descartado, la muestra no ofrece una etiología alternativa y sugiere explorar otras causas [#517].",
+   "papers": [
+    2926,
+    1152,
+    517,
+    801,
+    5903
+   ]
+  }
+ ]
+}

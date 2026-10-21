@@ -1,0 +1,58 @@
+{
+ "cluster": 1,
+ "resumen": "These papers study exercise intolerance and post-exertional malaise (PEM) in ME/CFS, mostly through repeated cardiopulmonary exercise testing (CPET), descriptions of the symptom and work on its physiology. The key finding is that, unlike sedentary controls and people with other fatiguing conditions, patients cannot reproduce their performance on a second test and take a long time to recover [#460, #441, #430, #422]. PEM emerges as a core, measurable symptom, although it varies widely from person to person [#341, #133].",
+ "sintesis": [
+  "The 51 papers in this topic treat exercise intolerance and PEM as defining features of ME/CFS, with CPET as the main objective tool. Most are original studies; there are also systematic reviews and meta-analyses [#60, #341, #379, #430], narrative or methodological reviews [#115, #407], case reports, and care models or documents written for patients [#306, #377]. The earliest study subclassified CFS by level of disability using a single graded test [#507]. The two-day protocol became established from 2014 [#460], and since 2020 there has been more work on measuring the symptom, on recovery and on invasive physiology.",
+  "The strongest finding is that patients cannot repeat their performance on a second CPET 24 hours later. First shown in 22 patients [#460], it has been replicated in women and in men, in comparison with idiopathic chronic fatigue, which responds like healthy sedentary people [#170, #433, #482]; across levels of severity [#465]; and in the largest case-control study, with 84 patients and 71 controls [#441]. A meta-analysis of repeated tests finds the clearest effect in workload at the anaerobic threshold [#430], while some small studies find no between-group difference in the change in peak VO2 [#442, #209].",
+  "On mechanisms, several studies point to a peripheral and autonomic limitation rather than deconditioning. They report lower oxygen extraction despite high cardiac output [#203]; flow subtypes and signs of small-fibre neuropathy on invasive CPET [#302]; inefficient ventilation and higher perceived exertion that persist after matching for fitness [#116, #441]; and abnormal lactate build-up when exercise is repeated [#442]. Chronotropic intolerance, described as a consistent finding in one review [#60], did not appear in the large multicentre MCAM sample [#116]. Evidence on treatment is thin: a single randomized trial of pyridostigmine [#367] and one case treated with intravenous saline [#558].",
+  "As for the symptom itself, a meta-analysis estimates that PEM is 10.4 times more likely in ME/CFS than in controls, although the size of the effect depends on how patients and controls were recruited [#341]. Qualitative and mixed-methods studies describe highly individual trajectories that fixed rating scales capture poorly [#133, #4, #347]; the last two are versions of the same exploratory study of 10 patients. After a two-day CPET, recovery takes about 12.7 days, against 2.1 in controls [#422]. Orthostatic stress also triggers prolonged symptoms [#370], and pain is part of PEM, with a small to moderate effect [#379] linked to impaired endogenous pain inhibition [#473, #244]. A functional MRI study documents worse cognitive performance and changes in brain activity after submaximal exercise [#360]. Instruments have been developed with patient involvement [#526, #77, #560], along with brief screening rules based on two symptoms [#561, #571].",
+  "The applied work is weaker. The energy envelope theory [#230], pacing with a heart rate monitor [#555] and an adapted model of multimodal pain therapy [#306] rest on self-reported data or on untested proposals, and the warning against graded exercise therapy is inferred from recovery models [#422]. A low-intensity walking protocol found no clear abnormalities, which suggests that a more demanding stimulus is needed [#501].",
+  "Recurring limitations are small samples [#209, #432, #475], self-reported diagnosis [#201, #210] and the likely exclusion of the most severely ill patients from exercise testing [#210]. Measurement properties are also contested: one study finds CPET reliable and sensitive to change [#559], while another warns of measurement error and the risk of false positives [#393]. Several papers fit the topic poorly or are not directly about ME/CFS. They cover unexplained exercise intolerance in general [#108], Gulf War illness [#393], hypersomnolence [#553], a neuroendocrine case [#514], activity and sleep in a population cohort [#378], and psychological distress associated with PEM [#408]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Two-day CPET as an objective marker of PEM",
+   "texto": "Since 2014, studies have shown that people with ME/CFS do worse on VO2 and workload in a second CPET 24 hours later, unlike controls or people with idiopathic chronic fatigue or multiple sclerosis [#460, #170, #433, #475]. The finding holds in men, across severity levels and in the largest sample [#482, #465, #441], and a meta-analysis quantifies it, mainly in workload at the anaerobic threshold [#430]. Diagnostic cut-offs have been proposed from small samples [#209], along with methodological guidance [#115]."
+  },
+  {
+   "titulo": "Physiological mechanisms of exercise intolerance",
+   "texto": "Non-invasive and invasive CPET point to reduced peripheral oxygen extraction, vascular and autonomic dysregulation, inefficient ventilation and abnormal lactate build-up [#203, #302, #116, #442]. Whether the heart rate response is blunted remains debated [#60, #476, #507]. A pyridostigmine trial supports a neurovascular mechanism [#367]."
+  },
+  {
+   "titulo": "Characterizing and measuring PEM",
+   "texto": "PEM is confirmed as a core symptom [#341]. In patients' accounts its course is individual, typically starting within 24 hours and peaking around 72 hours [#133, #4, #347]. Studies measure its duration and recovery after standardized tests [#422, #571] and explore its factor structure and triggers such as orthostatic stress [#201, #370]."
+  },
+  {
+   "titulo": "Assessment tools developed with patients",
+   "texto": "PEM-specific questionnaires have been developed with input from the patient community [#526, #77], as has a questionnaire on affected activities with good psychometric properties [#560]. A clinical prediction rule based on two symptoms has also been proposed but not yet validated [#561]."
+  },
+  {
+   "titulo": "Pain, central processing and brain function after exertion",
+   "texto": "Exercise lowers pain thresholds in ME/CFS but raises them in controls [#473], and the change is moderately associated with complement activation [#244]. A three-level meta-analysis confirms pain as part of PEM, especially 8-72 hours after exercise [#379], and functional MRI shows cognitive and cortical changes after exercise [#360]."
+  },
+  {
+   "titulo": "Energy management, pacing and activity measures",
+   "texto": "Self-report studies support the energy envelope [#230] and pacing with a heart rate monitor [#555], and care models adapted to PEM have been proposed [#306, #377]. Combining peak VO2, questionnaires and activity monitors reveals large individual differences [#392], and in a population cohort activity shows non-linear relationships with symptoms [#378]."
+  }
+ ],
+ "consensos": [
+  "People with ME/CFS cannot reproduce their performance on a second CPET 24 hours later. VO2 and workload fall, especially at the ventilatory threshold, which does not happen in sedentary controls or in idiopathic chronic fatigue or multiple sclerosis [#460, #170, #433, #441, #430, #475].",
+  "PEM is a core symptom that separates patients from controls, both in meta-analysis and after standardized exercise challenges [#341, #571, #561].",
+  "Deconditioning does not explain exercise intolerance: the abnormalities persist against fitness-matched controls and occur alongside a cardiac output that is high relative to oxygen uptake [#116, #441, #203].",
+  "Recovery after exertion is slow and varies widely between individuals, from days to weeks [#422, #476, #133, #4].",
+  "Pain, and impaired endogenous pain modulation, are part of PEM [#473, #379, #244]."
+ ],
+ "debates": [
+  "One review presents chronotropic intolerance as a consistent finding [#60], and it was seen in one experimental subgroup [#476], but it did not appear in the large multicentre MCAM sample [#116].",
+  "There is no agreement on the best CPET marker of PEM. Some studies emphasize peak VO2 [#460, #441]; others find an effect only in workload, overall or at the ventilatory threshold, with no between-group difference in the change in peak VO2 [#209, #430, #442, #475].",
+  "One study finds CPET adequately reproducible in ME/CFS [#559], which sits uneasily with other studies that treat the lack of reproducibility as diagnostic [#460, #432]. A study in another population warns that measurement error can produce false positives [#393].",
+  "Authors differ in how cautiously they draw treatment implications. One infers from models that graded exercise therapy causes harm [#422]; others suggest that idiopathic fatigue is trainable while ME/CFS is not [#170, #433]; one proposes CPET-guided exercise prescription [#116]; and another suggests psychological support for patients with severe PEM [#408]."
+ ],
+ "lagunas": [
+  "Many studies have very small samples or are pilots and case series, which limits how far cut-offs and mechanistic findings can be generalized [#209, #432, #475, #476, #4, #360].",
+  "The most severely ill patients tend to be left out of exercise testing, and low-intensity protocols may not be sensitive enough [#210, #501, #465].",
+  "Self-reported diagnoses and self-reported data are common, in samples that lack diversity and in cross-sectional designs [#201, #210, #230, #555].",
+  "The instruments and rules for identifying PEM still need agreed scoring thresholds, validation in larger samples and paediatric versions [#526, #561, #560].",
+  "Treatments have barely been evaluated: there is one randomized trial [#367], a single saline case whose authors call for larger trials [#558], and management proposals that have not been formally tested [#306, #555]."
+ ]
+}

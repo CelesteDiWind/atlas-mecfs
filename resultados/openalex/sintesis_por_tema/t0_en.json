@@ -1,0 +1,229 @@
+{
+ "cluster": 0,
+ "resumen": "This topic gathers 1536 works on the clinical diagnosis of ME/CFS and its relationship with long COVID. The sample centres on case definitions, epidemiology, clinical guidelines and comparisons between the two illnesses. Output jumps from 2021, when the pandemic prompts researchers to count how many long COVID patients meet ME/CFS criteria. Reviews, consensus statements and descriptive studies dominate. Trials and mechanistic studies are scarce.",
+ "sintesis": [
+  "ME/CFS still has no objective diagnostic test. Several reviews in the sample describe it as a clinical diagnosis that rests on criteria and on excluding other diseases [#5973, #6536, #6634]. One systematic review identified 20 case definitions and 38 validation studies, which were small and methodologically weak [#1702]. Another counted 25 definitions created since 1986 [#4106]. The definitions do not select the same patients. In a sample diagnosed with CFS, 76% met the Institute of Medicine criteria and 44% met the revised London criteria [#2780]. In Europe, five of 17 countries reported national diagnostic guidelines, and the Fukuda criteria were the most often recommended [#3817].",
+  "The epidemiology in the sample depends on the definition and on how cases are found. In three regions of England, the minimum prevalence was 0.2% [#712]. A Norwegian registry estimated an incidence of 25.8 per 100,000 person-years, a female-to-male ratio of 3.2 and two age peaks, one at 10 to 19 years and one at 30 to 39 [#1617]. A meta-analysis of 46 studies gave a prevalence of 0.68% [#3949]. Diagnostic codes alone do not identify cases well. In an integrated health system, only 15% of the coded cases that were reviewed proved confirmed or probable [#5906]. In a series of 150 people, 64% reported an infection around onset [#3526].",
+  "COVID-19 reshapes the topic. As early as 2020, a hypothesis anticipated a post-viral syndrome resembling ME/CFS, based on what followed SARS [#4071, #553]. A systematic review found that 25 of 29 known ME/CFS symptoms appeared in at least one long COVID study [#4420]. Overlap figures vary widely between studies. A Mexican cohort found 13% meeting Institute of Medicine criteria at six months [#4472]. A US clinic found 43% [#5237]. A meta-analysis of 13 studies estimated 51% (95% CI 42-60) [#5971]. Among 216 rehabilitation patients, the ME/CFS phenotype reached 6.9% [#6816].",
+  "The topic grows over time. It rises from 34 works in 2010 to 80 in 2015 and 77 in 2020. In 2021 it jumps to 159, and in 2025 it reaches 179. The 127 works of 2026 cover only the period up to October. Of the 1536 works, 896 are central to ME/CFS and 169 are secondary. Another 434 mention it only peripherally, 26 are uncertain, 9 use a different concept and 2 are animal models. The topic talks to \"Immunity, mitochondria and biomarkers\" more than chance predicts (O/E 1.37) and likewise to \"Exercise, autonomic system and brain\" (1.15). It talks less to \"Pain, fibromyalgia and functional syndromes\" and to \"Traditional Chinese medicine and complementary treatments\" (both 0.76). Coupling with the latter rises from 0.153 in 2012-2014 to 0.531 in 2024-2026. Direct citations toward immunity fall from 2.076 to 0.762, and toward exercise from 2.312 to 0.844.",
+  "Part of the sample deals with care and disease burden. A European consensus from 22 countries sets out recommendations for diagnosis and care [#4440]. The 2021 NICE guideline treats post-exertional malaise as a core symptom and allows diagnosis at 3 months [#5124]. A group of 21 clinicians summarises recommended practice [#4566]. On burden, a scoping review gathers the health, social and economic impact [#6491], an Australian registry reports poor quality of life [#7015] and a review of severe disease describes bedbound patients [#6721]. On treatment, a phase II trial of rituximab in 30 patients found a response in 10 of 15 patients against 2 of 15 on placebo [#792]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Case definitions and criteria",
+   "texto": "Reviews compare the available definitions and their validity. One systematic review found no empirical data showing that any definition identified a specific neuroimmunological condition [#1702]. Another review covers 25 definitions since 1986 [#4106]. One study compares the Institute of Medicine criteria with the revised London criteria [#2780], while the international consensus criteria and the 2015 report propose alternatives [#706, #2052].",
+   "papers": [
+    1702,
+    4106,
+    2780,
+    706,
+    2052,
+    1569,
+    3817,
+    5826
+   ]
+  },
+  {
+   "titulo": "Prevalence, incidence and registries",
+   "texto": "Estimates change with the definition and the source. A primary care study in England gave a minimum prevalence of 0.2% [#712]. A Norwegian registry showed two incidence peaks [#1617]. A meta-analysis estimated 0.68% [#3949], and a US survey found that 20.7% of adults ever diagnosed say they no longer have the condition [#6891]. A European protocol aims to pool prevalence and incidence figures across the continent [#3366].",
+   "papers": [
+    712,
+    1617,
+    3949,
+    5906,
+    6891,
+    3366
+   ]
+  },
+  {
+   "titulo": "Overlap with long COVID",
+   "texto": "Several studies measure how many long COVID patients meet ME/CFS criteria. The figure runs from 6.9% in outpatient rehabilitation [#6816] to 51% in a meta-analysis [#5971]. In a German cohort, 19 of 42 patients met the Canadian Consensus Criteria [#5000]. A systematic review of symptoms [#4420] and a Mexican follow-up study [#4472] point to the same clinical overlap.",
+   "papers": [
+    6816,
+    5971,
+    5000,
+    4420,
+    4472,
+    5237,
+    4071,
+    4665
+   ]
+  },
+  {
+   "titulo": "Guidelines and clinical management",
+   "texto": "A group of 21 clinicians summarises recommended practice [#4566], and the EUROMENE consensus does the same for Europe [#4440]. The 2021 NICE guideline accepts diagnosis at 3 months [#5124], and another article defends how it was developed [#5741]. The D-A-CH consensus proposes the Canadian criteria as the diagnostic basis [#5826], and a Mayo Clinic review offers an approach for generalists [#5517].",
+   "papers": [
+    4566,
+    4440,
+    5124,
+    5741,
+    5826,
+    5517,
+    2319
+   ]
+  },
+  {
+   "titulo": "Burden and patient experience",
+   "texto": "Cohorts and registries measure quality of life. A Danish survey estimated quality of life with the EQ-5D-3L in 105 patients [#2199], and an Australian registry reports poor health and wellbeing [#7015]. A scoping review summarises the health, social and economic burden [#6491]. A qualitative analysis of 505 memorial entries describes systemic neglect [#6862], and a review describes severe disease [#6721].",
+   "papers": [
+    2199,
+    7015,
+    6491,
+    6862,
+    6721,
+    154,
+    3912,
+    4533
+   ]
+  },
+  {
+   "titulo": "Proposed mechanisms and treatments",
+   "texto": "Reviews discuss possible biological causes of both illnesses. One reviews the biological factors that could sustain long COVID symptoms, which may differ between patients [#4488]. Another proposes autoantibodies, endothelial and mitochondrial dysfunction and a pro-inflammatory microbiome [#6410]. On treatment, the only controlled trial in the sample tests rituximab [#792]. Other reviews discuss drug development and psychopharmacological repurposing [#4323, #6792].",
+   "papers": [
+    4488,
+    6410,
+    792,
+    4323,
+    6792,
+    3747
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "ME/CFS has no validated diagnostic biomarker. Diagnosis rests on clinical criteria and on excluding other causes [#3676, #5973, #6634].",
+   "papers": [
+    3676,
+    5973,
+    6634,
+    6536,
+    5826
+   ]
+  },
+  {
+   "texto": "Post-exertional malaise is treated as a core symptom. It appears as a key feature in recent guidelines and reviews [#5124, #5826, #6536].",
+   "papers": [
+    5124,
+    5826,
+    6536,
+    4566,
+    5719
+   ]
+  },
+  {
+   "texto": "The symptoms of ME/CFS and long COVID closely resemble each other. Reviews and clinical studies report a marked overlap [#4420, #5367, #5971].",
+   "papers": [
+    4420,
+    5367,
+    5971,
+    4665,
+    5000
+   ]
+  },
+  {
+   "texto": "The illness is underdiagnosed and poorly known among professionals. Up to 91% of US patients may remain undiagnosed, and European countries differ in guidelines and practice [#4566, #3817, #6010].",
+   "papers": [
+    4566,
+    3817,
+    6010,
+    6419,
+    5382
+   ]
+  },
+  {
+   "texto": "The illness often begins after an infection and severely affects quality of life [#3526, #2199, #6491].",
+   "papers": [
+    3526,
+    2199,
+    6491,
+    7015,
+    4071
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Graded exercise and cognitive behavioural therapy remain disputed. One letter says the evidence on harms from graded exercise is insufficient [#2319], and another describes a relapse the author attributes to it [#2321]. A clinical article states that several institutions withdrew both interventions as the treatment of choice [#4566], and the authors of a commentary defend the NICE guideline against criticism [#5741]. A recent review, in contrast, says cognitive behavioural therapy has been successful [#6588].",
+   "papers": [
+    2319,
+    2321,
+    4566,
+    5741,
+    6588
+   ]
+  },
+  {
+   "texto": "Studies disagree on how much of long COVID is ME/CFS. Figures run from 6.9% [#6816] to 13% [#4472], 43% [#5237] and 51% [#5971]. Some reviews treat the two as overlapping but distinct entities [#6588, #6612].",
+   "papers": [
+    6816,
+    4472,
+    5237,
+    5971,
+    6588,
+    6612
+   ]
+  },
+  {
+   "texto": "Researchers dispute which case definition to use. In one sample, 76% met the Institute of Medicine criteria against 44% for the revised London criteria [#2780]. The Fukuda criteria were the most often recommended in European guidelines [#3817], while the D-A-CH consensus highlights the Canadian criteria [#5826]. The systematic review found no definition that identified a specific neuroimmunological condition [#1702].",
+   "papers": [
+    2780,
+    3817,
+    5826,
+    1702,
+    4106
+   ]
+  },
+  {
+   "texto": "Prevalence estimates do not agree. Cited figures run from 0.2% [#712] to 0.68% in a meta-analysis [#3949], and to 1.5% of adults ever diagnosed in a US survey [#6891]. ICD codes alone misclassify cases [#5906].",
+   "papers": [
+    712,
+    3949,
+    6891,
+    5906,
+    2199
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Validation studies of case definitions are missing. The systematic review found that no study rigorously assessed the reproducibility or feasibility of the definitions [#1702], and sample heterogeneity makes it hard to replicate findings [#2780].",
+   "papers": [
+    1702,
+    2780,
+    4106,
+    1569
+   ]
+  },
+  {
+   "texto": "Long prospective cohorts and stage-by-stage descriptions of the disease are missing. A natural-history framework calls for large prospective cohorts at each stage [#4766]. The long COVID studies in the sample are small or retrospective and measure outcomes at six months [#4472, #5237, #6816].",
+   "papers": [
+    4766,
+    4472,
+    5237,
+    6816,
+    5000,
+    2825
+   ]
+  },
+  {
+   "texto": "The sample contains few therapeutic trials. The rituximab trial enrolled 30 patients [#792], and several reviews note the absence of effective treatments [#4323, #6721]. Evidence on the harms of exercise therapies is insufficient [#2319].",
+   "papers": [
+    792,
+    4323,
+    6721,
+    2319,
+    6634
+   ]
+  },
+  {
+   "texto": "Geographic and clinical coverage is uneven. The European survey drew replies from 17 countries [#3817]. The registries and cohorts in the sample come from Norway, England and Australia [#1617, #712, #7015]. Biomedical research on severe forms has been scarce [#6721].",
+   "papers": [
+    3817,
+    1617,
+    712,
+    7015,
+    6721
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "cluster": 3,
+ "resumen": "These papers use structural and functional neuroimaging, EEG, PET, spectroscopy and neuropsychological testing to look for a brain basis for ME/CFS symptoms [#34, #363, #101]. They find real, symptom-related brain changes, particularly in the brainstem, the cortico-limbic network and network connectivity, along with slowed cognition. But the findings are inconsistent between studies and come mostly from small samples [#363, #103, #511].",
+ "sintesis": [
+  "The evidence combines several recent systematic reviews with many modest cross-sectional studies. The reviews agree on changes in grey and white matter, blood flow, functional connectivity and EEG activity, but stress that results do not replicate consistently [#34, #363]. The largest meta-analysis, of 65 studies, finds hypoactivity in the insula and thalamus and proposes involvement of the cortico-limbic network with a neuroinflammatory component [#101]. Another review rates a slow BOLD response, recruitment of extra brain areas during cognitive tasks and brainstem abnormalities as consistent findings, and reduced resting blood flow and volume changes as inconsistent [#363].",
+  "Structurally, original studies report thinner cortex in the precuneus and middle frontal gyrus with a larger amygdala [#51], and lower anisotropy and neurite density in the superior longitudinal fasciculus [#98, #235]. The only longitudinal study, which followed 15 patients over six years, found progressive white matter loss in the inferior fronto-occipital fasciculus [#419]. Several studies find larger, not smaller, volumes in hippocampal subfields or the brainstem [#541, #104], and no hypothalamic differences were found in adolescents [#277]. Functionally, the default mode network appears less coordinated [#202], salience network connections with the hippocampus and reticular activating system are altered [#181], and connectivity within the brainstem is reduced, with stronger hippocampal connections interpreted as compensation [#309].",
+  "A distinctive recent line puts the brainstem and midbrain arousal nuclei at the centre of the disease, especially of post-exertional malaise. A scoping review brings together 11 MRI studies showing structural and connectivity changes in the brainstem [#103]. Exercise studies with fMRI show opposite midbrain responses in ME/CFS and in Gulf War illness [#212, #436], a difference that machine learning can also detect [#335]. EEG with eLORETA suggests cortical hypoactivation [#184] and changes in the central autonomic network linked to symptoms and exertion [#183, #125], although the exertion study included only 7 patients.",
+  "The neuroinflammation hypothesis rests on a TSPO PET study in 9 patients, which showed increased binding in limbic and brainstem structures that correlated with symptoms [#468], and on whole-brain spectroscopy showing diffuse metabolic and temperature abnormalities in 15 women [#241]. A critical review points to the methodological problems of TSPO PET, the limited technical attention given to the brainstem, and the unlikelihood of finding a replicable cytokine profile [#364]. Limbic hypoperfusion measured with ASL [#328] and lower absolute cortical blood flow in an early study with only 7 controls [#387] complete a picture of possibly abnormal neurovascular coupling [#363, #2].",
+  "For cognition, the main meta-analysis reports impaired immediate visuospatial memory, reading speed and attentional efficiency, with executive function largely spared [#511]. Older clinical studies agree that psychomotor slowing is the most stable objective finding and that subjective complaints exceed measured deficits [#110, #111, #333]. One review places this mismatch on a spectrum of functional cognitive disorder [#38], while another study proposes sustained attention as a possible biomarker [#529]. Two intervention studies, lacking an active control group or a complete sample, describe changes in sensorimotor-DMN connectivity after Tai Chi or cognitive behavioural therapy [#52, #562].",
+  "Several papers fit the topic poorly. Two study fibromyalgia only [#100, #251], one looks at brain fog in musculoskeletal pain [#537], one at macrophagic myofasciitis [#336] and one at myelination in healthy controls [#66]. Some have doubtful metadata or do not report their sample size [#110, #111]. Over time, the focus has shifted from neuropsychology and cerebral blood flow in the early years [#387, #110] to connectivity, microstructure and the brainstem, and more recently to comparisons with long COVID [#104, #36]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Brain structure and microstructure",
+   "texto": "Volumetric, cortical thickness and diffusion studies describe changes in the precuneus, amygdala, hippocampus and tracts such as the superior longitudinal fasciculus [#51, #98, #541]. Only one study is longitudinal, and it suggests progressive white matter loss [#419]; others link brain structure to unrefreshing sleep or autoantibodies [#340, #355]. Most samples have 15 to 45 patients."
+  },
+  {
+   "titulo": "Functional connectivity and large-scale networks",
+   "texto": "The default mode network appears less coordinated, with a more complex BOLD signal [#202], and the salience network and dynamic connectivity during fatiguing tasks are altered [#181, #582]. Sensorimotor-DMN connectivity is associated with fatigue and pain and has been used to measure change after interventions [#52, #562]."
+  },
+  {
+   "titulo": "Brainstem, arousal systems and post-exertional malaise",
+   "texto": "Studies report reduced connectivity in the reticular activating system, diffusion and volume changes in the brainstem, and abnormal midbrain responses after exercise [#309, #235, #104]. Work using a two-day exertion model compares ME/CFS with Gulf War illness and suggests different mechanisms [#212, #436, #335]."
+  },
+  {
+   "titulo": "Neuroinflammation and brain metabolism",
+   "texto": "TSPO PET and MR spectroscopy support widespread low-grade neuroinflammation [#468, #241], in line with the cortico-limbic meta-analysis [#101]. The original studies have very small samples, and a critical review questions the available methods [#364]; the main positive glial PET study is in fibromyalgia [#100]."
+  },
+  {
+   "titulo": "Cerebral perfusion and neurovascular coupling",
+   "texto": "Studies report limbic hypoperfusion on ASL and lower absolute cortical blood flow on xenon CT, more widespread in patients without psychiatric illness [#328, #387]. Reviews propose abnormal neurovascular coupling, although reduced resting blood flow is not a consistent finding [#363, #2]."
+  },
+  {
+   "titulo": "Electrophysiology and the central autonomic network",
+   "texto": "Quantitative EEG with eLORETA shows delta and beta band changes consistent with cortical hypoactivation [#184], and an organization of the central autonomic network linked to symptom clusters and to exertion [#183, #125]. A qEEG review finds patterns opposite to those in fibromyalgia [#36], and fMRI during a Valsalva manoeuvre explores the central autonomic response [#99]."
+  },
+  {
+   "titulo": "Cognitive profile and neuropsychology",
+   "texto": "The meta-analysis identifies deficits in immediate visuospatial memory, speed and attentional efficiency, with executive function relatively spared [#511]. Clinical studies highlight psychomotor slowing and the gap between complaints and test results [#110, #111, #333], and sustained attention has been proposed as a marker [#529]."
+  }
+ ],
+ "consensos": [
+  "People with ME/CFS show structural and functional brain differences from healthy controls, although their origin is unknown and the exact pattern varies between studies [#34, #363, #101].",
+  "The brainstem and ascending arousal systems are repeatedly implicated, with structural, diffusion and connectivity findings [#103, #309, #235, #104].",
+  "Slowed processing and psychomotor speed is the most stable objective cognitive deficit, together with problems in immediate memory and attention [#511, #111, #333, #110].",
+  "Limbic and interoceptive regions, especially the insula, cingulate and thalamus, are implicated in perfusion, activity and neuroinflammation studies [#101, #328, #468].",
+  "Imaging findings often correlate with measures of severity, fatigue, pain or cognition, which supports their clinical relevance even though none is diagnostic on its own [#309, #328, #419, #202]."
+ ],
+ "debates": [
+  "Case definition shapes the results. Several studies find differences only with the ICC criteria and not with Fukuda, and one goes as far as proposing that the two define different diseases [#181, #235, #541], while other studies rely only on the Fukuda or Oxford criteria [#309, #111].",
+  "The direction of volume changes is contradictory: studies report larger amygdala, subiculum or brainstem volumes [#51, #541, #104], but also progressive white matter atrophy [#419] and no hypothalamic differences in adolescents [#277]. Reviews describe the volume changes as inconsistent [#363].",
+  "The gap between cognitive complaints and objective deficits is read in two ways: as a functional, attention-based cognitive disorder [#38], or as having an organic cause supported by imaging and perfusion data [#387, #340, #336]. A meta-analysis does find measurable objective deficits [#511].",
+  "The evidence for neuroinflammation is suggestive but disputed: the positive studies included 9 to 15 patients [#468, #241], and a critical review points to technical limitations of TSPO PET and MRS and to cytokine findings that do not replicate [#364].",
+  "The diagnostic value of imaging is uncertain. Machine learning on structural MRI classifies patients less accurately than self-report questionnaires [#569], and biomarker claims based on regional correlations or a single test often go beyond the data presented [#355, #529, #98]."
+ ],
+ "lagunas": [
+  "Small samples and pilot or exploratory studies predominate, sometimes with very small control groups, which limits replication [#125, #104, #468, #387].",
+  "Longitudinal studies are needed to show whether the changes progress and whether they are a cause or a consequence of the disease. There is only one six-year follow-up, and replication in adolescents has been called for [#419, #277, #103].",
+  "Disease controls and shared data banks are scarce, so specificity against depression, fibromyalgia or long COVID cannot be properly assessed [#101, #363, #36, #2].",
+  "Methods for imaging the brainstem, measuring neuroinflammation and combining brain data with peripheral autonomic measures are underdeveloped [#364, #183, #125].",
+  "Neuroimaging intervention studies lack active control groups or complete samples, and methodological differences in cognitive testing make results hard to compare [#52, #562, #38, #537]."
+ ]
+}

@@ -1,0 +1,853 @@
+{
+ "lote": "c7_0",
+ "analisis": [
+  {
+   "id": 6,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa la evidencia de neuroimagen y de evaluación de la disautonomía para respaldar la afectación neurológica de la EM/SFC y buscar biomarcadores diagnósticos o de seguimiento.",
+   "diseno": "Revisión narrativa de la literatura sobre neuroimagen y pruebas autonómicas (COMPASS-31, variabilidad de la frecuencia cardiaca, maniobra de Valsalva, mesa basculante, autoanticuerpos).",
+   "hallazgos": "La neuroimagen muestra alteraciones morfológicas, de conectividad, metabólicas y funcionales de baja especificidad. En un subgrupo de pacientes se describen alteraciones de la HRV, la maniobra de Valsalva y la mesa basculante, junto con autoanticuerpos contra receptores adrenérgicos, colinérgicos y serotoninérgicos; el COMPASS-31 sirve como cribado de disautonomía.",
+   "conclusion": "La neuroimagen aporta poco al diagnóstico, mientras que los estudios de disautonomía en unidades especializadas son prometedores; la EM/SFC se orienta a una patología funcional que implica principalmente, aunque no solo, al sistema nervioso autónomo, y el neurólogo tiene un papel esencial.",
+   "triangulacion": "Las tres fuentes coinciden en el eje neuroimagen-disautonomía; las conclusiones son más prudentes, subrayando que el sustrato es desconocido y que falta un protocolo de estudio consensuado.",
+   "conceptos": [
+    "disfunción autonómica",
+    "neuroimagen",
+    "COMPASS-31",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "autoanticuerpos contra receptores"
+   ]
+  },
+  {
+   "id": 12,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Propone un concepto unificador de la fisiopatología de la EM/SFC a partir del hallazgo de autoanticuerpos contra el receptor β2-adrenérgico y el receptor muscarínico M3.",
+   "diseno": "Artículo teórico que integra hallazgos propios (autoanticuerpos elevados en un subgrupo de pacientes) con la literatura sobre disfunción vascular, hipoperfusión y metabolismo.",
+   "hallazgos": "Se describen autoanticuerpos elevados contra β2AdR y M3 en un subgrupo de pacientes; dado que ambos receptores son vasodilatadores, su disfunción produciría vasoconstricción e hipoxemia, en línea con la hipoperfusión muscular y cerebral y los cambios metabólicos descritos en EM/SFC.",
+   "conclusion": "La disfunción del β2AdR (por autoanticuerpos, polimorfismos o desensibilización por tono simpático alto) sería un factor clave; el exceso de vasodilatadores algésicos generados en el músculo podría explicar hipovolemia, fallo de precarga y síntomas como dolor, hiperalgesia y síntomas gripales.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes (autoanticuerpos, hipoxia, hipoperfusión, disfunción autonómica); las conclusiones amplían el modelo hacia la simpaticólisis funcional y los vasodilatadores algésicos, no anticipados en las keywords.",
+   "conceptos": [
+    "autoanticuerpos",
+    "receptor β2-adrenérgico",
+    "hipoperfusión",
+    "disfunción endotelial",
+    "tono simpático"
+   ]
+  },
+  {
+   "id": 14,
+   "tipo": "Estudio original",
+   "tema": "Compara de forma objetiva el sueño de pacientes con SFC y controles sanos mediante polisomnografía durante tres noches consecutivas.",
+   "diseno": "Estudio caso-control con 22 pacientes con SFC (criterios CDC 1994) y 22 controles sanos; polisomnografía de tres noches, analizando la tercera noche, y medidas autoinformadas de insomnio.",
+   "hallazgos": "El 9,1% de los pacientes cumplía criterios de un trastorno del sueño objetivable. Hubo diferencias en cuatro variables objetivas (vigilia tras el inicio del sueño, eficiencia del sueño, porcentaje de vigilia y latencia REM) y los pacientes refirieron insomnio más grave.",
+   "conclusion": "Los pacientes con SFC duermen peor según medidas objetivas y subjetivas; conviene una historia detallada del sueño para descartar trastornos del sueño, y mejorar el sueño es una posible diana terapéutica.",
+   "triangulacion": "Las tres fuentes son plenamente coherentes; las conclusiones proceden del abstract estructurado y coinciden literalmente con él. Las keywords reflejan las variables polisomnográficas destacadas.",
+   "conceptos": [
+    "polisomnografía",
+    "trastornos del sueño",
+    "eficiencia del sueño",
+    "latencia REM",
+    "insomnio"
+   ]
+  },
+  {
+   "id": 21,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Refina un modelo que vincula el SFC con la hipertensión intracraneal idiopática incorporando la fuga de LCR, con la obstrucción del drenaje venoso craneal como causa estructural primaria.",
+   "diseno": "Artículo teórico; no incluye datos empíricos propios.",
+   "hallazgos": "Según el modelo, la obstrucción venosa craneal (sutil, intermitente o confundible con anatomía normal) eleva la presión intracraneal, estresa la duramadre y puede provocar fuga de LCR, generando un espectro que incluye hipertensión intracraneal idiopática, SFC, fibromialgia e hipotensión intracraneal espontánea.",
+   "conclusion": "En el SFC una presión intracraneal normal no excluye una alteración fisiológica significativa; los autores sugieren que un mecanismo similar podría operar en otros síndromes médicamente no explicados.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes; las conclusiones del PDF desarrollan el espectro clínico y extienden especulativamente el mecanismo a otros síndromes no explicados.",
+   "conceptos": [
+    "presión intracraneal",
+    "obstrucción del drenaje venoso craneal",
+    "fuga de LCR",
+    "hipertensión intracraneal idiopática",
+    "fibromialgia"
+   ]
+  },
+  {
+   "id": 26,
+   "tipo": "Ensayo clínico",
+   "tema": "Evalúa la eficacia de una terapia neuroprotectora (complejo de coordinación con anión succinato, CCSA) frente a placebo en el SFC post-COVID usando fMRI.",
+   "diseno": "Ensayo prospectivo, aleatorizado, doble ciego y controlado con placebo; 30 pacientes con síndrome asténico post-COVID (15 CCSA, 15 placebo); escalas MFI-20, MoCA y FAS-10 y fMRI en reposo y con tarea cognitiva (3 T) antes y después del tratamiento.",
+   "hallazgos": "El grupo CCSA redujo más los síntomas asténicos (MFI-20: -20 frente a -12 puntos; p = 0,043) y mejoró más el MoCA (2 frente a 1 punto; p < 0,05); los datos de fMRI sugieren mejora del estado cognitivo funcional.",
+   "conclusion": "Los autores afirman la eficacia superior del CCSA sobre placebo en fatiga y deterioro cognitivo post-COVID, apoyada por técnicas de neuroimagen.",
+   "triangulacion": "Las fuentes coinciden en las cifras; las conclusiones del PDF matizan el abstract al reconocer muestra pequeña, centro único (estudio piloto), falta de controles sanos, posible efecto de aprendizaje en el MoCA y seguimiento breve. Las keywords se centran en la fMRI y la cognición.",
+   "conceptos": [
+    "SFC post-COVID",
+    "terapia neuroprotectora",
+    "fMRI en reposo",
+    "deterioro cognitivo",
+    "ensayo controlado con placebo"
+   ]
+  },
+  {
+   "id": 41,
+   "tipo": "Estudio original",
+   "tema": "Investiga las respuestas termorreguladoras dependientes de catecolaminas en adolescentes con SFC y su relación con los síntomas clínicos.",
+   "diseno": "Estudio caso-control con 15 adolescentes con SFC (12-18 años) y 57 controles sanos; catecolaminas y metanefrinas plasmáticas antes y después de enfriamiento intenso de una mano; flujo cutáneo acral, temperatura timpánica, frecuencia cardiaca y presión arterial durante enfriamiento moderado.",
+   "hallazgos": "Los pacientes refirieron más escalofríos, sudoración, cambios de color de la piel y sensación de calor. En reposo tenían mayor noradrenalina, adrenalina, frecuencia cardiaca y temperatura timpánica; durante el enfriamiento el flujo acral se redujo menos, la vasoconstricción ocurrió a menor temperatura y la temperatura timpánica bajó más.",
+   "conclusion": "Los adolescentes con SFC presentan respuestas termorreguladoras catecolaminérgicas anormales en reposo y con enfriamiento local, lo que apoya la hipótesis de disfunción simpática y podría explicar síntomas clínicos.",
+   "triangulacion": "Las tres fuentes son coherentes y se refuerzan en torno a la disfunción simpática; las conclusiones del PDF son algo más prudentes ('parecen apoyar', 'podrían explicar').",
+   "conceptos": [
+    "termorregulación",
+    "adolescentes",
+    "disfunción simpática",
+    "catecolaminas",
+    "flujo sanguíneo cutáneo"
+   ]
+  },
+  {
+   "id": 54,
+   "tipo": "Estudio original",
+   "tema": "Analiza microARN circulantes que regulan el eje Sirt1/eNOS como posibles biomarcadores de disfunción endotelial en la EM/SFC.",
+   "diseno": "Estudio caso-control en plasma de pacientes con EM/SFC frente a controles sanos (tamaño muestral no consta en el texto), con validación en datos públicos de miR en PBMC y análisis bioinformático de redes y vías.",
+   "hallazgos": "miR-21, miR-34a, miR-92a, miR-126 y miR-200c estaban aumentados conjuntamente en los pacientes, hallazgo replicado en datos públicos de PBMC. Las vías asociadas incluyen función endotelial, estrés oxidativo y regulación del oxígeno; la histona desacetilasa 1 fue el nodo más relevante de la red.",
+   "conclusion": "El estudio sienta bases para biomarcadores de disfunción endotelial; los autores proponen combinar FMD/EndoPAT con estos miR para estratificar pacientes, aunque reconocen que no son aún trasladables a la clínica.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes en el eje endotelio-NO-estrés oxidativo; la discusión es más cauta, pide cohortes mayores con seguimiento y criterios diagnósticos más restrictivos que el de Fukuda.",
+   "conceptos": [
+    "disfunción endotelial",
+    "microARN circulantes",
+    "eje Sirt1/eNOS",
+    "óxido nítrico",
+    "estrés oxidativo"
+   ]
+  },
+  {
+   "id": 62,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Deduce los mecanismos fisiopatológicos que explicarían la patología del sistema nervioso central y los síntomas neurocognitivos de la EM/SFC.",
+   "diseno": "Artículo teórico basado en la evidencia sobre disfunción endotelial e hipoperfusión muscular y cerebral; sin datos empíricos propios.",
+   "hallazgos": "Se describen como mecanismos tentativos la reducción del flujo sanguíneo cerebral, la alteración del acoplamiento neurovascular, la hiperactividad adrenérgica central, la hipocapnia y el aumento de la presión intracraneal.",
+   "conclusion": "Estos mecanismos podrían explicar el deterioro cognitivo, la niebla mental, la cefalea, la hipersensibilidad, los trastornos del sueño y la disautonomía; queda por demostrar si existe neuroinflamación o patología del tronco encefálico.",
+   "triangulacion": "Las tres fuentes son coherentes en torno a la hipoperfusión cerebral y la disfunción endotelial; las conclusiones añaden prudencia al señalar que no se ha detectado patología cerebral específica.",
+   "conceptos": [
+    "niebla mental",
+    "hipoperfusión cerebral",
+    "disfunción endotelial",
+    "presión intracraneal",
+    "hiperactividad adrenérgica central"
+   ]
+  },
+  {
+   "id": 63,
+   "tipo": "Estudio original",
+   "tema": "Explora la HRV medida con tecnología mHealth como marcador objetivo de EM/SFC y evalúa diferencias de género en la HRV y los síntomas centrales.",
+   "diseno": "Estudio caso-control con 77 pacientes (32 hombres, 45 mujeres) y 44 controles sanos; cuestionarios de fatiga, sueño, ansiedad, depresión y síntomas autonómicos; registro de intervalos RR en tres periodos de 5 min con banda torácica y app iOS; MANOVA.",
+   "hallazgos": "Los hombres con EM/SFC puntuaron más en todos los síntomas, sin diferencias en HRV frente a controles (a diferencia de las mujeres), aunque con correlaciones negativas entre síntomas y SDNN, RMSSD, pNN50 y LF. Hubo efectos de género en HF, LF/HF y HFnu, y menor HRV en mujeres con EM/SFC que en hombres.",
+   "conclusion": "La HRV mediante mHealth es una herramienta objetiva y no invasiva útil para el diagnóstico, la monitorización y la predicción de la gravedad de la fatiga, especialmente en mujeres con EM/SFC.",
+   "triangulacion": "Las fuentes son coherentes en el foco HRV-mHealth-género; las conclusiones del PDF añaden el uso diagnóstico y piden más estudios para corroborar las diferencias de género.",
+   "conceptos": [
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "salud móvil (mHealth)",
+    "diferencias de género",
+    "disfunción autonómica",
+    "disfunción parasimpática"
+   ]
+  },
+  {
+   "id": 64,
+   "tipo": "Caso clínico",
+   "tema": "Describe un caso de angina vasoespástica o microvascular diagnosticada simultáneamente con la recurrencia y agravamiento de la EM/SFC, y alerta sobre la isquemia cardiaca en estos pacientes.",
+   "diseno": "Caso clínico de una mujer joven con EM/SFC y angina de nueva aparición.",
+   "hallazgos": "Los síntomas anginosos (dolor torácico de esfuerzo y molestias torácicas transitorias) imitaban los de la EM/SFC y se aliviaron tras administrar un antagonista del calcio.",
+   "conclusion": "Las manifestaciones cardiacas pueden aparecer con el agravamiento de la EM/SFC y la angina puede pasar desapercibida porque sus síntomas se solapan; los autores recomiendan exploraciones cardiacas, incluido ECG, también ante agotamiento excesivo.",
+   "triangulacion": "Las tres fuentes coinciden en la angina microvascular/vasoespástica y la disfunción endotelial como nexo; la discusión (con ruido de declaraciones finales) refuerza la recomendación de cribado cardiaco, más explícita que en el abstract.",
+   "conceptos": [
+    "angina microvascular",
+    "angina vasoespástica",
+    "isquemia miocárdica",
+    "disfunción endotelial",
+    "antagonista del calcio"
+   ]
+  },
+  {
+   "id": 71,
+   "tipo": "Estudio original",
+   "tema": "Investiga si existen fenotipos de sueño específicos en el SFC y qué características objetivas los diferencian.",
+   "diseno": "Estudio transversal unicéntrico en una clínica de fatiga de Países Bajos; 343 pacientes consecutivos con SFC (criterios de Fukuda); una noche de polisomnografía puntuada a ciegas; análisis de conglomerados jerárquico y ANOVA.",
+   "hallazgos": "El 30,3% (104) tenía un trastorno primario del sueño que explicaba el diagnóstico. En los 239 restantes se identificaron cuatro fenotipos de sueño y el 89,1% cumplía criterios de al menos un problema objetivo de sueño; los fenotipos se distinguían por latencias de sueño y REM, despertares, tiempo total de sueño y vigilia tras el inicio del sueño.",
+   "conclusion": "Es necesario cribar sistemáticamente los trastornos primarios del sueño y adaptar las intervenciones sobre el sueño al fenotipo en pacientes con SFC.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones proceden del abstract estructurado y lo reproducen. Las keywords recogen fenotipos, trastornos primarios del sueño y latencia REM.",
+   "conceptos": [
+    "fenotipos de sueño",
+    "polisomnografía",
+    "trastornos primarios del sueño",
+    "latencia REM",
+    "análisis de conglomerados"
+   ]
+  },
+  {
+   "id": 80,
+   "tipo": "Estudio original",
+   "tema": "Busca diferenciar EM/SFC y COVID persistente combinando medidas de gravedad autoinformadas con biomarcadores circulantes de función endotelial e inflamación sistémica.",
+   "diseno": "Estudio piloto de cohorte prospectivo, transversal y unicéntrico: 31 pacientes con EM/SFC, 23 con COVID persistente y 31 controles sedentarios emparejados; prueba de bipedestación NASA de 10 min; regresión, análisis de componentes principales y discriminante.",
+   "hallazgos": "Los pacientes con EM/SFC tenían mayores niveles de serpina E1 (PAI-1) y E-selectina que ambos grupos, y los de COVID persistente menor TSP-1. TNF-α estaba elevado en ambos grupos de pacientes; en EM/SFC también IL-1β, IL-4, IL-6, IL-10, IP-10 y leptina frente a controles.",
+   "conclusion": "La combinación de biomarcadores de disfunción endotelial e inflamación con medidas de resultado diferencia EM/SFC y COVID persistente; se necesita más investigación sobre estos mecanismos como posibles dianas.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes; las conclusiones del PDF repiten las del abstract (seguidas de texto de introducción). El resultado inicial del abstract aparece truncado en la fuente.",
+   "conceptos": [
+    "COVID persistente",
+    "disfunción endotelial",
+    "inflamación sistémica",
+    "biomarcadores circulantes",
+    "intolerancia ortostática"
+   ]
+  },
+  {
+   "id": 87,
+   "tipo": "Estudio original",
+   "tema": "Estudia la función autonómica cardiaca nocturna en las distintas fases del sueño en pacientes con SFC (criterios IOM 2015) frente a controles cansados.",
+   "diseno": "Serie de casos: 8 pacientes con SFC y 8 controles cansados (16-49 años); HRV, presión arterial y frecuencia cardiaca durante polisomnografía en todas las fases de sueño y vigilia.",
+   "hallazgos": "Los pacientes mostraron más LF (actividad simpática) en todas las fases del sueño y menos en vigilia; menos HF en la fase N3 pero más HF en total; presión sistólica y media nocturnas más altas y frecuencia cardiaca más baja. No hubo diferencias significativas en la distribución de las fases del sueño.",
+   "conclusion": "El SFC podría asociarse con atenuación del tono parasimpático en el sueño de ondas lentas y aumento del tono simpático nocturno; se necesitan más estudios con criterios IOM 2015.",
+   "triangulacion": "Las tres fuentes son coherentes en torno a HRV, presión nocturna y actividad simpática; el 'abstract' es el texto inicial del artículo (truncado) y las conclusiones son prudentes dado el tamaño muestral muy pequeño.",
+   "conceptos": [
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "presión arterial nocturna",
+    "fases del sueño",
+    "tono simpático",
+    "sueño no reparador"
+   ]
+  },
+  {
+   "id": 88,
+   "tipo": "Estudio original",
+   "tema": "Define subgrupos autonómicos en pacientes con SFC y su relación con la gravedad de la enfermedad.",
+   "diseno": "Estudio transversal con 131 pacientes con SFC (criterios de Fukuda); escalas de fatiga, somnolencia de Epworth y COMPASS autoinformado; parámetros autonómicos en reposo (Task Force Monitor) y rigidez arterial (Arteriograph); análisis factorial y de conglomerados.",
+   "hallazgos": "Se obtuvieron cuatro factores (fatiga, disfunción autonómica subjetiva y objetiva, rigidez arterial) y cuatro perfiles: simpático con disautonomía (34%), simpático solo (5%), parasimpático (21%) y alteración del equilibrio simpatovagal (40%). El fenotipo simpático-disautonómico se asoció a mayor gravedad y peor calidad de vida; el de equilibrio, a pacientes más jóvenes, menos fatiga y menor rigidez arterial.",
+   "conclusion": "Los fenotipos autonómicos se asocian fuertemente con la gravedad; la medición autonómica debería formar parte del diagnóstico y podría justificar tratamientos diferenciados.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF añaden la recomendación de medir la función autonómica en el proceso diagnóstico, no explícita en el abstract.",
+   "conceptos": [
+    "fenotipos autonómicos",
+    "equilibrio simpatovagal",
+    "rigidez arterial",
+    "gravedad de la enfermedad",
+    "análisis de conglomerados"
+   ]
+  },
+  {
+   "id": 89,
+   "tipo": "Estudio original",
+   "tema": "Examina la función del sistema nervioso autónomo, los patrones de actividad y el sueño tras un desafío físico o cognitivo en personas con SFC.",
+   "diseno": "No consta en detalle: el 'abstract' es solo la portada del manuscrito aceptado; la discusión indica participantes de una clínica terciaria especializada sometidos a protocolos de desafío físico y cognitivo, con medida de HRV.",
+   "hallazgos": "No constan resultados detallados; la discusión menciona que ambos desafíos provocaron una exacerbación de la fatiga comparable y alteraciones observadas en la HRV.",
+   "conclusion": "Los autores señalan que se requieren muestras mayores y covariables adicionales (p. ej., síntomas del estado de ánimo) antes de establecer los mecanismos de las alteraciones de la HRV y sus implicaciones clínicas.",
+   "triangulacion": "Fuentes muy limitadas: el abstract no contiene resumen y las conclusiones son sobre todo limitaciones (sesgo hacia pacientes más funcionales, agrupación de desafíos) y declaraciones; las keywords (HRV, sueño, frecuencia cardiaca) son coherentes con el título.",
+   "conceptos": [
+    "sistema nervioso autónomo",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "desafío físico y cognitivo",
+    "patrones de actividad",
+    "sueño"
+   ]
+  },
+  {
+   "id": 112,
+   "tipo": "Estudio original",
+   "tema": "Evalúa si la canalitiasis multicanalicular vestibular crónica (VPPB crónico) con antecedente de traumatismo puede desencadenar los síntomas de migraña vestibular, EM/SFC y trastornos asociados al latigazo cervical (WAD).",
+   "diseno": "Estudio de cohorte retrospectivo, consecutivo y observacional en un centro privado de otoneurología; 163 pacientes con CVMCC y antecedente de traumatismo, subagrupados post hoc según criterios diagnósticos mediante cuestionario estructurado.",
+   "hallazgos": "El 98% cumplía criterios de la Bárány Society de migraña vestibular probable, el 17% los de la ICHD, el 63% los criterios de Fukuda de EM/SFC y el 100% de los pacientes con WAD tenía CVMCC; las maniobras de reposicionamiento mejoraron dolor y otros síntomas en el 90% de un grupo de pacientes.",
+   "conclusion": "La CVMCC puede ser el desencadenante de síntomas de migraña vestibular, EM/SFC y WAD, el traumatismo parece relevante y el diagnóstico recibido suele seguir el síntoma dominante.",
+   "triangulacion": "Las fuentes son coherentes; las conclusiones son algo más prudentes ('sugiere' frente a 'apoya'). Las keywords enfatizan criterios diagnósticos y traumatismo más que el mecanismo vestibular.",
+   "conceptos": [
+    "vértigo posicional paroxístico benigno (VPPB)",
+    "migraña vestibular",
+    "latigazo cervical (WAD)",
+    "traumatismo",
+    "criterios de Fukuda"
+   ]
+  },
+  {
+   "id": 114,
+   "tipo": "Estudio original",
+   "tema": "Examina si las dimensiones y la función cardiacas están alteradas en mujeres con EM/SFC, como posible causa de la acumulación anormal de lactato.",
+   "diseno": "Estudio caso-control con 16 mujeres con EM/SFC y 10 controles sanos; ecocardiografía transtorácica en decúbito supino con Doppler convencional, Doppler tisular y strain.",
+   "hallazgos": "No hubo diferencias significativas en las variables clave de dimensiones y función cardiacas entre los grupos.",
+   "conclusion": "En esta cohorte no se hallaron diferencias ecocardiográficas; serían de interés estudios durante el ejercicio y que vinculen la función cardiaca con biomarcadores metabólicos.",
+   "triangulacion": "Las tres fuentes son coherentes en un resultado negativo; las conclusiones añaden propuestas de investigación. Las keywords se centran en técnicas ecocardiográficas y no reflejan el contexto metabólico del lactato.",
+   "conceptos": [
+    "ecocardiografía",
+    "función cardiaca",
+    "Doppler tisular",
+    "strain cardiaco",
+    "lactato"
+   ]
+  },
+  {
+   "id": 117,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa los hallazgos cardiovasculares y hematológicos en EM/SFC y discute el posible papel de virus implicados, con apoyo en lo aprendido del COVID persistente.",
+   "diseno": "Revisión narrativa de la literatura.",
+   "hallazgos": "La enfermedad aterosclerótica no se asocia significativamente con EM/SFC, pero sí la función cardiovascular subóptima (gasto cardiaco reducido, flujo cerebral alterado, desregulación vascular), no explicada por desacondicionamiento y quizá de origen autonómico. Hay evidencia de hiperactividad plaquetaria, coagulación anómala, fenotipo procoagulante y disfunción endotelial, y de reservorios de herpesvirus.",
+   "conclusion": "Las anomalías cardiacas y hematológicas están presentes en EM/SFC; es importante determinar su contribución a la gravedad y si pueden ser dianas terapéuticas, con los virus contribuyendo directa o indirectamente.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes (endotelio, coagulopatía, plaquetas); la discusión, con ruido de pie de figura y declaraciones, detalla el mecanismo viral de daño endotelial que en el abstract es más especulativo.",
+   "conceptos": [
+    "disfunción endotelial",
+    "hiperactividad plaquetaria",
+    "coagulopatía",
+    "herpesvirus",
+    "hipoperfusión"
+   ]
+  },
+  {
+   "id": 118,
+   "tipo": "Estudio original",
+   "tema": "Describe las características cardiológicas y clínicas de pacientes italianos con sospecha de SFC remitidos a un servicio de cardiología.",
+   "diseno": "Estudio observacional en el Departamento de Cardiología del Hospital Universitario de Pavía; 44 pacientes caucásicos con sospecha de SFC, con diagnóstico confirmado en 19 según guías clínicas recientes.",
+   "hallazgos": "Predominio femenino (razón 4:1) y antecedentes frecuentes de infección por virus de Epstein-Barr, citomegalovirus y otros herpesvirus. La mayoría de parámetros cardiológicos no difería entre pacientes con y sin SFC, pero se identificó una asociación significativa con presión arterial baja.",
+   "conclusion": "Aunque requiere confirmación en una población mayor, los pacientes con SFC presentan presión arterial baja, que podría explicar síntomas como fatiga, vértigo o dificultad de concentración y servir como biomarcador no invasivo.",
+   "triangulacion": "Keywords, abstract y discusión coinciden en hipotensión e intolerancia ortostática; la discusión atribuye los síntomas a disfunción autonómica de origen central, mientras el abstract los atribuye a la hipotensión, y subraya la necesidad de confirmación.",
+   "conceptos": [
+    "hipotensión",
+    "intolerancia ortostática",
+    "disfunción autonómica",
+    "presión arterial",
+    "virus de Epstein-Barr (VEB)"
+   ]
+  },
+  {
+   "id": 127,
+   "tipo": "Estudio original",
+   "tema": "Investiga el papel del flujo sanguíneo cerebral (CBF) y la HRV en la modulación del dolor y los síntomas del SFC ante estrés físico y emocional.",
+   "diseno": "Estudio controlado aleatorizado cruzado en el Hospital Universitario de Bruselas; 20 pacientes con SFC y 20 controles sedentarios; sumación temporal del dolor por presión, CBF con Doppler transcraneal y HRV por pletismografía digital durante ejercicio leve y estrés emocional.",
+   "hallazgos": "No hubo efecto de grupo ni interacción en CBF o HRV; ambos cambiaron con el ejercicio sin diferencias entre grupos. El dolor por sumación temporal en el trapecio disminuyó tras el ejercicio en controles (p = 0,037) pero no en pacientes (p = 0,108), lo que sugiere modulación del dolor alterada; no hubo correlaciones con síntomas.",
+   "conclusion": "Los resultados parecen refutar alteraciones previas de CBF/HRV en el SFC; estos parámetros no explicarían el dolor antes, durante y después del ejercicio.",
+   "triangulacion": "Las tres fuentes son coherentes con un resultado mayoritariamente negativo; el abstract reconoce muestra pequeña y ejercicio leve como limitaciones. Las keywords incluyen modulación del dolor y estrés emocional, alineadas con el diseño.",
+   "conceptos": [
+    "flujo sanguíneo cerebral",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "modulación del dolor",
+    "sumación temporal",
+    "ejercicio físico"
+   ]
+  },
+  {
+   "id": 130,
+   "tipo": "Estudio original",
+   "tema": "Explora si existe un vínculo fisiológico entre el control vascular cerebral y el manejo del pH del músculo esquelético en el SFC.",
+   "diseno": "Estudio con 17 pacientes consecutivos con SFC (criterios de Fukuda); CBF y pH muscular en reposo con RM y espectroscopía de RM con 31P; fMRI durante maniobra de Valsalva y 31P-MRS durante ejercicio de flexión plantar.",
+   "hallazgos": "Hubo correlación inversa entre CBF y pH muscular en reposo (r = -0,67; p < 0,01) y la vasoconstricción cerebral prolongada en la fase simpática de la Valsalva se asoció a mayor pH muscular tras el ejercicio (r = 0,69; p < 0,008).",
+   "conclusion": "El control vascular cerebral está estrechamente relacionado con el pH muscular en reposo y tras estimulación dinámica, lo que indica una fuerte influencia de la disfunción autonómica.",
+   "triangulacion": "Las tres fuentes son coherentes; la discusión matiza que los resultados son correlacionales y no prueban causalidad, y pide más estudios sobre oxigenación y perfusión muscular.",
+   "conceptos": [
+    "flujo sanguíneo cerebral",
+    "pH del músculo esquelético",
+    "maniobra de Valsalva",
+    "espectroscopía por RM con 31P",
+    "disfunción autonómica"
+   ]
+  },
+  {
+   "id": 158,
+   "tipo": "Estudio original",
+   "tema": "Explora los patrones de ritmo circadiano de actividad-reposo y temperatura cutánea distal y su relación con síntomas en EM/SFC, en invierno y verano.",
+   "diseno": "Estudio caso-control con 10 mujeres con SFC/EM (criterios de Fukuda y canadienses 2003) y 10 controles emparejados; actigrafía ActTrust de 7 días (actividad, temperatura cutánea distal, luz), diario de sueño, cuestionarios y análisis espectral; registros en invierno y verano.",
+   "hallazgos": "No hubo diferencias en estabilidad del ritmo, latencia de sueño ni despertares, pero la actividad diaria, la amplitud relativa y la estabilidad del ritmo de actividad fueron menores en pacientes. La temperatura cutánea distal nocturna fue menor solo en invierno, y el segundo armónico de 12 h difería entre grupos y se correlacionaba con la clínica.",
+   "conclusion": "La regulación circadiana y las respuestas vasodilatadoras cutáneas pueden desempeñar un papel en la EM/SFC; se necesitan más estudios actigráficos, incluidos pacientes graves.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF amplían el enfoque hacia la metabolómica circadiana y posibles biomarcadores, más allá de lo mostrado en los datos.",
+   "conceptos": [
+    "ritmo circadiano",
+    "actigrafía",
+    "temperatura cutánea distal",
+    "disfunción autonómica",
+    "calidad del sueño"
+   ]
+  },
+  {
+   "id": 160,
+   "tipo": "Estudio original",
+   "tema": "Analiza la relación entre respuestas autonómicas ortostáticas, variaciones circadianas de la temperatura cutánea y biomarcadores endoteliales en EM/SFC.",
+   "diseno": "Estudio caso-control con 67 mujeres con EM/SFC y 48 controles emparejados; cuestionarios autonómicos; prueba ortostática con presión arterial, frecuencia cardiaca y temperatura de muñeca; actigrafía de una semana; biomarcadores endoteliales circulantes.",
+   "hallazgos": "Las pacientes mostraron mayor presión arterial y frecuencia cardiaca en reposo y mayor amplitud del ritmo de actividad. ET-1 y VCAM-1 estaban elevados, y la ET-1 se asoció a la estabilidad y amplitud del ritmo de temperatura y a los cuestionarios autoinformados.",
+   "conclusion": "Las alteraciones circadianas y hemodinámicas se asocian a disfunción endotelial y apoyan la disautonomía en EM/SFC; se necesita más investigación del tono vascular como posible diana terapéutica.",
+   "triangulacion": "Las tres fuentes son coherentes y se refuerzan en el eje disautonomía-ritmo circadiano-endotelina-1; las conclusiones del PDF destacan la novedad de vincular el SNA con la vasoconstricción/vasodilatación.",
+   "conceptos": [
+    "endotelina-1",
+    "ritmo circadiano",
+    "temperatura cutánea",
+    "disautonomía",
+    "disfunción endotelial"
+   ]
+  },
+  {
+   "id": 182,
+   "tipo": "Estudio original",
+   "tema": "Evalúa si las alteraciones de la excitabilidad de la membrana muscular (onda M) inducidas por el ejercicio explican la reducción de la fuerza muscular máxima en EM/SFC.",
+   "diseno": "Estudio retrospectivo de dos grupos de pacientes con (n = 30) o sin (n = 28) alteraciones de la onda M tras ejercicio en cicloergómetro; fuerza de prensión máxima antes y después del ejercicio con EMG del flexor largo de los dedos; cuestionario de síntomas post-ejercicio.",
+   "hallazgos": "En el grupo con alteraciones, la amplitud de la onda M disminuyó y su duración aumentó tras el ejercicio; la prensión en reposo era menor, descendió tras el ejercicio y sus cambios se correlacionaron con los de la onda M. PEM, fatiga, mialgia, cefalea y disfunción cognitiva fueron más frecuentes en este grupo.",
+   "conclusion": "La fatiga del sarcolema post-ejercicio podría causar el fallo muscular, y la fuerza de prensión máxima sería un índice sencillo y barato de rendimiento y fatigabilidad, con potencial como cribado.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones añaden el valor de la dinamometría de prensión como herramienta de cribado. Las keywords se centran en la onda M y la fuerza, sin mencionar el PEM.",
+   "conceptos": [
+    "excitabilidad de la membrana muscular",
+    "onda M",
+    "fuerza de prensión",
+    "malestar post-esfuerzo (PEM)",
+    "fatiga muscular periférica"
+   ]
+  },
+  {
+   "id": 187,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Carta que plantea si la disfunción endotelial y el daño vascular podrían contribuir al dolor, la inflamación y el PEM en la EM/SFC.",
+   "diseno": "Carta/artículo de opinión de un único autor (progenitor de un niño con enfermedad crónica), no basada en investigación formal.",
+   "hallazgos": "Según la discusión, la fuga de líquido por disfunción endotelial y la hipoxia tisular resultante podrían explicar el PEM; el cortisol u otros mediadores retenedores de líquido explicarían el PEM tras esfuerzo cognitivo o estrés, y los estrógenos elevados podrían agravar la fuga. El retraso del PEM podría deberse al tiempo de efecto hipóxico o a una reacción bifásica.",
+   "conclusion": "Se necesita más investigación sobre las causas de la disfunción y el daño endotelial (infección, sobrerreacción inflamatoria, 'crashes', activación mastocitaria, cirugías, microcoágulos) y su tratamiento.",
+   "triangulacion": "El abstract no está disponible (solo texto genérico de DOAJ); keywords, título y discusión son coherentes en torno al endotelio y el PEM, con carácter explícitamente especulativo.",
+   "conceptos": [
+    "disfunción endotelial",
+    "daño vascular",
+    "malestar post-esfuerzo (PEM)",
+    "fuga capilar",
+    "microcoágulos"
+   ]
+  },
+  {
+   "id": 219,
+   "tipo": "Estudio original",
+   "tema": "Analiza y compara síntomas autonómicos y neuropáticos en la condición post-COVID, la EM/SFC y controles sanos, y su relación con la cognición y la fatiga.",
+   "diseno": "Estudio caso-control con 87 pacientes post-COVID, 50 con EM/SFC y 50 controles; respiración profunda, maniobra de Valsalva y prueba de mesa basculante; Sudoscan y potenciales evocados por calor y frío; evaluación neuropsicológica completa.",
+   "hallazgos": "La frecuencia cardiaca fue más alta en EM/SFC (H = 18,3; p ≤ 0,001). Se halló POTS y valores patológicos palmares en Sudoscan en el 31% y 34% de EM/SFC y en el 13,8% y 19,5% de post-COVID; la latencia a estímulos de calor fue mayor en EM/SFC, y menor activación parasimpática se asoció a peor cognición.",
+   "conclusion": "Ambos síndromes se caracterizan por taquicardia inapropiada en reposo y alta prevalencia de POTS; las latencias prolongadas sugieren daño de fibras amielínicas y una neuropatía de fibra fina no dependiente de longitud.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF añaden menor variabilidad cardiovagal en EM/SFC, no observada en post-COVID.",
+   "conceptos": [
+    "síndrome de taquicardia postural ortostática (POTS)",
+    "neuropatía de fibra fina",
+    "Sudoscan",
+    "COVID persistente",
+    "función cardiovagal"
+   ]
+  },
+  {
+   "id": 229,
+   "tipo": "Estudio original",
+   "tema": "Investiga la disfunción endotelial y biomarcadores endoteliales en pacientes con síndrome post-COVID, incluidos los que cumplen criterios de EM/SFC.",
+   "diseno": "Estudio caso-control: 30 pacientes con síndrome post-COVID (14 con EM/SFC) y 15 controles seronegativos emparejados; índice de hiperemia reactiva (RHI) por tonometría arterial periférica; en una cohorte mayor con convalecientes, ET-1, Ang-2, endocan, IL-8, ECA y ECA2.",
+   "hallazgos": "Cinco de 14 pacientes con EM/SFC post-COVID y cinco de 16 con síndrome post-COVID mostraron RHI disminuido (< 1,67), frente a ningún control. La ET-1 estaba elevada en ambos grupos y la Ang-2 era menor en post-COVID y convalecientes; el RHI se correlacionó paradójicamente con edad, presión y IMC solo en post-COVID.",
+   "conclusion": "Un subgrupo de pacientes post-COVID presenta disfunción endotelial periférica y biomarcadores alterados, con perfiles que podrían indicar mecanismos distintos entre subgrupos.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes; las conclusiones del PDF señalan como limitación la ausencia de convalecientes en la evaluación del RHI (seguidas de ruido de tablas).",
+   "conceptos": [
+    "disfunción endotelial",
+    "índice de hiperemia reactiva (RHI)",
+    "endotelina-1",
+    "síndrome post-COVID",
+    "tonometría arterial periférica"
+   ]
+  },
+  {
+   "id": 240,
+   "tipo": "Revisión sistemática / metaanálisis",
+   "tema": "Evalúa mediante revisión sistemática y metaanálisis si los parámetros de frecuencia cardiaca reflejan una regulación autonómica cardiaca alterada en EM/SFC.",
+   "diseno": "Revisión sistemática de estudios caso-control (64 artículos incluidos) con metaanálisis de diez categorías de parámetros de frecuencia cardiaca y HRV.",
+   "hallazgos": "Los pacientes tenían mayor frecuencia cardiaca en reposo (DM 4,14), en mesa basculante (DME 0,92), respuesta ortostática (0,50) y cociente LF/HF en reposo (0,39), y menor frecuencia cardiaca máxima (DM -13,81), frecuencia en umbral anaerobio (-0,44) y componente HF en reposo (-0,34).",
+   "conclusion": "Los pacientes con EM/SFC presentan una regulación autonómica cardiaca alterada, sugestiva de menor modulación vagal y mayor simpática; ningún parámetro aislado parece tener sensibilidad diagnóstica suficiente.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF son más prudentes que el abstract al señalar alta heterogeneidad estadística y problemas metodológicos que limitan la utilidad diagnóstica.",
+   "conceptos": [
+    "regulación autonómica cardiaca",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "prueba de mesa basculante",
+    "frecuencia cardiaca en reposo",
+    "metaanálisis"
+   ]
+  },
+  {
+   "id": 243,
+   "tipo": "Estudio original",
+   "tema": "Compara los cambios inducidos por el ejercicio en los miARN del líquido cefalorraquídeo en la enfermedad de la Guerra del Golfo (GWI), el SFC y controles sedentarios.",
+   "diseno": "Estudio caso-control con punción lumbar tras reposo nocturno o tras ejercicio submáximo en bicicleta; GWI (fenotipos START y STOPP), SFC y controles (p. ej., sin ejercicio: GWI n = 22, SFC n = 43, controles n = 22); miARN por PCR cuantitativa.",
+   "hallazgos": "Sin ejercicio, los niveles de miARN eran equivalentes entre grupos. Tras el ejercicio, START tenía menos miR-22-3p que controles y STOPP, y más miR-9-3p que STOPP; todos los grupos post-ejercicio redujeron miR-328 y miR-608, y el SFC mostró 12 miARN disminuidos.",
+   "conclusion": "Pese al solapamiento sintomático, los patrones de miARN en LCR inducidos por el ejercicio indican mecanismos distintos del PEM en el SFC y en los fenotipos START y STOPP de la GWI.",
+   "triangulacion": "Las fuentes son coherentes en lo esencial; hay una discrepancia interna: el abstract describe miR-328 y miR-608 como reducidos tras el ejercicio y las conclusiones del PDF como elevados. Las keywords destacan POTS y miR-22-3p.",
+   "conceptos": [
+    "enfermedad de la Guerra del Golfo",
+    "microARN en LCR",
+    "malestar post-esfuerzo (PEM)",
+    "taquicardia postural inducida por ejercicio",
+    "ejercicio submáximo"
+   ]
+  },
+  {
+   "id": 266,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa y propone la hipótesis de que la infección de las células endoteliales por herpesvirus subyace a la sintomatología de la EM/SFC.",
+   "diseno": "Revisión narrativa con propuesta de modelo conceptual sobre latencia y reactivación de herpesvirus en el endotelio.",
+   "hallazgos": "Se sintetiza evidencia que vincula los herpesvirus con la infección endotelial persistente y sus consecuencias: alteración de la regulación del flujo sanguíneo, de la coagulación y deterioro cognitivo, síntomas compatibles con EM/SFC y COVID persistente.",
+   "conclusion": "La maladaptación endotelial inducida por herpesvirus podría explicar en parte la cronicidad y el carácter multisistémico de la EM/SFC; es necesario investigar la prevalencia y carga de infección endotelial en pacientes.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF matizan que la infección endotelial no explicaría toda la patología, ya que la infección de células inmunes y nerviosas también contribuiría.",
+   "conceptos": [
+    "herpesvirus",
+    "células endoteliales",
+    "disfunción endotelial",
+    "latencia y reactivación viral",
+    "COVID persistente"
+   ]
+  },
+  {
+   "id": 275,
+   "tipo": "Estudio original",
+   "tema": "Evalúa de forma preliminar si la oxigenoterapia hiperbárica (HBOT) reduce los biomarcadores de oxi-inflamación en pacientes con COVID persistente.",
+   "diseno": "Serie preliminar de 5 sujetos con COVID persistente (deportistas y pacientes con comorbilidades) tratados con O2 al 100% a 2,4 ATA, 90 min, en distintos protocolos de sesiones; biomarcadores en saliva y/u orina antes y después del tratamiento.",
+   "hallazgos": "Tras el tratamiento se atenuaron la producción de ROS, la peroxidación lipídica, el daño del ADN, los metabolitos de NO y los biomarcadores de inflamación, especialmente en los deportistas.",
+   "conclusion": "La HBOT podría considerarse un posible tratamiento del COVID persistente; se requieren muestras mayores, que podrían incluir otros síndromes posvirales.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes en oxi-inflamación y HBOT; el estudio no trata específicamente de EM/SFC y la descripción de la muestra en el abstract es internamente inconsistente (dos o tres deportistas). Las conclusiones son prudentes ('preliminar').",
+   "conceptos": [
+    "oxigenoterapia hiperbárica (HBOT)",
+    "COVID persistente",
+    "estrés oxidativo",
+    "especies reactivas de oxígeno (ROS)",
+    "inflamación"
+   ]
+  },
+  {
+   "id": 307,
+   "tipo": "Ensayo clínico",
+   "tema": "Investiga si el ejercicio gradual e intermitente mejora la activación de linfocitos CD8+ y los marcadores de degranulación de células NK en SFC/EM frente a la atención habitual.",
+   "diseno": "Ensayo aleatorizado con 24 pacientes con SFC (50,2 ± 10 años) asignados a ejercicio gradual, ejercicio intermitente o atención habitual durante 12 semanas, más 18 controles sedentarios para comparaciones inmunológicas; citometría (CD8+CD38+, LAMP-1/LAMP-2) y capacidad aeróbica.",
+   "hallazgos": "Tras la intervención, el porcentaje de NK con LAMP-1/-2 fue mayor con ejercicio intermitente frente a atención habitual y con ejercicio gradual frente a atención habitual y controles; ambos ejercicios aumentaron la expresión pre-post y mejoraron la capacidad aeróbica. No hubo cambios significativos en CD8+CD38+.",
+   "conclusion": "Ambas modalidades aumentaron los marcadores de activación y degranulación NK y la capacidad de ejercicio sin empeorar los síntomas, y podrían reducir CD8+CD38+; se justifican ensayos mayores y más largos.",
+   "triangulacion": "Las tres fuentes son coherentes; abstract y conclusiones afirman una posible reducción de CD8+CD38+ pese a no haber cambios pre-post significativos, un matiz a considerar. Las keywords se centran en NK y ejercicio.",
+   "conceptos": [
+    "células NK",
+    "degranulación (LAMP-1/LAMP-2)",
+    "ejercicio gradual",
+    "ejercicio intermitente",
+    "linfocitos CD8+CD38+"
+   ]
+  },
+  {
+   "id": 327,
+   "tipo": "Caso clínico",
+   "tema": "Describe un paciente con SFC en el que el modelo de obstrucción del drenaje venoso craneal guió el estudio y el tratamiento quirúrgico.",
+   "diseno": "Caso clínico; TC y venografía por catéter.",
+   "hallazgos": "Se identificaron estenosis focales de ambas yugulares y del tronco braquiocefálico izquierdo; la obstrucción braquiocefálica no fue tratable, pero la liberación quirúrgica de la obstrucción yugular, en procedimientos sucesivos, produjo mejoras clínicas incrementales y significativas, duraderas durante el seguimiento.",
+   "conclusion": "Investigar el SFC bajo este modelo podría beneficiar a pacientes concretos y aportar conocimiento sobre la hipertensión intracraneal idiopática y su relación con la hipotensión intracraneal espontánea.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes con el modelo de obstrucción venosa y fuga de LCR; la discusión disponible es breve y mayoritariamente ruido administrativo, por lo que el peso recae en el abstract.",
+   "conceptos": [
+    "obstrucción del drenaje venoso craneal",
+    "hipertensión intracraneal idiopática",
+    "fuga de LCR",
+    "venografía",
+    "cirugía venosa yugular"
+   ]
+  },
+  {
+   "id": 344,
+   "tipo": "Estudio original",
+   "tema": "Determina si la disautonomía subjetiva medida por cuestionarios se correlaciona con la disautonomía objetiva de las pruebas autonómicas cuantitativas.",
+   "diseno": "Estudio transversal retrospectivo (2017-2023) en un laboratorio autonómico; 2627 pacientes con SAS, QASAT y CASS y 564 con COMPASS-31; Valsalva, respiración profunda, prueba sudomotora y mesa basculante; subgrupos diagnósticos, entre ellos 95 con EM/SFC.",
+   "hallazgos": "La correlación fue fuerte entre instrumentos subjetivos (r = 0,74) y entre objetivos (r = 0,81), pero no hubo correlación entre subjetivos y objetivos, tampoco por diagnósticos (post-COVID, POTS, EM/SFC, hEDS, entre otros).",
+   "conclusion": "Los cuestionarios autonómicos tienen limitaciones, con pacientes que sobrestiman o infraestiman el déficit, y no pueden recomendarse como sustituto de las pruebas autonómicas.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF son más breves y piden estudiar el origen y significado de la disautonomía subjetiva. La EM/SFC es solo uno de los subgrupos analizados.",
+   "conceptos": [
+    "disautonomía",
+    "COMPASS-31",
+    "pruebas autonómicas cuantitativas",
+    "correlación subjetiva-objetiva",
+    "POTS"
+   ]
+  },
+  {
+   "id": 348,
+   "tipo": "Estudio original",
+   "tema": "Evalúa si las decisiones de manejo de aneurismas intracraneales no rotos cambiaron tras implantar la escala PHASES.",
+   "diseno": "Estudio retrospectivo en dos centros terciarios neerlandeses (UMCU y LUMC), 2011-2017; 623 pacientes con 803 aneurismas, análisis por aneurisma.",
+   "hallazgos": "La proporción con decisión de tratar bajó del 34,2% al 26,4% tras la implantación (diferencia absoluta -7,8%), sobre todo en menores de 50 años (-22,3%) y solo en el UMCU (-10,6%).",
+   "conclusion": "El manejo cambió tras la implantación de PHASES, con impacto distinto según edad y centro; se necesita confirmar el efecto y evaluar roturas, complicaciones y calidad de vida.",
+   "triangulacion": "Las tres fuentes son coherentes entre sí, pero el paper no trata de EM/SFC ni del tema del lote; parece un documento incluido por error en la colección.",
+   "conceptos": [
+    "aneurisma intracraneal no roto",
+    "escala PHASES",
+    "riesgo de rotura",
+    "toma de decisiones terapéuticas",
+    "estratificación del riesgo"
+   ]
+  },
+  {
+   "id": 350,
+   "tipo": "Estudio original",
+   "tema": "Investiga las tendencias y factores asociados a la recurrencia y la mortalidad por cualquier causa tras ictus isquémico en una población rural de EE. UU. (2004-2018).",
+   "diseno": "Cohorte retrospectiva basada en historia clínica electrónica (base GNSIS); 8561 pacientes consecutivos con ictus isquémico; modelos de Cox estratificados y de riesgos por causa específica.",
+   "hallazgos": "La hipertensión fue el factor más prevalente (75,2%); la recurrencia y la mortalidad al año fueron del 6,3% y 16,1%. La recurrencia aumentó y la mortalidad disminuyó; edad > 65, fibrilación o flúter auricular, insuficiencia cardiaca e ictus previo predijeron mortalidad, y diabetes, enfermedad renal crónica y edad < 65 años, recurrencia.",
+   "conclusion": "Aunque la mortalidad tras el ictus disminuyó, la recurrencia y varios factores de riesgo vascular aumentaron; se requiere más control de factores de riesgo en subpoblaciones desatendidas.",
+   "triangulacion": "Las tres fuentes son coherentes entre sí, pero el paper no trata de EM/SFC; parece un documento incluido por error en la colección.",
+   "conceptos": [
+    "ictus isquémico",
+    "población rural",
+    "recurrencia del ictus",
+    "mortalidad por cualquier causa",
+    "factores de riesgo vascular"
+   ]
+  },
+  {
+   "id": 356,
+   "tipo": "Estudio original",
+   "tema": "Determina la prevalencia de SFC/EM en una muestra poblacional estadounidense y examina su asociación con la enfermedad cardiovascular (ECV).",
+   "diseno": "Estudio transversal con datos ponderados de 114.834 participantes de la National Health Interview Survey 2021-2022; regresión logística multivariable ajustada por factores de riesgo cardiovascular tradicionales.",
+   "hallazgos": "La mediana de edad fue 53 años y el 53,9% eran mujeres; la prevalencia de SFC/EM fue del 1,2%. El antecedente de SFC/EM se asoció significativamente con ECV tras el ajuste (ORa 3,26; IC95% 2,85-3,72; p < 0,001).",
+   "conclusion": "El SFC/EM se asocia de forma independiente con la ECV, por lo que los pacientes requieren una evaluación cardiovascular cuidadosa; se necesitan más estudios sobre esta relación.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF son algo más contundentes al presentar el SFC/EM como 'factor de riesgo independiente', algo que un diseño transversal no permite establecer causalmente.",
+   "conceptos": [
+    "enfermedad cardiovascular",
+    "comorbilidades",
+    "factores de riesgo cardiovascular",
+    "prevalencia",
+    "encuesta poblacional"
+   ]
+  },
+  {
+   "id": 381,
+   "tipo": "Estudio original",
+   "tema": "Examina si la actividad parasimpática (HRV) durante el sueño profundo está reducida en el SFC y su relación con el sueño no reparador y el bienestar autoinformado.",
+   "diseno": "Estudio caso-control con EEG nocturno y HRV simultáneos en pacientes con SFC y controles sanos; el tamaño muestral no consta en el texto disponible.",
+   "hallazgos": "El sueño no reparador y el peor bienestar autoinformado se asociaron con menor actividad parasimpática durante el sueño profundo (NREM2 y sueño de ondas lentas), pero no en vigilia en reposo; el tiempo total de sueño y la proporción de fases no explicaban el sueño no reparador.",
+   "conclusion": "Los hallazgos apoyan una hipervigilancia autonómica nocturna subyacente al síntoma central del SFC, aunque se requieren estudios longitudinales y experimentales para establecer causalidad.",
+   "triangulacion": "Las tres fuentes son coherentes; el 'abstract' es un resumen breve de justificación e impacto sin datos metodológicos, y las conclusiones del PDF añaden que la arquitectura del sueño no difiere.",
+   "conceptos": [
+    "actividad parasimpática",
+    "sueño de ondas lentas",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "sueño no reparador",
+    "hipervigilancia autonómica"
+   ]
+  },
+  {
+   "id": 384,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Explica los mecanismos de la alteración energética del músculo esquelético en EM/SFC y los integra con la hipótesis previa de disfunción del receptor β2-adrenérgico.",
+   "diseno": "Artículo de hipótesis sin datos empíricos propios.",
+   "hallazgos": "Se propone que la disfunción del β2AdR estimula insuficientemente la Na+/K+-ATPasa, causando sobrecarga de sodio que invierte el intercambiador Na+/Ca2+ y provoca sobrecarga de calcio con daño mitocondrial, metabólico y endotelial; el NHE1 sobrerregulado reduciría el umbral de reinducción incluso con actividades cotidianas.",
+   "conclusion": "Este círculo vicioso explicaría el PEM, la intolerancia al ejercicio y la cronificación; las disfunciones de β2AdR, NHE1, Na+/K+-ATPasa, NCX, SRAA y sistema calicreína-cinina deberían investigarse como posibles dianas terapéuticas.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes en torno a la simpaticólisis y la sobrecarga de sodio; la discusión (con ruido de agradecimientos) amplía las dianas a SRAA y calicreína-cinina y reconoce predisposiciones aún desconocidas.",
+   "conceptos": [
+    "receptor β2-adrenérgico",
+    "Na+/K+-ATPasa",
+    "sobrecarga de sodio y calcio",
+    "simpaticólisis funcional",
+    "malestar post-esfuerzo (PEM)"
+   ]
+  },
+  {
+   "id": 403,
+   "tipo": "Estudio original",
+   "tema": "Explora diferencias en rigidez aórtica, función autonómica y gravedad de la fatiga entre pacientes con SFC con y sin PEM.",
+   "diseno": "Estudio transversal con 101 pacientes con SFC (criterios de Fukuda), 82 con PEM prolongado y 19 sin él; CFQ y FIS; presión sistólica aórtica (Arteriograph) y función autonómica (Task Force Monitor).",
+   "hallazgos": "Los pacientes con PEM tenían mayor FIS, menor presión sistólica central y más fatiga mental. Cada punto de fatiga mental aumentaba el riesgo de PEM un 34%, cada mmHg de presión aórtica lo reducía un 5% y cada unidad de equilibrio simpatovagal lo aumentaba un 330%; ninguna diferencia resistió la corrección FDR.",
+   "conclusion": "Mayor fatiga mental y actividad simpática en reposo y menor presión sistólica central podrían relacionarse con el PEM, pero los resultados deben tomarse con cautela y replicarse.",
+   "triangulacion": "Las tres fuentes son coherentes y comparten la cautela por la pérdida de significación tras la corrección por comparaciones múltiples; el título es más afirmativo que los datos.",
+   "conceptos": [
+    "malestar post-esfuerzo (PEM)",
+    "presión arterial central",
+    "rigidez aórtica",
+    "equilibrio simpatovagal",
+    "fatiga mental"
+   ]
+  },
+  {
+   "id": 420,
+   "tipo": "Estudio original",
+   "tema": "Estudia el curso temporal de la vasodilatación inducida por acetilcolina en la microcirculación cutánea de pacientes con SFC.",
+   "diseno": "Estudio caso-control con 30 pacientes con SFC y 30 controles sanos emparejados por edad y sexo; dosis única de ACh transdérmica (iontoforesis) y medida del flujo cutáneo.",
+   "hallazgos": "No hubo diferencias en el flujo máximo, pero la recuperación fue más lenta en los pacientes: tiempo hasta el 75% del pico 13,7 ± 11,3 frente a 8,9 ± 3,7 min (p = 0,03) y hasta el 50%, 24,5 ± 18,8 frente a 15,1 ± 8,9 min (p = 0,03).",
+   "conclusion": "La vasodilatación prolongada por ACh sugiere una alteración de las vías colinérgicas, quizá en el endotelio vascular, que podría relacionarse con la hipotensión, la intolerancia ortostática y el POTS asociados al SFC.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes; la discusión es más prudente al limitar el hallazgo a la ACh como vasodilatador dependiente del endotelio y señalar que su significado para la integridad vascular está por determinar.",
+   "conceptos": [
+    "acetilcolina",
+    "vasodilatación dependiente del endotelio",
+    "microcirculación periférica",
+    "función colinérgica",
+    "intolerancia ortostática"
+   ]
+  },
+  {
+   "id": 424,
+   "tipo": "Estudio original",
+   "tema": "Examina la actividad del sistema nervioso autónomo en reposo y tras un ejercicio agudo en EM/SFC.",
+   "diseno": "Estudio caso-control con 20 pacientes con EM/SFC y 20 personas sanas; respuestas cardiacas, respiratorias y electrodérmicas en reposo y tras una sesión de ejercicio agudo.",
+   "hallazgos": "En reposo, los parámetros del dominio temporal eran normales, mientras que los del dominio de frecuencias indicaban posible menor activación (para)simpática. Tras el ejercicio se observó una reactivación parasimpática reducida durante la recuperación.",
+   "conclusion": "Hay menor modulación autonómica y reactivación parasimpática tras el ejercicio en EM/SFC; dado que la recuperación lenta de la frecuencia cardiaca se asocia a peor pronóstico en otras patologías, se justifican estudios sobre cómo mejorarla de forma segura, con periodos de recuperación suficientes.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF añaden la recomendación de periodos de recuperación largos y advierten que la implicación pronóstica en EM/SFC está por comprobar.",
+   "conceptos": [
+    "reactivación parasimpática",
+    "recuperación de la frecuencia cardiaca",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "recuperación post-ejercicio",
+    "disfunción autonómica"
+   ]
+  },
+  {
+   "id": 426,
+   "tipo": "Estudio original",
+   "tema": "Evalúa parámetros diurnos de HRV como biomarcador en SFC/EM y su relación con los síntomas autoinformados.",
+   "diseno": "Estudio caso-control con 45 mujeres con SFC/EM (criterios CDC/Fukuda 1994) y 25 controles emparejados; registro de intervalos RR en tres periodos de 5 min con tecnología mHealth; análisis en dominios temporal y de frecuencias; correlación y regresión lineal.",
+   "hallazgos": "Las pacientes puntuaron más en todos los cuestionarios, con menores intervalos RR y menores parámetros de HRV (salvo LF/HF). La fatiga autoinformada se relacionó con RR medio, RMSSD y HFnu en pacientes, pero no en controles.",
+   "conclusion": "La disfunción autonómica, como hiperactividad simpática, podría contribuir a la gravedad de la fatiga, y la HRV mediante mHealth sería útil para predecirla; se requieren cohortes mayores y longitudinales, incluidos hombres.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF amplían el uso propuesto (monitorización para prevenir el PEM, CPET de dos días, eje HPA), más allá de lo evaluado.",
+   "conceptos": [
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "gravedad de la fatiga",
+    "hiperactividad simpática",
+    "salud móvil (mHealth)",
+    "biomarcadores"
+   ]
+  },
+  {
+   "id": 429,
+   "tipo": "Estudio original",
+   "tema": "Examina el efecto de un programa de actividad individualizado (IAP) sobre parámetros cardiovasculares, mitocondriales, autonómicos y de fatiga en el SFC.",
+   "diseno": "Estudio de intervención sin grupo control: 34 pacientes completaron 16 semanas de IAP; CFQ, FSS y FIS; CPET (VO2pico, VO2 submáximo, frecuencia cardiaca); Mfn1 y Mfn2 plasmáticas; Task Force Monitor en reposo y en mesa basculante.",
+   "hallazgos": "Las puntuaciones de fatiga disminuyeron y aumentaron Mfn1 y Mfn2 (p = 0,002 y p = 0,00005). Se observaron relaciones entre VO2pico y el aumento de Mfn1 (p = 0,03) y entre VO2 en umbral anaerobio y la respuesta autonómica a la mesa basculante (p = 0,03).",
+   "conclusion": "El IAP reduce la fatiga y mejora el rendimiento funcional junto con cambios autonómicos y mitocondriales, aunque con cautela porque el 51% de los pacientes no toleró bien el ejercicio.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones proceden del abstract estructurado y lo reproducen. La mala tolerancia en la mitad de los pacientes matiza el mensaje positivo.",
+   "conceptos": [
+    "programa de actividad individualizado",
+    "función mitocondrial",
+    "mitofusinas (Mfn1/Mfn2)",
+    "prueba de esfuerzo cardiopulmonar (CPET)",
+    "intolerancia al ejercicio"
+   ]
+  },
+  {
+   "id": 447,
+   "tipo": "Estudio original",
+   "tema": "Examina si el perfil de citocinas circulantes o las pruebas cardiovasculares tras el ejercicio diferencian a los pacientes con EM/SFC de controles sedentarios.",
+   "diseno": "Estudio caso-control con 24 pacientes con EM/SFC y 24 controles sedentarios emparejados; ecocardiografía, prueba de esfuerzo cardiopulmonar y función endotelial; panel Luminex de 51 citocinas y factores de crecimiento basal y 18 h post-ejercicio; análisis discriminante sPLS-DA.",
+   "hallazgos": "La estructura cardiaca y la capacidad de ejercicio fueron similares entre grupos. El perfil de citocinas 18 h post-ejercicio ofreció la mejor discriminación (κ = 0,62), con CD40L, inhibidor del activador plaquetario, IL-1β, interferón-α y CXCL1 como las más discriminantes.",
+   "conclusion": "El perfil de citocinas tras el ejercicio podría ayudar a diferenciar a los pacientes con EM/SFC de los controles sedentarios.",
+   "triangulacion": "Keywords y abstract son coherentes; las conclusiones extraídas de la discusión son solo ruido (abreviaturas y métodos estadísticos), por lo que no aportan triangulación útil.",
+   "conceptos": [
+    "perfil de citocinas",
+    "prueba de esfuerzo submáxima",
+    "CD40L",
+    "IL-1β",
+    "función endotelial"
+   ]
+  },
+  {
+   "id": 461,
+   "tipo": "Estudio original",
+   "tema": "Pone a prueba la hipótesis de que la hipermovilidad, los signos de hipertensión intracraneal (HI) y las obstrucciones craneocervicales están sobrerrepresentados en EM/SFC y explican muchos síntomas.",
+   "diseno": "Estudio transversal retrospectivo en una clínica especializada; 229 pacientes con EM/SFC grave (criterios canadienses; 190 mujeres y 39 hombres); puntuación de Beighton, cociente diámetro de la vaina del nervio óptico/globo ocular en RM cerebral, posición de las amígdalas cerebelosas, RM cervical y prueba sensorial cuantitativa.",
+   "hallazgos": "El 50% tenía hipermovilidad; de 205 con RM cerebral, el 55% tenía ONSD aumentado y el 83% signos de posible HI (32% graves); el 56% tenía amígdalas cerebelosas bajo la línea de McRae. De 125 con RM cervical, el 80% tenía obstrucciones craneocervicales; el 96% presentaba alodinia y el 76% fibromialgia.",
+   "conclusion": "Existe una gran sobrerrepresentación de hipermovilidad, signos de HI y obstrucciones craneocervicales frente a la población general, que podría explicar síntomas como niebla mental, intolerancia ortostática y PEM; si se confirma, cabría un cambio de paradigma diagnóstico y terapéutico.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF son más ambiciosas que el abstract al atribuir a estos signos neuroinflamación y autoinmunidad, sin que la comparación con la población general se base en un grupo control propio.",
+   "conceptos": [
+    "hipertensión intracraneal",
+    "hipermovilidad articular",
+    "obstrucción craneocervical",
+    "diámetro de la vaina del nervio óptico",
+    "fibromialgia"
+   ]
+  },
+  {
+   "id": 481,
+   "tipo": "Caso clínico",
+   "tema": "Describe tres pacientes con EM/SFC grave cuyos síntomas mejoraron tras el diagnóstico y tratamiento quirúrgico de una estenosis del canal cervical.",
+   "diseno": "Serie de tres casos consecutivos con EM/SFC e intolerancia ortostática; función evaluada con la escala de Karnofsky y la subescala de función física del SF-36 antes y después de la cirugía.",
+   "hallazgos": "Se observaron hiperreflexia (2 de 3), signo de Hoffman (2 de 3), temblor (2 de 3) y ausencia de reflejo nauseoso (1 de 3), con diámetro del canal de 6-8,5 mm. La cirugía cervical anterior (prótesis discal o técnica híbrida) se asoció a mejoría de los síntomas mielopáticos, resolución del mareo y la disfunción hemodinámica, y mejoría global de la EM/SFC.",
+   "conclusion": "La estenosis cervical habría contribuido a la patogenia de la EM/SFC refractaria y de los síntomas ortostáticos; se debe buscar con cuidado signos mielopáticos en pacientes graves que no responden al tratamiento.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF precisan que eran mujeres jóvenes refractarias a manejo médico y psiquiátrico. La inferencia causal se basa en solo tres casos.",
+   "conceptos": [
+    "estenosis del canal cervical",
+    "mielopatía",
+    "intolerancia ortostática",
+    "EM/SFC grave",
+    "cirugía cervical"
+   ]
+  },
+  {
+   "id": 505,
+   "tipo": "Estudio original",
+   "tema": "Evalúa objetivamente la función autonómica en la condición post-COVID (PCC) y en la EM/SFC no relacionada con COVID para comprobar si comparten anomalías.",
+   "diseno": "Estudio caso-control con 34 pacientes con EM/SFC, 29 con PCC y 32 controles sanos; ECG y presión arterial digital continua (método de Penaz, espiroarteriocardiorritmografía); HRV y variabilidad de la presión arterial en reposo y con respiración controlada; sensibilidad barorrefleja.",
+   "hallazgos": "La potencia total, LF y HF de los intervalos RR y la sensibilidad barorrefleja fueron menores en PCC y EM/SFC que en controles; con respiración lenta la HRV se normalizó en PCC pero no en EM/SFC. HRV, variabilidad de la presión y barorreflejo se correlacionaron con la fatiga, no con la ansiedad o depresión (HADS); se desarrollaron modelos predictivos diagnósticos para EM/SFC.",
+   "conclusion": "EM/SFC y PCC muestran un patrón similar de fallo de la HRV y del barorreflejo con signos de aceleración patológica de la disautonomía dependiente de la edad.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones proceden del abstract estructurado y lo reproducen. La diferencia durante la respiración lenta matiza la 'similitud' del título.",
+   "conceptos": [
+    "disautonomía",
+    "sensibilidad barorrefleja",
+    "variabilidad de la frecuencia cardiaca (HRV)",
+    "variabilidad de la presión arterial",
+    "COVID persistente"
+   ]
+  },
+  {
+   "id": 515,
+   "tipo": "Estudio original",
+   "tema": "Examina si la calidad del sueño, las siestas diurnas, características del paciente y el estado de ánimo predicen la fatiga, la somnolencia diurna y el funcionamiento cognitivo en el SFC.",
+   "diseno": "Estudio observacional con 118 adultos con SFC (criterios CDC 1994); diario de sueño de 14 días; evaluaciones momentáneas; escalas de Chalder, Epworth, Trail Making Test, Cognitive Failures Questionnaire y HADS; regresiones jerárquicas.",
+   "hallazgos": "Menor tiempo desde el diagnóstico, más depresión y más vigilia tras el inicio del sueño explicaron el 23,4% de la varianza de la fatiga; sexo masculino, depresión y siestas vespertinas, el 25,6% de la disfunción cognitiva objetiva; ansiedad, depresión y siestas matutinas, el 32,2% de la subjetiva. Las siestas largas o vespertinas se asociaron a mayor somnolencia.",
+   "conclusion": "Las siestas, sobre todo por la tarde, se asocian con peor funcionamiento cognitivo y más somnolencia diurna en el SFC, con implicaciones para el manejo de síntomas.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF coinciden con las del abstract (seguidas de texto de introducción). El papel de la depresión y la ansiedad, destacado en los resultados, no aparece en las keywords.",
+   "conceptos": [
+    "siestas diurnas",
+    "funcionamiento cognitivo",
+    "somnolencia diurna",
+    "calidad del sueño",
+    "depresión"
+   ]
+  },
+  {
+   "id": 519,
+   "tipo": "Revisión narrativa",
+   "tema": "Compara las características de la hipertensión intracraneal idiopática (HII), la fibromialgia y el SFC y las vincula a una fisiopatología común: el aumento de la presión del LCR.",
+   "diseno": "Revisión de la literatura que contrasta las tres condiciones con la hipótesis de presión cefalorraquídea elevada.",
+   "hallazgos": "Las características compartidas atribuibles a presión intracraneal elevada incluyen cefalea, fatiga, deterioro cognitivo, pérdida de sustancia gris, afectación de pares craneales y sobrecarga de la vía linfática olfatoria; la presión espinal explicaría dolor difuso, debilidad, ataxia y síntomas esfinterianos. Las tres se asocian a hiperactividad simpática, obesidad, predominio femenino y síndrome de Ehlers-Danlos.",
+   "conclusion": "HII, fibromialgia y SFC probablemente comparten un trastorno de presión cefalorraquídea elevada y podrían considerarse trastornos neurológicos progresivos; la investigación debería centrarse en estrategias para reducir la presión del LCR.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF son más afirmativas ('probablemente causadas') y extienden la hipótesis a otros cuadros de dolor crónico solapados.",
+   "conceptos": [
+    "hipertensión intracraneal idiopática",
+    "fibromialgia",
+    "presión del LCR",
+    "síndrome de Ehlers-Danlos",
+    "fisiopatología compartida"
+   ]
+  },
+  {
+   "id": 521,
+   "tipo": "Estudio original",
+   "tema": "Investiga si la hipercoagulabilidad, la hiperactivación plaquetaria y los microcoágulos fibrinaloides descritos en COVID persistente están presentes en la EM/SFC.",
+   "diseno": "Estudio caso-control en pacientes con EM/SFC y controles sanos emparejados por sexo y edad (tamaño muestral no consta, descrito como bajo); tromboelastografía en sangre total y plasma pobre en plaquetas; microscopía de fluorescencia de microcoágulos; marcadores plaquetarios PAC-1 y CD62P.",
+   "hallazgos": "Las muestras de EM/SFC mostraron hipercoagulabilidad significativa; el área con microcoágulos fibrinaloides era con frecuencia más de 10 veces mayor que en controles, y las plaquetas estaban hiperactivadas (puntuación de extensión 2,72 ± 1,24 frente a 1,00). La carga de microcoágulos fue menor que en COVID persistente.",
+   "conclusion": "La EM/SFC se acompaña de cambios medibles en coagulabilidad, hiperactivación plaquetaria y microcoágulos, que apuntan a patología vascular sistémica e inflamación endotelial; se requieren estudios mayores y prudencia ante la anticoagulación.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF son más prudentes que el abstract, reconociendo el bajo número de participantes y la necesidad de corroboración antes de aplicar terapias.",
+   "conceptos": [
+    "microcoágulos fibrinaloides",
+    "hiperactivación plaquetaria",
+    "hipercoagulabilidad",
+    "tromboelastografía",
+    "inflamación endotelial"
+   ]
+  },
+  {
+   "id": 573,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa (revisión 'state-of-the-art' de JACC) las alteraciones cardiovasculares asociadas a la EM/SFC.",
+   "diseno": "Revisión narrativa.",
+   "hallazgos": "Los pacientes presentan con frecuencia volumen sistólico reducido, con relación inversa entre gasto cardiaco y gravedad del PEM; la RM muestra volúmenes sistólico, telesistólico y telediastólico y masa parietal reducidos. También se describen presión arterial nocturna reducida, taquicardia ortostática y/o hipocapnia, y la utilidad de dos CPET consecutivas para objetivar el PEM.",
+   "conclusion": "Cambios como el menor volumen sistólico y gasto cardiaco, el menor volumen sanguíneo total y la HRV alterada con hipotensión postural podrían contribuir a los síntomas; falta aclarar su relación con la fatiga y el PEM y el papel del desacondicionamiento.",
+   "triangulacion": "Las tres fuentes son coherentes; el 'abstract' es el texto inicial que contiene el resumen. Las conclusiones del PDF son más prudentes e introducen el desacondicionamiento como cuestión abierta.",
+   "conceptos": [
+    "volumen sistólico",
+    "gasto cardiaco",
+    "intolerancia ortostática",
+    "malestar post-esfuerzo (PEM)",
+    "CPET de dos días"
+   ]
+  },
+  {
+   "id": 577,
+   "tipo": "Revisión narrativa",
+   "tema": "Argumenta que la lesión por isquemia-reperfusión subyace a parte de la patología de enfermedades crónicas recidivantes como la artritis reumatoide, el COVID persistente y la EM/SFC.",
+   "diseno": "Revisión narrativa con propuesta mecanística.",
+   "hallazgos": "La isquemia podría iniciarse por bloqueo capilar con microcoágulos de fibrina amiloide al comenzar el ejercicio, y la reperfusión al terminar; se revisa evidencia de estrés oxidativo, hiperinflamación, activación mastocitaria y metabolitos marcadores, que explicarían disnea, fatiga y PEM.",
+   "conclusion": "Si el análisis es correcto, habría beneficio terapéutico potencial con antioxidantes, antiinflamatorios, quelantes de hierro y fibrinolíticos o anticoagulantes seguros.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes; las conclusiones (con ruido de pie de figura y descarga) condicionan las implicaciones terapéuticas a que el análisis sea correcto. El foco principal es el COVID persistente más que la EM/SFC.",
+   "conceptos": [
+    "lesión por isquemia-reperfusión",
+    "microcoágulos de fibrina amiloide",
+    "estrés oxidativo",
+    "malestar post-esfuerzo (PEM)",
+    "COVID persistente"
+   ]
+  }
+ ]
+}

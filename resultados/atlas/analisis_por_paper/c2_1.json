@@ -1,0 +1,917 @@
+{
+ "lote": "c2_1",
+ "analisis": [
+  {
+   "id": 165,
+   "tipo": "Estudio original",
+   "tema": "Describe las características clínicas de pacientes con trastorno hipotalámico inexplicado diagnosticado mediante la prueba de estímulo con CRH, con el objetivo de aclarar su fisiopatología.",
+   "diseno": "Estudio retrospectivo de pacientes sometidos a prueba de CRH, clasificados en cuatro grupos: respuesta normal (n = 18), trastorno hipotalámico inexplicado (n = 18), explicable (n = 38) y trastorno hipofisario (n = 15); comparación de características clínicas, prueba de tolerancia a la insulina y cortisol urinario.",
+   "hallazgos": "El grupo con trastorno hipotalámico inexplicado mostró picos de ACTH más bajos que el grupo normal, variación diurna atenuada y cortisol libre urinario en rango normal-bajo; eran sobre todo mujeres jóvenes con fatiga crónica. La hidrocortisona a dosis fisiológicas redujo la fatiga solo en algunos pacientes.",
+   "conclusion": "Estos pacientes presentan disfunción del eje HPA y algunos una insuficiencia suprarrenal central leve; la respuesta parcial a la hidrocortisona sugiere que la disfunción podría ser una adaptación fisiológica, relevante para entender la EM/SFC.",
+   "triangulacion": "Las tres fuentes son coherentes: las keywords (eje HPA, insuficiencia suprarrenal secundaria, hidrocortisona) coinciden con abstract y conclusiones del PDF, que reproducen casi literalmente la conclusión del abstract. El vínculo con la EM/SFC es interpretativo y se plantea como línea futura.",
+   "conceptos": [
+    "eje hipotálamo-hipófiso-suprarrenal (HPA)",
+    "prueba de estímulo con CRH",
+    "insuficiencia suprarrenal central",
+    "hidrocortisona",
+    "fatiga crónica"
+   ]
+  },
+  {
+   "id": 168,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa los solapamientos entre la EM/SFC y la fatiga relacionada con el cáncer (CRF) y plantea si ambas reflejan una inestabilidad fenotípica inducida por estrés.",
+   "diseno": "Revisión narrativa de la literatura sobre mecanismos compartidos (eje HPA, sistema serotoninérgico, citocinas e inflamación, insuficiencia metabólica y mitocondrial, cambios genéticos) y estresores como la radiación ionizante.",
+   "hallazgos": "Se identifican mecanismos candidatos comunes: disfunción neurológica, cambios en serotonina y reloj circadiano, inflamación elevada, déficits metabólicos y cambios genéticos. Los autores proponen que CRF y EM/SFC podrían situarse en un continuo de respuestas biológicas al estrés modulado por la predisposición genética.",
+   "conclusion": "Existe un solapamiento sintomático notable y cierta evidencia de vínculo etiológico, pero el papel de la dosis de radiación sigue sin aclararse; se requiere identificar biomarcadores comunes para orientar terapias.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes en los ejes mecanísticos (HPA, serotonina, mitocondria, radiación). Las conclusiones son más prudentes que la hipótesis del continuo, al subrayar la falta de pruebas sobre la radiación, especialmente en la EM/SFC.",
+   "conceptos": [
+    "fatiga relacionada con el cáncer",
+    "eje HPA",
+    "sistema serotoninérgico",
+    "disfunción mitocondrial",
+    "radiación ionizante"
+   ]
+  },
+  {
+   "id": 173,
+   "tipo": "Estudio original",
+   "tema": "Compara las puntuaciones de fatiga obtenidas con la versión coreana del Multidimensional Fatigue Inventory (MFI-K) y la escala de fatiga de Chalder modificada (mKCFQ).",
+   "diseno": "Estudio transversal en 70 participantes (40 hombres, 30 mujeres; mediana de 48 años) de personal universitario, agrupados por fatiga autodeclarada (leve 20, moderada 42, grave 8); análisis de correlaciones y escalado multidimensional (MDS).",
+   "hallazgos": "Las puntuaciones totales se correlacionaron significativamente (r = 75%), con mayor correlación en fatiga general (79%) y física (66%) que en motivación (41%) y actividad (26%, no significativa). El MFI-K sobreestimó la fatiga, sobre todo en el grupo leve, y el mKCFQ discriminó mejor los grupos de gravedad.",
+   "conclusion": "Ambos instrumentos son útiles, especialmente para la fatiga física; el MFI-K podría servir en fatiga moderada-grave como la del SFC y el mKCFQ en todo el espectro, incluidos sujetos subsanos.",
+   "triangulacion": "Las tres fuentes concuerdan en la alta correlación y en la mejor discriminación del mKCFQ. Las conclusiones del PDF añaden la necesidad de mejorar las dimensiones de actividad y motivación; las keywords no mencionan la escala de Chalder ni el SFC, que es solo un contexto de aplicación.",
+   "conceptos": [
+    "Multidimensional Fatigue Inventory (MFI)",
+    "escala de fatiga de Chalder",
+    "validación de instrumentos",
+    "fatiga física",
+    "fatiga mental"
+   ]
+  },
+  {
+   "id": 185,
+   "tipo": "Otro",
+   "tema": "Comentario editorial que valora si la minociclina podría ser una \"bala mágica\" para tratar la EM/SFC a raíz de un ensayo abierto de Miwa.",
+   "diseno": "Artículo de opinión/comentario sobre un estudio prospectivo abierto sin grupo control con minociclina; no aporta datos propios.",
+   "hallazgos": "Recuerda que el ensayo fase III con rituximab no mostró beneficio y destaca que en el estudio de Miwa el 27% de los sujetos mejoró ≥2 puntos en el estado funcional en 6 semanas, atribuido a la inhibición de la activación microglial. Señala limitaciones como el elevado número de abandonos y la ausencia de control.",
+   "conclusion": "Dada la heterogeneidad de la EM/SFC, es improbable un único fármaco para todos; propone estratificar a los pacientes por causa de inicio, duración, historia y factores psicosociales antes de evaluar tratamientos, incluidos los no farmacológicos.",
+   "triangulacion": "Keywords y abstract coinciden en minociclina, neuroinflamación y microglía, pero la discusión desplaza el foco hacia la heterogeneidad y la estratificación de pacientes, más prudente que el título. El texto de discusión incluye ruido editorial (afiliaciones, DOI).",
+   "conceptos": [
+    "minociclina",
+    "neuroinflamación",
+    "activación microglial",
+    "heterogeneidad de la EM/SFC",
+    "estratificación de pacientes"
+   ]
+  },
+  {
+   "id": 189,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa la investigación reciente sobre la base biológica de la EM/SFC y su potencial para desarrollar una prueba diagnóstica.",
+   "diseno": "Revisión narrativa que integra estudios moleculares propios (incluido un estudio preclínico de pacientes con proteómica por espectrometría de masas) y trabajos complementarios de otros grupos.",
+   "hallazgos": "Se describen elevación de procesos inflamatorios e inmunitarios, neuroinflamación continua y disminución del metabolismo general y de la función mitocondrial, que contribuirían al curso remitente-recurrente; de ello surgen posibles biomarcadores moleculares.",
+   "conclusion": "Se han identificado varios biomarcadores prometedores, pero requieren validación en cohortes grandes, multicéntricas y frente a enfermedades con rasgos similares.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes en inflamación, metabolismo y biomarcadores. La discusión es más prudente que el abstract al subrayar la necesidad de validación; incluye ruido de contribuciones y financiación.",
+   "conceptos": [
+    "biomarcadores diagnósticos",
+    "neuroinflamación",
+    "disfunción mitocondrial",
+    "hipometabolismo",
+    "activación inmunitaria"
+   ]
+  },
+  {
+   "id": 190,
+   "tipo": "Revisión narrativa",
+   "tema": "Resume el conocimiento disponible sobre las causas probables de la EM/SFC, con atención a la infección por SARS-CoV-2.",
+   "diseno": "Capítulo de revisión que se describe como sistemática de la literatura; no consta metodología detallada.",
+   "hallazgos": "Las teorías más probables son la cascada de citocinas postinfecciosa, alteraciones de la microbiota y de la barrera intestinal, alteraciones de los ejes cerebro-intestino y cerebro-suprarrenal, estimulación inmunitaria persistente de bajo grado y estrés oxidativo crónico. La fatiga post-COVID podría compartir la cascada de citocinas postviral.",
+   "conclusion": "La etiología es probablemente compleja y multifactorial; se necesita más investigación para hallar un marcador bioquímico diagnóstico y un tratamiento causal. La pandemia ha aumentado la visibilidad de la enfermedad.",
+   "triangulacion": "Las tres fuentes son coherentes en etiología, COVID-19 y ausencia de biomarcadores. Las conclusiones concretan las hipótesis etiológicas que el abstract solo anuncia; el abstract contiene errores de siglas (CFE, PE, IPC).",
+   "conceptos": [
+    "etiología multifactorial",
+    "cascada de citocinas postinfecciosa",
+    "microbiota intestinal",
+    "COVID-19",
+    "estrés oxidativo"
+   ]
+  },
+  {
+   "id": 191,
+   "tipo": "Estudio original",
+   "tema": "Evalúa si un panel de citocinas permite clasificar PASC, EM/SFC, enfermedad de Lyme postratamiento y síntomas post-vacunales similares a PASC.",
+   "diseno": "Estudio de clasificación en 236 pacientes (64 PASC, 50 EM/SFC, 29 PTLD, 42 POVIP, además de COVID-19 agudo); panel de 14 citocinas/quimiocinas y árbol de decisión CART.",
+   "hallazgos": "El algoritmo basado en \"hubs\" de citocinas clasificó PASC, EM/SFC, POVIP y COVID-19 agudo con un F1 medio de 0,61 y especificidad alta (94%).",
+   "conclusion": "La clasificación correcta de estas condiciones inflamatorias con síntomas similares es crucial para el diagnóstico y tratamiento; dirigir terapias a citocinas concretas podría ser una herramienta de medicina de precisión.",
+   "triangulacion": "Keywords, abstract y conclusiones coinciden en inflamación crónica y diagnóstico diferencial mediante CART. Las conclusiones del PDF añaden el enfoque terapéutico dirigido a citocinas y la posible persistencia antigénica, no presentes en el abstract.",
+   "conceptos": [
+    "COVID persistente (PASC)",
+    "perfil de citocinas",
+    "árbol de clasificación (CART)",
+    "diagnóstico diferencial",
+    "enfermedad de Lyme postratamiento"
+   ]
+  },
+  {
+   "id": 198,
+   "tipo": "Estudio original",
+   "tema": "Explora el síndrome de hipersensibilidad a humedad y moho y la vacunación como factores de riesgo de EM/SFC.",
+   "diseno": "Estudio de cohorte basado en entrevistas a familias (n = 81 casos, 53 niñas y 28 niños según la tabla) con diagnósticos de EM/SFC, POTS, PANS, CRPS y combinaciones; el abstract disponible es solo la cabecera del manuscrito aceptado.",
+   "hallazgos": "La tabla muestra que la mayoría de casos tenía EM/SFC, sola o con POTS (30 casos con EM/SFC + POTS); una niña de 11 años tuvo un ictus tras la vacunación. No constan resultados cuantitativos sobre la exposición a moho.",
+   "conclusion": "Los autores plantean que una evaluación adecuada de los factores de riesgo aumentaría la seguridad de las vacunas sin comprometer la inmunidad de grupo.",
+   "triangulacion": "El abstract no aporta contenido (es texto inicial del manuscrito), por lo que la triangulación es limitada; las keywords (moho, calidad del aire interior, sensibilidad química múltiple) y la discusión con ruido (conflictos, contribuciones, tabla) apuntan al mismo foco, pero sin resultados verificables.",
+   "conceptos": [
+    "exposición a moho",
+    "vacunación",
+    "factores de riesgo",
+    "POTS",
+    "EM/SFC pediátrica"
+   ]
+  },
+  {
+   "id": 211,
+   "tipo": "Estudio original",
+   "tema": "Determina si la EM/SFC es una forma extrema de fatiga o una condición cualitativamente distinta comparando sus factores de riesgo con los de la fatiga grave.",
+   "diseno": "Cohorte prospectiva de enfermeras estadounidenses (n = 41.802; 102 con EM/SFC, 522 con fatiga grave) seguidas desde 1989; cuestionario por correo y regresión de riesgos proporcionales de Cox.",
+   "hallazgos": "La fatiga grave se asoció a mayor edad, IMC elevado, terapia hormonal, mayor consumo de alcohol y menor de cafeína, asociaciones ausentes en la EM/SFC. La mononucleosis infecciosa previa se asoció de forma no significativa a EM/SFC (HR 1,77; 0,87-3,61) y en menor medida a fatiga grave (HR 1,28).",
+   "conclusion": "Los distintos factores de riesgo sugieren que la EM/SFC tiene una biología subyacente cualitativamente diferente de la fatiga grave; se confirma un riesgo aumentado tras mononucleosis.",
+   "triangulacion": "Las tres fuentes coinciden. Las conclusiones del PDF hablan de \"riesgo aumentado\" tras mononucleosis, algo más firme que el abstract, donde la asociación no es estadísticamente significativa.",
+   "conceptos": [
+    "factores de riesgo",
+    "fatiga grave",
+    "mononucleosis infecciosa",
+    "cohorte prospectiva",
+    "EM/SFC"
+   ]
+  },
+  {
+   "id": 215,
+   "tipo": "Estudio original",
+   "tema": "Analiza las firmas inmunitarias plasmáticas en la EM/SFC según la duración de la enfermedad.",
+   "diseno": "Estudio caso-control con análisis de analitos inmunitarios plasmáticos; el abstract está truncado (consta un grupo de n = 246); regresión logística, árboles de clasificación con validación cruzada y correlaciones de Spearman.",
+   "hallazgos": "Los casos de EM/SFC de corta duración mostraron activación marcada de citocinas pro y antiinflamatorias y disociación de las redes reguladoras entre citocinas. Las alteraciones se correlacionaron más con la duración que con la gravedad.",
+   "conclusion": "La inmunopatología de la EM/SFC no es estática, lo que tiene implicaciones para el diagnóstico precoz y el diseño de intervenciones.",
+   "triangulacion": "Keywords y abstract son coherentes (citocinas, duración, gravedad). El texto de conclusiones corresponde a métodos estadísticos y materiales suplementarios, por lo que no aporta conclusiones propias; el abstract está incompleto.",
+   "conceptos": [
+    "citocinas plasmáticas",
+    "duración de la enfermedad",
+    "redes de citocinas",
+    "diagnóstico precoz",
+    "inmunopatología"
+   ]
+  },
+  {
+   "id": 225,
+   "tipo": "Ensayo clínico",
+   "tema": "Evalúa la eficacia de repetir la inmunoadsorción (IA) en pacientes con EM/SFC que habían respondido previamente.",
+   "diseno": "Estudio piloto abierto en 5 pacientes con EM/SFC retratados unos dos años después con un protocolo de IA modificado; seguimiento de 12 meses con escalas específicas y anticuerpos anti-β2AR por ELISA.",
+   "hallazgos": "Se logró un descenso del 80-90% de IgG total y de anticuerpos anti-β2AR; la IA fue bien tolerada. Cuatro pacientes mejoraron rápidamente en varios síntomas durante 6-12 meses y uno no mejoró.",
+   "conclusion": "La IA muestra eficacia clínica en EM/SFC y justifica estudios controlados; podría integrarse como terapia inicial en pacientes con autoanticuerpos para lograr alivio rápido.",
+   "triangulacion": "Las tres fuentes son coherentes en la hipótesis autoinmune y la eficacia de la IA. Las conclusiones del PDF son algo más afirmativas (\"IA es eficaz\") que lo que permite una muestra de 5 pacientes sin control, matiz que el abstract sí reconoce al pedir ensayos controlados.",
+   "conceptos": [
+    "inmunoadsorción",
+    "autoanticuerpos anti-β2-adrenérgicos",
+    "hipótesis autoinmune",
+    "IgG",
+    "estudio piloto"
+   ]
+  },
+  {
+   "id": 226,
+   "tipo": "Caso clínico",
+   "tema": "Describe tres casos de SFC con defecto de transmisión neuromuscular y disautonomía colinérgica que respondieron a dosis bajas de piridostigmina.",
+   "diseno": "Serie de 3 casos (mujeres de 18, 28 y 29 años) evaluados con estimulación nerviosa repetitiva, escala CASS y serología de VEB; tratamiento con piridostigmina oral (10-30 mg).",
+   "hallazgos": "Las tres pacientes mostraron respuesta incremental del 42-60% a la estimulación repetitiva, afectación colinérgica leve y anticuerpos anti-VCA IgG positivos frente a VEB; todas mejoraron con piridostigmina.",
+   "conclusion": "Se plantea que la fatiga de algunos pacientes podría deberse a un defecto leve de transmisión neuromuscular con disautonomía colinérgica, quizá por reactividad cruzada de anticuerpos contra VEB con canales de calcio; los autores reconocen que la muestra es demasiado pequeña.",
+   "triangulacion": "Keywords, abstract y discusión son coherentes en piridostigmina y transmisión neuromuscular. La discusión añade la hipótesis mecanística sobre el VEB, ausente en las keywords, y es más cauta respecto a conclusiones definitivas.",
+   "conceptos": [
+    "piridostigmina",
+    "transmisión neuromuscular",
+    "disautonomía colinérgica",
+    "virus de Epstein-Barr (VEB)",
+    "estimulación nerviosa repetitiva"
+   ]
+  },
+  {
+   "id": 228,
+   "tipo": "Estudio original",
+   "tema": "Compara los niveles de lactato ventricular en SFC, fibromialgia (FM), ambos y controles para evaluar la hipótesis unitaria.",
+   "diseno": "Estudio comparativo de neuroimagen con espectroscopia de resonancia magnética de protones (1H MRSI), datos normalizados de dos estudios; tamaño de muestra no consta.",
+   "hallazgos": "El lactato en LCR ventricular no difirió entre SFC, FM y SFC+FM, pero fue significativamente mayor en los tres grupos que en los controles.",
+   "conclusion": "El lactato ventricular distingue a los pacientes de los controles, pero no es un biomarcador viable para diferenciar SFC de FM ni de casos con solapamiento.",
+   "triangulacion": "Las conclusiones proceden del abstract, por lo que coinciden plenamente con él; las keywords (heterogeneidad, biomarcadores, solapamiento) son coherentes. Paradójicamente, el propósito declarado era apoyar procesos distintos y el resultado no lo logra.",
+   "conceptos": [
+    "lactato ventricular",
+    "fibromialgia",
+    "espectroscopia por resonancia magnética",
+    "biomarcadores",
+    "hipótesis unitaria"
+   ]
+  },
+  {
+   "id": 231,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa las interacciones entre factores ambientales, neuroinmunes y de estrés nitro-oxidativo en la fisiopatología del SFC.",
+   "diseno": "Revisión narrativa de la literatura sobre alteraciones inmunitarias, factores ambientales, infecciones y déficits nutricionales.",
+   "hallazgos": "Las alteraciones inmunitarias más frecuentes son cambios en inmunoglobulinas, fenotipos de linfocitos B y T y perfiles de citocinas, y menor citotoxicidad de células NK; algunos marcadores (activación, actividad PKR) tienen rendimiento diagnóstico moderado. Las vías nitro-oxidativas activadas explicarían síntomas clave; infecciones, radiación de baja dosis, metales y déficit de selenio agravarían el cuadro.",
+   "conclusion": "Interacciones complejas entre vías inmunitarias y nitro-oxidativas, agentes infecciosos, factores ambientales y déficits nutricionales contribuyen a la fisiopatología del SFC; antioxidantes y reemplazo lipídico podrían tener cierta eficacia.",
+   "triangulacion": "Las tres fuentes son coherentes en disfunción inmunitaria, NK, PKR y estrés oxidativo. Las conclusiones del PDF amplían con disfunción mitocondrial, biomarcadores concretos (isoprostanos, TRPM3) y exposición a radiación o metales.",
+   "conceptos": [
+    "estrés nitro-oxidativo",
+    "células NK",
+    "proteína quinasa R (PKR)",
+    "factores ambientales",
+    "disregulación inmunitaria"
+   ]
+  },
+  {
+   "id": 233,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Revisa la inmunopatobiología del virus de Epstein-Barr (VEB) y propone que células con latencia que escapan a la vigilancia inmunitaria podrían originar la EM/SFC en un subgrupo de pacientes.",
+   "diseno": "Revisión con planteamiento de hipótesis basada en la literatura sobre patogenia de la EM/SFC, enfermedades autoinmunes y cáncer asociados al VEB.",
+   "hallazgos": "Se describen alteraciones de la inmunidad celular, respuesta Th2 aumentada, células infectadas por VEB expandidas y anticuerpos anti-VEB elevados. Se postula un subgrupo con alelos HLA DRB1 y DQB1 que conferirían mayor susceptibilidad al VEB e inmunodeficiencia por evasión inmunitaria.",
+   "conclusion": "Proponen investigar si terapias anti-VEB (incluidos agentes desmetilantes e inmunoterapia adoptiva con linfocitos T específicos) serían eficaces en pacientes seleccionados, y estudiar a personas con fatiga posmononucleosis.",
+   "triangulacion": "Keywords (latencia del VEB, evasión inmune, vigilancia por linfocitos T), abstract y discusión son coherentes. La discusión aporta el modelo terapéutico de la figura y mucho ruido (financiación, agradecimientos); los autores reconocen que la evidencia es no concluyente.",
+   "conceptos": [
+    "virus de Epstein-Barr (VEB)",
+    "latencia viral",
+    "evasión inmunitaria",
+    "alelos HLA de clase II",
+    "linfocitos T CD4"
+   ]
+  },
+  {
+   "id": 234,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Plantea que la latencia y reactivación recurrente del VEB generan una inmunodeficiencia adquirida común a la EM/SFC y la COVID persistente.",
+   "diseno": "Artículo de hipótesis basado en revisión de la literatura; no aporta datos propios.",
+   "hallazgos": "Ambas condiciones comparten alteraciones inmunitarias, persistencia viral, autoinmunidad, inflamación crónica, hipocortisolismo, microcoágulos y reactivación del VEB. Se propone un modelo en tres pasos: inmunodeficiencia adquirida en portadores de haplotipos HLA-II \"débiles\", estructuras linfoides ectópicas con latencia del VEB (incluido el SNC) y agotamiento inmunitario.",
+   "conclusion": "En la COVID persistente, la infección previa por SARS-CoV-2 en individuos con haplotipos HLA-II débiles precedería este proceso; la discusión vincula además la vía de la quinurenina, la serotonina y el estrés nitrosativo con la fatiga y la latencia viral.",
+   "triangulacion": "Keywords y abstract son coherentes en VEB, COVID persistente e inmunodeficiencia adquirida. El fragmento de discusión se centra en mecanismos serotoninérgicos y de quinurenina no anunciados en las keywords, y contiene ruido administrativo.",
+   "conceptos": [
+    "reactivación del VEB",
+    "inmunodeficiencia adquirida",
+    "COVID persistente",
+    "haplotipos HLA-II",
+    "agotamiento inmunitario"
+   ]
+  },
+  {
+   "id": 236,
+   "tipo": "Revisión sistemática / metaanálisis",
+   "tema": "Evalúa sistemáticamente la frecuencia de infecciones virales en la EM/SFC para investigar su papel etiopatogénico.",
+   "diseno": "Revisión sistemática y metaanálisis (PubMed y Cochrane hasta diciembre de 2022): 64 estudios sobre 18 especies virales, 4971 pacientes con EM/SFC y 9221 controles sanos o con otras 10 enfermedades; comparación de odds ratio.",
+   "hallazgos": "HHV-7, parvovirus B19 (y su coinfección), virus de la enfermedad de Borna (BDV), enterovirus y virus Coxsackie B mostraron OR > 2,0. El BDV superó el umbral con OR ≥ 3,47 frente a controles sanos y enfermos (asociación moderada).",
+   "conclusion": "Es el primer metaanálisis que examina sistemáticamente muchos virus relevantes; identifica BDV, parvovirus B19 y Coxsackie B como candidatos y aporta datos de referencia para estudios futuros, pese a sus limitaciones.",
+   "triangulacion": "Las tres fuentes son coherentes; las keywords listan precisamente los virus destacados. Las conclusiones del PDF amplían los candidatos más allá del BDV que subraya el abstract y reconocen limitaciones.",
+   "conceptos": [
+    "infección viral",
+    "virus de la enfermedad de Borna",
+    "parvovirus B19",
+    "virus Coxsackie B",
+    "metaanálisis"
+   ]
+  },
+  {
+   "id": 242,
+   "tipo": "Revisión sistemática / metaanálisis",
+   "tema": "Explora las similitudes clínicas entre la EM/SFC y la acidosis D-láctica (D-la) para valorar mecanismos compartidos.",
+   "diseno": "Revisión sistemática de casos de D-la publicados entre 1965 y marzo de 2016 con síntomas neurológicos y D-lactato elevado (59 episodios), síntesis cualitativa frente a criterios diagnósticos de EM/SFC y revisión narrativa de mecanismos.",
+   "hallazgos": "La mayoría de alteraciones neurológicas de la D-la se solapan con síntomas de la EM/SFC, sobre todo las alteraciones motoras, más prominentes en presentaciones graves. Ambos grupos comparten anomalías gastrointestinales y disbiosis, aunque la evidencia sobre bacterias productoras de lactato en EM/SFC es preliminar.",
+   "conclusion": "Plantean un continuo entre la presentación aguda (D-la) y la crónica (EM/SFC) relacionado con la absorción de D-lactato, relevante quizá solo para un subgrupo; es necesario medir el D-lactato en la EM/SFC.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes en D-lactato, microbiota y eje intestino-cerebro. Las conclusiones del PDF son más cautas: reconocen que no hay estudios que hayan medido D-lactato en EM/SFC y que otros mecanismos quedaron fuera del alcance.",
+   "conceptos": [
+    "acidosis D-láctica",
+    "D-lactato",
+    "microbiota intestinal",
+    "eje intestino-cerebro",
+    "disbiosis"
+   ]
+  },
+  {
+   "id": 245,
+   "tipo": "Estudio original",
+   "tema": "Investiga el potencial conjunto de marcadores inflamatorios, inmunoglobulinas y autoanticuerpos contra receptores para evaluar la progresión de la EM/SFC.",
+   "diseno": "Estudio transversal en 188 individuos (54 controles; 30 leves, 73 moderados y 31 graves según Fukuda/CDC 1994 y criterios de consenso internacional); ELISA y multiplex en plasma; correlaciones, PCA, análisis discriminante lineal y random forest.",
+   "hallazgos": "La asociación entre inflamatoma e inmunoma es más amplia y fuerte en el grupo grave. El random forest alcanzó más del 90% de precisión para separar sanos de pacientes y 45% para distinguir niveles de gravedad; los mejores clasificadores fueron anti-β2AdR, anti-M4, IgG4, IL-2 e IL-6.",
+   "conclusion": "El acoplamiento inflamación-inmunidad caracteriza al grupo grave y es candidato a marcador de progresión en estudios clínicos controlados; se requieren observaciones longitudinales y proyectos más largos.",
+   "triangulacion": "Las tres fuentes son coherentes en marcadores inmunitarios y gravedad. Las keywords (IFN-γ, TNF-α) no recogen los autoanticuerpos contra receptores, que son los clasificadores más potentes; las conclusiones añaden la necesidad de seguimiento longitudinal e incluyen texto de figuras.",
+   "conceptos": [
+    "autoanticuerpos anti-β2-adrenérgicos",
+    "receptores muscarínicos",
+    "citocinas",
+    "gravedad de la enfermedad",
+    "random forest"
+   ]
+  },
+  {
+   "id": 247,
+   "tipo": "Estudio original",
+   "tema": "Analiza si la fatiga en el síndrome de Sjögren primario (SSp) se asocia con signos de actividad inmunológica y resultados comunicados por los pacientes.",
+   "diseno": "Carta con estudio transversal de pacientes con SSp (alrededor de 90 según la tabla); correlaciones de Spearman con ESSPRI, HAQ, VSG, β2-microglobulina, inmunoglobulinas y complemento.",
+   "hallazgos": "La fatiga se correlacionó con otros índices comunicados por el paciente, la duración de la enfermedad y signos de actividad inflamatoria (IgG sérica, β2-microglobulina, VSG). Los pacientes sin fatiga tenían IgG más baja (9,81 frente a 15,6 g/L) y menor β2-microglobulina.",
+   "conclusion": "La fatiga refleja la actividad inflamatoria del SSp, lo que sugiere que actuar sobre la inflamación podría aliviarla y subraya la necesidad de terapias eficaces.",
+   "triangulacion": "El abstract es solo la cabecera de la carta con la introducción, y las conclusiones proceden de la discusión con tablas; ambas coinciden con las keywords en actividad inmunológica y resultados comunicados. No hay referencia explícita a la EM/SFC.",
+   "conceptos": [
+    "síndrome de Sjögren primario",
+    "fatiga",
+    "actividad inflamatoria",
+    "IgG sérica",
+    "resultados comunicados por el paciente"
+   ]
+  },
+  {
+   "id": 248,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa críticamente la fatiga en la vasculitis asociada a ANCA y la esclerosis sistémica (SSc) y sus similitudes con la EM/SFC.",
+   "diseno": "Revisión crítica de la literatura en MEDLINE, APA PsycInfo, Embase y CINAHL, con cribado y extracción por investigadores independientes; sin metaanálisis por heterogeneidad.",
+   "hallazgos": "La prevalencia media de fatiga fue del 71% en vasculitis primarias y del 59% en SSc; se asoció a función física, depresión, dolor y mala calidad del sueño, y poco o nada a la actividad o gravedad de la enfermedad. Las tres patologías comparten disregulación mitocondrial, polarización Th2, IgG baja y menor citotoxicidad NK.",
+   "conclusion": "Existen vías inmunitarias y metabólicas comunes; los clínicos deben identificar a pacientes con rasgos de EM/SFC, que pueden requerir abordajes alternativos. En estas enfermedades, el ejercicio y los cambios conductuales podrían mejorar la fatiga, aunque estos enfoques se cuestionan en la EM/SFC.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes. Las conclusiones del PDF aportan cifras de prevalencia, los mecanismos compartidos concretos y limitaciones (solo inglés, sesgo de publicación) que el abstract no detalla.",
+   "conceptos": [
+    "vasculitis asociada a ANCA",
+    "esclerosis sistémica",
+    "enfermedades reumáticas autoinmunes sistémicas",
+    "fatiga persistente",
+    "células NK"
+   ]
+  },
+  {
+   "id": 252,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa los mecanismos del síndrome post-COVID (PCS) y la EM/SFC y propone una estrategia para desarrollar terapias curativas.",
+   "diseno": "Revisión narrativa con propuesta de plataforma de ensayos clínicos; no aporta datos propios.",
+   "hallazgos": "Se identifican como mecanismos potenciales la disregulación inmunitaria, la autoinmunidad, la disfunción endotelial, la persistencia y la reactivación viral, con heterogeneidad de biomarcadores y solapamiento con la EM/SFC postinfecciosa. No hay terapias curativas disponibles.",
+   "conclusion": "Proponen redes de ensayos clínicos que evalúen fármacos dirigidos a distintos mecanismos con criterios diagnósticos y de resultado armonizados y subgrupos definidos por fenotipado clínico y de biomarcadores.",
+   "triangulacion": "Las tres fuentes son coherentes; las keywords reproducen los mecanismos del abstract. Las conclusiones del PDF son breves y reafirman la plataforma multimodal, con un fragmento de tabla de fármacos sin contenido.",
+   "conceptos": [
+    "síndrome post-COVID",
+    "disregulación inmunitaria",
+    "disfunción endotelial",
+    "persistencia viral",
+    "plataforma de ensayos clínicos"
+   ]
+  },
+  {
+   "id": 254,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa la relación entre el herpesvirus humano 6 (HHV-6) y el desarrollo de enfermedades autoinmunes.",
+   "diseno": "Revisión narrativa de la literatura sobre enfermedades autoinmunes endocrinas, neurológicas y del tejido conectivo vinculadas al HHV-6.",
+   "hallazgos": "El HHV-6 tiene amplio tropismo celular, capacidad de latencia, reactivación y persistencia, y múltiples tácticas de inmunomodulación; se encuentra con frecuencia en tejidos afectados (p. ej., esclerosis múltiple, tiroiditis autoinmune). Se han demostrado para él mecanismos como el mimetismo molecular y la persistencia viral.",
+   "conclusion": "El HHV-6 es un candidato desencadenante de autoinmunidad, pero se necesita más investigación en tejidos, sobre proteínas virales (como receptores de quimiocinas tipo GPCR) y con mejor metodología (especie viral, proteómica, HHV-6 integrado cromosómicamente).",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes en autoinmunidad viral. Las conclusiones del PDF añaden limitaciones metodológicas y la conexión con autoanticuerpos contra GPCR; la EM/SFC no aparece explícitamente en ninguna de las fuentes.",
+   "conceptos": [
+    "herpesvirus humano 6 (HHV-6)",
+    "autoinmunidad viral",
+    "mimetismo molecular",
+    "latencia y reactivación viral",
+    "autoanticuerpos contra GPCR"
+   ]
+  },
+  {
+   "id": 263,
+   "tipo": "Estudio original",
+   "tema": "Evalúa la inmunidad celular específica frente a Giardia en personas que desarrollaron SFC tras un brote de giardiasis comparadas con las que se recuperaron.",
+   "diseno": "Estudio caso-control: 39 pacientes expuestos evaluados cinco años tras el brote (SFC n = 15, fatiga crónica idiopática n = 5, fatiga por otras causas n = 9, recuperados n = 10), 20 expuestos sin fatiga y 10 controles no expuestos; ensayos de proliferación, activación de linfocitos T y citocinas en PBMC.",
+   "hallazgos": "Hubo diferencias antígeno-específicas entre expuestos y no expuestos, pero no entre los grupos de fatiga en activación de CD4, proliferación o citocinas. El sCD40L estaba elevado en el SFC postinfeccioso y otros fatigados, y se correlacionó con el nivel de fatiga.",
+   "conclusion": "Se confirman respuestas de memoria T frente a Giardia, sin diferencias en magnitud ni calidad respecto al SFC posgiardiasis, salvo el aumento de sCD40L en pacientes fatigados.",
+   "triangulacion": "Las tres fuentes son coherentes. Las conclusiones del PDF enfatizan el resultado negativo (ausencia de diferencias en respuestas T), mientras el abstract destaca más el hallazgo de sCD40L; las keywords recogen ambos.",
+   "conceptos": [
+    "SFC postinfeccioso",
+    "Giardia",
+    "linfocitos T CD4",
+    "CD40 ligando soluble (sCD40L)",
+    "citocinas"
+   ]
+  },
+  {
+   "id": 267,
+   "tipo": "Estudio original",
+   "tema": "Reanaliza la serología frente a herpesvirus para comprobar si distingue subgrupos de pacientes con EM/SFC según el desencadenante de la enfermedad.",
+   "diseno": "Reanálisis de datos serológicos (7 antígenos de herpesvirus) del UK ME/CFS Biobank: S0 (n = 42, desencadenante desconocido), S1 (n = 43, no infeccioso), S2 (n = 93, infeccioso no confirmado), S3 (n = 48, infeccioso confirmado) y 99 controles sanos; análisis de sensibilidad con puntos de corte variables y corrección por pruebas múltiples.",
+   "hallazgos": "S1 mostró asociación negativa con seropositividad a VEB (VCA, EBNA1) y virus varicela-zóster, no significativa tras corrección. S3 tuvo menor seroprevalencia de citomegalovirus para todos los puntos de corte tras Benjamini-Hochberg, pero no con Benjamini-Yekutieli.",
+   "conclusion": "La serología de herpesvirus podría distinguir subgrupos según el desencadenante, aunque el hallazgo puede verse afectado por el problema de las comparaciones múltiples.",
+   "triangulacion": "Keywords y abstract son coherentes. El texto de conclusiones es solo contribuciones y financiación, por lo que no aporta información; la conclusión del abstract ya es prudente.",
+   "conceptos": [
+    "serología de herpesvirus",
+    "virus de Epstein-Barr (VEB)",
+    "citomegalovirus",
+    "desencadenante infeccioso",
+    "subgrupos de pacientes"
+   ]
+  },
+  {
+   "id": 270,
+   "tipo": "Estudio original",
+   "tema": "Estudia en un modelo de rata con fatiga crónica las alteraciones de la homeostasis termorreguladora.",
+   "diseno": "Estudio experimental en ratas con carga de fatiga por inmersión intermitente en agua; medición de temperatura y de disipación de calor por la cola con termografía infrarroja evaluada a doble ciego. El abstract disponible es solo la cabecera del manuscrito; no consta el tamaño muestral.",
+   "hallazgos": "Se observaron cambios adaptativos de la función termorreguladora con la progresión de la fatiga, con alteración de la disipación de calor por la cola y signos compatibles con febrícula.",
+   "conclusion": "El sistema termorregulador homeostático podría verse alterado por la carga prolongada de fatiga, lo que sugiere que su disrupción funcional subyace a la cronificación de la fatiga, en línea con la termosensación anómala de los pacientes con SFC.",
+   "triangulacion": "El abstract carece de contenido científico (es texto inicial), por lo que la triangulación se basa en keywords y discusión, que son coherentes (termorregulación, modelo de rata, febrícula). La discusión incluye ruido de contribuciones y financiación.",
+   "conceptos": [
+    "termorregulación",
+    "modelo animal de rata",
+    "carga de fatiga",
+    "febrícula",
+    "cronificación de la fatiga"
+   ]
+  },
+  {
+   "id": 271,
+   "tipo": "Estudio original",
+   "tema": "Determina el riesgo de SFC tras el diagnóstico de infección por Mycobacterium tuberculosis (MTI).",
+   "diseno": "Cohorte retrospectiva poblacional (base de datos del seguro nacional de salud de Taiwán): 7666 pacientes ≥20 años con MTI diagnosticada en 2000-2011 y 30.663 sin MTI; regresión de riesgos proporcionales de Cox.",
+   "hallazgos": "La incidencia de SFC fue 3,69 frente a 3,04 por 1000 personas-año (HR ajustado 1,23; IC 95% 1,03-1,47). El riesgo fue mayor en varones (HR 1,27) y en ≥65 años (HR 2,50).",
+   "conclusion": "La MTI se asocia a un riesgo elevado de SFC posterior; los autores consideran el hallazgo piloto útil para identificar personas de alto riesgo y piden estudiar los mecanismos.",
+   "triangulacion": "Las tres fuentes son coherentes en tuberculosis, factores de riesgo, edad y sexo. Las conclusiones del PDF califican el hallazgo de \"piloto\" y no abordan los efectos inmunológicos que anuncia el título.",
+   "conceptos": [
+    "tuberculosis",
+    "factores de riesgo",
+    "cohorte poblacional",
+    "personas mayores",
+    "diferencias por sexo"
+   ]
+  },
+  {
+   "id": 272,
+   "tipo": "Estudio original",
+   "tema": "Analiza el riesgo de desarrollar SFC en pacientes con úlcera péptica (PUD) frente a pacientes sin ella.",
+   "diseno": "Cohorte retrospectiva nacional a partir de la Longitudinal Health Insurance Database 2000 de Taiwán; comparación de incidencias con ajuste por edad, sexo y comorbilidades. Tamaño de muestra no consta en el abstract.",
+   "hallazgos": "La incidencia de SFC fue mayor en la cohorte con PUD (HR 2,01; IC 95% 1,75-2,30, igual tras ajuste), con riesgo relativo significativo en ambos sexos y una incidencia que aumentó con la edad.",
+   "conclusion": "Existe un riesgo aumentado de SFC tras PUD, sobre todo en mujeres y personas mayores; la prevención de la PUD podría ser relevante para la salud pública, aunque los hallazgos no contribuyen al diagnóstico del SFC.",
+   "triangulacion": "Las tres fuentes son coherentes. Las keywords mencionan Helicobacter pylori, que el abstract solo presenta como causa frecuente de PUD sin analizarla directamente; las conclusiones son más prudentes al reconocer que no aportan al diagnóstico.",
+   "conceptos": [
+    "úlcera péptica",
+    "Helicobacter pylori",
+    "cohorte poblacional",
+    "riesgo de SFC",
+    "diferencias por sexo y edad"
+   ]
+  },
+  {
+   "id": 276,
+   "tipo": "Estudio original",
+   "tema": "Investiga la presencia de anticuerpos antihipofisarios (APA) y antihipotalámicos (AHA) y las disfunciones hormonales asociadas en la EM/SFC.",
+   "diseno": "Estudio de casos y controles (Stanford y Nápoles): 30 mujeres con EM/SFC (criterios Fukuda, canadienses e IOM) y 25 controles sanos emparejados por edad; detección de APA y AHA por inmunofluorescencia y estudio de hormonas de la hipófisis anterior y glándulas diana.",
+   "hallazgos": "Las pacientes mostraron alta prevalencia de AHA (33%) y APA (56%) y niveles significativamente menores de ACTH/cortisol y pico de GH/IGF-1 que los controles. Las 13 pacientes con títulos altos (≥1:32) tenían valores hormonales más bajos y formas más graves de EM/SFC que las de títulos bajos o negativas.",
+   "conclusion": "Los AHA y/o APA a títulos altos se asocian a disfunción hipotálamo-hipofisaria, lo que sugiere que la autoinmunidad hipotálamo-hipofisaria puede desempeñar un papel importante, sobre todo en las formas graves.",
+   "triangulacion": "Las conclusiones proceden del propio abstract, por lo que coinciden plenamente; las keywords (anticuerpos antihipofisarios, GH, IGF-1) refuerzan el mismo foco neuroendocrino-autoinmune. No hay una fuente independiente para contrastar.",
+   "conceptos": [
+    "anticuerpos antihipofisarios",
+    "autoinmunidad hipotálamo-hipofisaria",
+    "hormona del crecimiento (GH)",
+    "eje ACTH/cortisol",
+    "gravedad de la EM/SFC"
+   ]
+  },
+  {
+   "id": 279,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Propone que el CD40 ligando soluble (sCD40L) sérico creciente podría ser un biomarcador de progresión de la EM/SFC y la COVID persistente.",
+   "diseno": "Artículo de hipótesis de un paciente-investigador independiente (Patient-Generated Hypotheses Journal), basado en revisión de la literatura; sin datos propios.",
+   "hallazgos": "Reúne estudios que indican que el sCD40L tiende a elevarse progresivamente en EM/SFC, COVID persistente y esclerosis múltiple. Su origen plaquetario encajaría con hallazgos de activación plaquetaria (P-selectina, agregados plaqueta-leucocito) y se ha vinculado a activación endotelial, señalización de peligro celular, inmunidad B y deterioro neurocognitivo.",
+   "conclusion": "El sCD40L sería una medida longitudinal accesible y potencialmente útil como biomarcador de progresión, aunque no es específico de EM/SFC ni de COVID persistente y los estudios deben diseñarse en consecuencia.",
+   "triangulacion": "No hay keywords, y el abstract es el texto inicial del documento; abstract y discusión son coherentes en el sCD40L como biomarcador longitudinal. La discusión añade una advertencia explícita sobre su falta de especificidad.",
+   "conceptos": [
+    "CD40 ligando soluble (sCD40L)",
+    "biomarcador longitudinal",
+    "activación plaquetaria",
+    "COVID persistente",
+    "investigación liderada por pacientes"
+   ]
+  },
+  {
+   "id": 280,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Plantea que la miodesopsia sintomática (moscas volantes vítreas) podría ser un factor de riesgo de COVID persistente y EM/SFC.",
+   "diseno": "Artículo de hipótesis de la Patient Led Research Collaborative basado en literatura y relatos anónimos de comunidades en línea; sin datos propios sistemáticos.",
+   "hallazgos": "Se argumenta que la miodesopsia podría reflejar susceptibilidad a la degradación del colágeno ante desencadenantes inflamatorios, apoyada por enzimas degradadoras de colágeno en el vítreo, asociaciones con trastornos del tejido conectivo y con infecciones por diversos patógenos.",
+   "conclusion": "Proponen un estudio prospectivo longitudinal con definición diagnóstica que combine síntomas e indicadores objetivos; si se confirma, un cribado ocular sencillo podría identificar un subgrupo de mayor riesgo y orientar estudios genéticos.",
+   "triangulacion": "Faltan keywords; abstract y discusión son coherentes en la hipótesis del colágeno. La discusión aporta el método para contrastarla y contiene ruido de página web; la evidencia citada es indirecta.",
+   "conceptos": [
+    "miodesopsia",
+    "degradación del colágeno",
+    "trastornos del tejido conectivo",
+    "factor de riesgo",
+    "COVID persistente"
+   ]
+  },
+  {
+   "id": 281,
+   "tipo": "Estudio original",
+   "tema": "Identifica disfunción de linfocitos T CD8 asociada a síntomas en EM/SFC y COVID persistente y describe una serie retrospectiva tratada con un agente nebulizado antioxidante/antipatógeno.",
+   "diseno": "Estudio transversal con ensayo funcional de CD8 por tinción intracelular de citocinas en EM/SFC (n = 12), COVID persistente (n = 8) y controles sanos (n = 10), cuestionarios de síntomas, más una serie de casos retrospectiva de tratamiento nebulizado con cinco componentes.",
+   "hallazgos": "Los linfocitos T CD8 de ambos grupos de pacientes tuvieron una capacidad significativamente menor de producir IFNγ y TNFα tras estimulación con PMA, rasgo que recuerda el agotamiento clonal asociado al estrés oxidativo. Ambos trastornos mostraron perfiles sintomáticos similares; en la serie de casos la disfunción inmunitaria y la salud mejoraron en paralelo al tratamiento.",
+   "conclusion": "La disfunción de CD8 podría ser un biomarcador útil y el tratamiento nebulizado antioxidante/antipatógeno muestra un potencial beneficio, aunque se trata de un estudio pequeño.",
+   "triangulacion": "Keywords, abstract y conclusiones (extraídas del abstract) son coherentes en la disfunción y el agotamiento de CD8 y el estrés oxidativo. Las conclusiones reconocen el pequeño tamaño muestral; la evidencia terapéutica procede de una serie retrospectiva no controlada.",
+   "conceptos": [
+    "linfocitos T CD8",
+    "agotamiento de linfocitos T",
+    "estrés oxidativo",
+    "COVID persistente",
+    "tratamiento nebulizado antioxidante"
+   ]
+  },
+  {
+   "id": 283,
+   "tipo": "Estudio original",
+   "tema": "Analiza si las respuestas IgG frente a péptidos del VEB permiten diagnosticar la EM/SFC y desencadenar autoinmunidad por mimetismo molecular.",
+   "diseno": "Análisis de un gran conjunto de datos públicos de IgG frente a 3054 péptidos del VEB en pacientes con EM/SFC y controles sanos; algoritmo super learner con división en entrenamiento y prueba (objetivo de precisión del 85%) y análisis bioinformático de homología con proteínas humanas.",
+   "hallazgos": "No se encontró un clasificador eficaz para todos los pacientes ni para los de desencadenante no infeccioso o desconocido. Un clasificador de 26 anticuerpos distinguió a los pacientes con desencadenante infeccioso de los controles con precisión del 100% (entrenamiento) y 90% (prueba); su importancia no se correlacionó con la homología con proteínas humanas.",
+   "conclusion": "Estos 26 anticuerpos tienen potencial diagnóstico en un subgrupo, pero sus péptidos probablemente no inducen respuestas autoinmunes B; el papel del VEB en la autoinmunidad debería reconsiderarse a la luz de la teoría del peligro.",
+   "triangulacion": "Las tres fuentes son coherentes en VEB, IgG y diagnóstico. Las keywords destacan el mimetismo molecular y la autoinmunidad, que los resultados no respaldan; las conclusiones del PDF añaden la reinterpretación desde la teoría del peligro.",
+   "conceptos": [
+    "virus de Epstein-Barr (VEB)",
+    "anticuerpos IgG",
+    "mimetismo molecular",
+    "aprendizaje automático",
+    "desencadenante infeccioso"
+   ]
+  },
+  {
+   "id": 287,
+   "tipo": "Ensayo clínico",
+   "tema": "Evalúa la inmunoadsorción (IA) para eliminar autoanticuerpos contra el receptor β2-adrenérgico en pacientes con SFC/EM postinfeccioso.",
+   "diseno": "Ensayo piloto abierto en 10 pacientes con SFC/EM postinfeccioso y autoanticuerpos β2 elevados, tratados con IA con columna de unión a IgG durante 5 días; escalas de síntomas, ELISA y citometría de flujo de linfocitos B.",
+   "hallazgos": "La IgG cayó a una mediana de 0,73 g/l tras el 4.º ciclo y los anticuerpos β2 descendieron en 9 de 10 pacientes, siguiendo más bajos a los 6 meses. Disminuyeron las células B de memoria y aumentaron las células plasmáticas. Siete pacientes mejoraron rápidamente; tres mantuvieron mejoría moderada-marcada 6-12+ meses.",
+   "conclusion": "La IA puede eliminar autoanticuerpos anti-β2 y producir mejoría clínica, con efecto sobre el desarrollo de células B de memoria; el estudio piloto justifica más investigación.",
+   "triangulacion": "Las tres fuentes son coherentes; las conclusiones del PDF reproducen las del abstract y añaden la introducción con el antecedente de rituximab y los anticuerpos contra receptores M3/M4. Las keywords reflejan bien el foco autoinmune y de células B.",
+   "conceptos": [
+    "inmunoadsorción",
+    "autoanticuerpos anti-β2-adrenérgicos",
+    "células B de memoria",
+    "células plasmáticas",
+    "SFC postinfeccioso"
+   ]
+  },
+  {
+   "id": 289,
+   "tipo": "Estudio original",
+   "tema": "Estudia la relación entre características inmunológicas y función de la barrera intestinal en la EM/SFC estratificando a los pacientes por competencia inmunitaria.",
+   "diseno": "Estudio transversal con pacientes con EM/SFC divididos en dos grupos (con y sin inmunodeficiencia); medición por ELISA de mediadores inflamatorios y biomarcadores de integridad de la barrera intestinal. Tamaño de muestra no consta (cohortes descritas como pequeñas).",
+   "hallazgos": "Los pacientes inmunodeficientes presentaron niveles reducidos de C4a, lo que sugiere disregulación de la inmunidad innata específica de subgrupo. Los pacientes sin inmunodeficiencia mostraron fuga de la barrera mucosa, con LBP elevada.",
+   "conclusion": "Estratificar por competencia inmunitaria distingue subgrupos con patrones fisiopatológicos distintos, lo que es importante para definir tratamientos; se necesitan cohortes mayores y métodos estandarizados.",
+   "triangulacion": "Las tres fuentes son coherentes (estratificación, C4a, barrera intestinal). Las conclusiones del PDF son más prudentes que el abstract: reconocen cohortes pequeñas, resultados no significativos que solo indican una tendencia y la duda sobre si el déficit de C4a es causa o consecuencia.",
+   "conceptos": [
+    "estratificación de pacientes",
+    "complemento C4a",
+    "inmunodeficiencia",
+    "barrera intestinal",
+    "proteína de unión a LPS (LBP)"
+   ]
+  },
+  {
+   "id": 290,
+   "tipo": "Estudio original",
+   "tema": "Busca una inmunofirma sérica específica de la EM/SFC mediante micromatrices de péptidos de secuencia aleatoria.",
+   "diseno": "Estudio caso-control con sueros de EM/SFC según criterios canadienses: cohorte canadiense (25 casos y 25 controles), 25 casos de ensayos noruegos fase 1/2 y 6 controles sanos de EE. UU.; análisis no supervisados y supervisados.",
+   "hallazgos": "Una inmunofirma candidata de 654 péptidos diferenció la EM/SFC de los controles en la cohorte canadiense; refinada con las muestras noruegas y estadounidenses, quedó en una firma de 256 péptidos que separó casos y controles en los conjuntos internacionales.",
+   "conclusion": "Pese al tamaño muestral pequeño, la firma de 256 péptidos separa claramente la EM/SFC de los controles y sugiere que la hipótesis \"hit-and-run\" de disfunción inmunitaria merece más investigación en cohortes mayores.",
+   "triangulacion": "Keywords, abstract y discusión coinciden en anticuerpos séricos como biomarcador diagnóstico. La discusión añade la limitación del tamaño muestral y la posibilidad de estudios longitudinales; contiene ruido de agradecimientos y licencia.",
+   "conceptos": [
+    "inmunofirma",
+    "micromatriz de péptidos",
+    "anticuerpos séricos",
+    "biomarcadores diagnósticos",
+    "hipótesis hit-and-run"
+   ]
+  },
+  {
+   "id": 292,
+   "tipo": "Estudio original",
+   "tema": "Evalúa el impacto de la criopreservación prolongada sobre marcadores inmunitarios en sangre de pacientes con EM/SFC para el descubrimiento de biomarcadores.",
+   "diseno": "Estudio comparativo de inmunofenotipado por citometría de flujo en sangre fresca y PBMC congeladas de pacientes con EM/SFC (n = 18) y controles sanos emparejados (n = 18), con ensayo de producción de citocinas tras estimulación.",
+   "hallazgos": "Los marcadores de subpoblaciones Treg, la expresión de CD56 en linfocitos T, la frecuencia de CD8 efectores y CD57 en NK no se alteraron. En cambio, CD25 y CD69 en NK aumentaron y NKp46 se redujo notablemente tras la criopreservación; en las PBMC biobancadas no hubo diferencias entre pacientes y controles.",
+   "conclusion": "Algunos marcadores de linfocitos T y NK se vuelven inestables tras la criopreservación, lo que limita su uso en estudios con muestras biobancadas y exige nuevas herramientas para evaluar su estabilidad.",
+   "triangulacion": "Keywords y abstract son coherentes (criopreservación, NK, NKp46). El texto de conclusiones corresponde a agradecimientos y figuras suplementarias, por lo que no aporta conclusiones propias.",
+   "conceptos": [
+    "criopreservación",
+    "estabilidad de biomarcadores",
+    "células NK",
+    "NKp46",
+    "biobanco"
+   ]
+  },
+  {
+   "id": 294,
+   "tipo": "Estudio original",
+   "tema": "Mide el influjo de calcio dependiente de TRPM3 en células NK de pacientes con EM/SFC y su restauración con naltrexona in vitro.",
+   "diseno": "Estudio experimental in vitro con células NK aisladas de 10 pacientes con EM/SFC y 10 controles emparejados por edad y sexo; imagen inmunofluorescente en células vivas con agonista (sulfato de pregnenolona) y antagonista (ononetina) de TRPM3 y tratamiento con naltrexona durante 24 h.",
+   "hallazgos": "En situación basal, la amplitud y el tiempo medio de la respuesta de Ca2+ estaban significativamente reducidos en las NK de pacientes (p < 0,0001). Tras la naltrexona, el tiempo medio no difirió de los controles y la amplitud aumentó significativamente.",
+   "conclusion": "La pérdida de función de TRPM3 altera el influjo de Ca2+, lo que apoya que la EM/SFC sea una canalopatía TRP, y la naltrexona es una posible intervención terapéutica.",
+   "triangulacion": "Las tres fuentes son plenamente coherentes en TRPM3, calcio, NK y naltrexona. Las conclusiones del PDF son algo más prudentes, al hablar de \"evidencia adicional\" del beneficio potencial sin repetir la afirmación de canalopatía TRP.",
+   "conceptos": [
+    "TRPM3",
+    "influjo de calcio",
+    "células NK",
+    "naltrexona",
+    "receptor opioide mu"
+   ]
+  },
+  {
+   "id": 296,
+   "tipo": "Estudio original",
+   "tema": "Evalúa biomarcadores circulantes de disfunción de la barrera intestinal y translocación bacteriana en fibromialgia (FM) y EM/SFC y su asociación con los síntomas.",
+   "diseno": "Estudio piloto multicéntrico transversal con 22 pacientes con FM, 30 con EM/SFC y 26 controles emparejados; ELISA de anti-β-LGB, ZO-1, LPS, sCD14 e IL-1β, cuestionarios validados (SF-36, COMPASS-31) y curvas ROC.",
+   "hallazgos": "Anti-β-LGB, ZO-1, LPS y sCD14 estaban elevados en FM y en EM/SFC respecto a controles (más en FM), sin diferencias en IL-1β. En EM/SFC, ZO-1 se correlacionó con COMPASS-31; los cuatro marcadores discriminaron bien a pacientes de controles.",
+   "conclusion": "Los biomarcadores de barrera intestinal e inflamación se asocian a disfunción autonómica y podrían predecir disfunción de barrera, aunque se requieren estudios sobre su causalidad antes de aplicarlos clínicamente.",
+   "triangulacion": "Keywords y abstract son coherentes en permeabilidad intestinal, translocación bacteriana y LPS. El texto de conclusiones es solo leyendas de figuras suplementarias, por lo que no aporta información adicional.",
+   "conceptos": [
+    "permeabilidad intestinal",
+    "translocación bacteriana",
+    "lipopolisacárido (LPS)",
+    "zonulina",
+    "disfunción autonómica"
+   ]
+  },
+  {
+   "id": 297,
+   "tipo": "Estudio original",
+   "tema": "Explora la asociación entre quemaduras y el riesgo posterior de SFC.",
+   "diseno": "Cohorte retrospectiva poblacional (seguro nacional de salud de Taiwán): 17.204 pacientes con quemadura de nuevo diagnóstico emparejados 1:4 por edad, sexo, año y comorbilidades con población general; regresión de Cox.",
+   "hallazgos": "La incidencia de SFC fue 1,61 frente a 0,86 por 1000 personas-año (HR ajustado 1,48; IC 95% 1,41-1,56), con mayor riesgo en todas las estratificaciones. Las quemaduras en zonas expuestas al sol (cara y extremidades), las extensas y las cicatrices visibles se asociaron a mayor impacto.",
+   "conclusion": "La lesión térmica se asocia a mayor riesgo de SFC; pacientes y médicos deberían conocer este riesgo y considerar medidas preventivas para favorecer la recuperación.",
+   "triangulacion": "Las tres fuentes son coherentes. Las conclusiones del PDF son breves y se centran en implicaciones clínicas, sin retomar los matices sobre localización y cicatrices del abstract; las keywords son genéricas.",
+   "conceptos": [
+    "quemaduras",
+    "cicatrices",
+    "factores de riesgo",
+    "cohorte poblacional",
+    "SFC"
+   ]
+  },
+  {
+   "id": 298,
+   "tipo": "Estudio original",
+   "tema": "Aclara el riesgo de SFC tras el diagnóstico de psoriasis, enfermedad dermatológica de base inmunitaria.",
+   "diseno": "Cohorte retrospectiva poblacional (Taiwán): 2616 pacientes ≥20 años con psoriasis diagnosticada en 2004-2008 y 10.464 sin psoriasis, seguidos hasta 2011; regresión de Cox.",
+   "hallazgos": "La incidencia de SFC fue 3,58 frente a 2,27 por 1000 personas-año (HR ajustado 1,48; IC 95% 1,07-2,06), con mayor riesgo en varones (HR 2,05) y en ≥60 años (HR 2,32). El riesgo se atenuó en quienes recibieron fototerapia o inmunomoduladores.",
+   "conclusion": "La psoriasis aumenta significativamente el riesgo de SFC, sobre todo en hombres y personas mayores, y este riesgo puede atenuarse con fototerapia o fármacos inmunomoduladores.",
+   "triangulacion": "Las tres fuentes son coherentes; las keywords recogen fototerapia, inmunomoduladores y diferencias por sexo. Las conclusiones del PDF destacan la atenuación por tratamiento, que la conclusión del abstract no menciona.",
+   "conceptos": [
+    "psoriasis",
+    "cohorte poblacional",
+    "fototerapia",
+    "inmunomoduladores",
+    "diferencias por sexo y edad"
+   ]
+  },
+  {
+   "id": 299,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa cómo la inflamación sistémica de órganos periféricos causa neuroinflamación, con atención a las regiones cerebrales susceptibles.",
+   "diseno": "Revisión narrativa de estudios sobre inflamación periférica (gastrointestinal, EPOC, artritis reumatoide, dermatitis, SFC/EM) y neuroinflamación.",
+   "hallazgos": "Los mecanismos descritos son la disrupción de la barrera hematoencefálica, la activación glial asociada a activación inmunitaria sistémica y los efectos sobre nervios autónomos a través del eje órgano-cerebro.",
+   "conclusion": "Es difícil comparar la neuroinflamación entre enfermedades por la heterogeneidad de evaluaciones y de grados de inflamación sistémica; se necesitan estudios morfológicos con criterios inflamatorios homogéneos en diversas enfermedades periféricas.",
+   "triangulacion": "Keywords y abstract son coherentes en barrera hematoencefálica, glía y nervios autónomos. La discusión se centra en limitaciones metodológicas (con frases repetidas y ruido de financiación) y la EM/SFC aparece solo como un ejemplo entre varias enfermedades.",
+   "conceptos": [
+    "neuroinflamación",
+    "inflamación sistémica",
+    "barrera hematoencefálica",
+    "activación glial",
+    "eje órgano-cerebro"
+   ]
+  },
+  {
+   "id": 300,
+   "tipo": "Revisión sistemática / metaanálisis",
+   "tema": "Cuantifica mediante metaanálisis las proteínas inflamatorias circulantes en pacientes con SFC frente a controles.",
+   "diseno": "Revisión sistemática y metaanálisis de 42 estudios con pacientes diagnosticados de SFC y controles no afectados; evaluación de calidad basada en Newcastle-Ottawa, análisis de sensibilidad y de sesgo de publicación.",
+   "hallazgos": "Los pacientes con SFC tenían elevados TNF (ES = 0,274), IL-2 (ES = 0,203), IL-4 (ES = 0,373), TGF-β (ES = 0,967) y PCR (ES = 0,622); 12 proteínas no difirieron entre grupos.",
+   "conclusion": "Los datos apoyan en parte un componente inflamatorio en el SFC, aunque la inconsistencia de resultados limita las conclusiones.",
+   "triangulacion": "El abstract es texto inicial (truncado) y las \"conclusiones\" son apéndices de calidad, diagramas de bosque y embudo; estos últimos sugieren posible sesgo de publicación para TNFα e IL-2 (test de Egger), matiz que refuerza la cautela. Las keywords coinciden con los marcadores destacados.",
+   "conceptos": [
+    "proteínas inflamatorias",
+    "TNF-α",
+    "interleucinas",
+    "metaanálisis",
+    "sesgo de publicación"
+   ]
+  },
+  {
+   "id": 308,
+   "tipo": "Estudio original",
+   "tema": "Determina la frecuencia y gravedad de la fatiga y del SFC en pacientes con migraña episódica y crónica y su relación con otras comorbilidades.",
+   "diseno": "Estudio transversal en 60 pacientes con migraña (30 episódica y 30 crónica) de un centro terciario de Nueva Delhi; HIT-6, FSS, escala de Chalder, criterios CDC de SFC, criterios ACR de fibromialgia, escalas de depresión, ansiedad (GAD-7) y somnolencia (ESS).",
+   "hallazgos": "Alrededor del 23,33% de los pacientes con migraña crónica cumplían criterios de SFC. La fatiga se correlacionó con gravedad, frecuencia, duración y cronicidad de la migraña, y con depresión, ansiedad y somnolencia diurna excesiva.",
+   "conclusion": "La fatiga, el SFC y las comorbilidades relacionadas son más frecuentes y graves en la migraña crónica que en la episódica; se necesita un abordaje integral que incluya el manejo de la fatiga y apoyo psicosocial, y estudios poblacionales más amplios.",
+   "triangulacion": "Las tres fuentes son coherentes. Los resultados del abstract están truncados; las conclusiones del PDF añaden la terapia conductual y la mención explícita de la fibromialgia y la depresión como comorbilidades más frecuentes en migrañosos con fatiga.",
+   "conceptos": [
+    "migraña crónica",
+    "fatiga",
+    "comorbilidades",
+    "depresión y ansiedad",
+    "somnolencia diurna"
+   ]
+  },
+  {
+   "id": 319,
+   "tipo": "Estudio original",
+   "tema": "Examina si la hiperflexibilidad articular es un factor de riesgo para desarrollar EM/SFC tras una mononucleosis infecciosa.",
+   "diseno": "Subestudio de una cohorte prospectiva de estudiantes universitarios seguidos tras mononucleosis: 53 con EM/SFC a los seis meses y 66 controles recuperados con puntuación de Beighton modificada, realizada por un único examinador ciego al diagnóstico.",
+   "hallazgos": "No hubo diferencias estadísticamente significativas en la puntuación de Beighton entre EM/SFC y recuperados. Las mujeres tuvieron puntuaciones significativamente más altas que los hombres.",
+   "conclusion": "No se encontró relación entre la hiperflexibilidad articular y el desarrollo de EM/SFC tras mononucleosis infecciosa.",
+   "triangulacion": "Las tres fuentes son coherentes con un resultado negativo. La discusión matiza que la puntuación de Beighton por sí sola no descarta la hiperflexibilidad (no se midieron otros parámetros del tejido conectivo); las keywords no mencionan la flexibilidad articular, foco central del estudio.",
+   "conceptos": [
+    "hiperflexibilidad articular",
+    "puntuación de Beighton",
+    "mononucleosis infecciosa",
+    "factores de riesgo",
+    "trastornos del tejido conectivo"
+   ]
+  },
+  {
+   "id": 322,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Propone un modelo que une COVID persistente, POTS y EM/SFC a través de los órganos circunventriculares, la homocisteína y los polimorfismos MTHFR.",
+   "diseno": "Artículo de hipótesis (preprint no revisado por pares) basado en revisión de la literatura; sin datos propios.",
+   "hallazgos": "Plantea que los órganos circunventriculares, sin barrera hematoencefálica, permiten la acción de la homocisteína elevada por variantes MTHFR (677TT) sobre núcleos autonómicos y neuroendocrinos. Vincula microbioma pobre en butirato y GABA, reactivación de VEB y VZV por pérdida de vigilancia T, bradicinina, estrógenos, estrés oxidativo y agotamiento mitocondrial.",
+   "conclusion": "La COVID persistente revelaría un MTHFR 677TT no diagnosticado presente en el 30-40% de la población, mayoritario entre quienes padecen COVID persistente y POTS; el POTS representaría la intersección entre COVID persistente y EM/SFC.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes en BHE, órganos circunventriculares y MTHFR. Hay una discrepancia de cifras sobre la prevalencia del polimorfismo (más del 50% en el abstract frente a 30-40% en las conclusiones); el texto es un preprint no revisado.",
+   "conceptos": [
+    "polimorfismo MTHFR C677T",
+    "homocisteína",
+    "órganos circunventriculares",
+    "POTS",
+    "COVID persistente"
+   ]
+  },
+  {
+   "id": 323,
+   "tipo": "Estudio original",
+   "tema": "Describe el perfil inmunológico de adolescentes con mononucleosis infecciosa por VEB y su relación con el desarrollo de fatiga crónica.",
+   "diseno": "Subestudio de la cohorte prospectiva CEBA (200 adolescentes con mononucleosis); muestras en las 6 semanas del inicio y a los 6 meses; cultivo y estimulación de PBMC (n = 68) y marcadores inflamatorios en plasma (n = 200); fatiga crónica definida con el cuestionario de Chalder (CF+ n = 32 y n = 91 en las cohortes in vitro y plasma).",
+   "hallazgos": "Hubo activación amplia de PBMC al inicio con RANTES alto en el grupo CF+, y respuesta inflamatoria plasmática con marcadores T elevados. A los 6 meses, RANTES seguía elevado en CF+, la respuesta β-adrenérgica estaba alterada y la PCR se mantuvo elevada mientras otros marcadores descendían.",
+   "conclusion": "Los pacientes que desarrollan fatiga crónica tras mononucleosis muestran activación T e inflamación crónica de bajo grado al inicio y a los 6 meses; RANTES discrimina precozmente a los pacientes con y sin fatiga.",
+   "triangulacion": "Las tres fuentes son coherentes (VEB, inflamación de bajo grado, activación T, RANTES). Hay un matiz sobre la respuesta β-adrenérgica: el abstract la describe como aumentada y las conclusiones del PDF como atenuada.",
+   "conceptos": [
+    "virus de Epstein-Barr (VEB)",
+    "mononucleosis infecciosa",
+    "inflamación de bajo grado",
+    "activación de linfocitos T",
+    "RANTES"
+   ]
+  },
+  {
+   "id": 324,
+   "tipo": "Otro",
+   "tema": "Editorial de un número especial de Biomedicines sobre mecanismos, secuelas y tratamiento del síndrome post-COVID.",
+   "diseno": "Editorial que presenta 14 artículos agrupados en tratamiento del post-COVID, repercusión neonatal de la infección por SARS-CoV-2, factores de riesgo de COVID-19 grave, fenotipado del dolor post-COVID y otros.",
+   "hallazgos": "Señala que se han atribuido más de 100 síntomas persistentes al SARS-CoV-2. El texto de conclusiones describe un desequilibrio de linfocitos CD4, CD8 y NK y de puntos de control inmunitario en fibrosis pulmonar idiopática y post-COVID.",
+   "conclusion": "El número especial aborda lagunas sobre identificación, evolución, mecanismos y tratamiento del síndrome post-COVID; el fragmento de conclusiones confirma similitudes inmunológicas entre ambas fibrosis pulmonares.",
+   "triangulacion": "Hay discrepancia: keywords y abstract corresponden al editorial, mientras que las conclusiones del PDF parecen proceder de un artículo concreto sobre fibrosis pulmonar, no del editorial. No se menciona la EM/SFC en ninguna fuente.",
+   "conceptos": [
+    "síndrome post-COVID",
+    "SARS-CoV-2",
+    "secuelas de COVID-19",
+    "fibrosis pulmonar post-COVID",
+    "células NK"
+   ]
+  },
+  {
+   "id": 330,
+   "tipo": "Estudio original",
+   "tema": "Evalúa la gravedad de síntomas a largo plazo y biomarcadores clínicos en el síndrome post-COVID (PCS) con fatiga, comparando a quienes cumplen criterios de EM/SFC con quienes no.",
+   "diseno": "Cohorte prospectiva observacional en 106 pacientes con PCS con fatiga moderada-grave e intolerancia al esfuerzo (Charité, Berlín, 2020-2022), evaluados a los 3-8, 9-16 y 17-20 meses; fuerza de prensión manual, función cardiovascular y parámetros de laboratorio; subgrupo PCS-EM/SFC según criterios canadienses (CCC).",
+   "hallazgos": "Los pacientes PCS-EM/SFC mantuvieron una gravedad alta de la mayoría de síntomas hasta 20 meses, mientras los PCS mejoraron. La fatiga y el PEM persistieron en ambos grupos, más marcados en PCS-EM/SFC; los marcadores inflamatorios bajaron, pero no los anticuerpos antinucleares, y una menor fuerza de prensión inicial se correlacionó con la persistencia.",
+   "conclusion": "El PCS puede persistir más allá de 20 meses y abarcar el espectro completo de la EM/SFC postinfecciosa; subclasificar con los CCC ayuda al manejo y seguimiento.",
+   "triangulacion": "Las conclusiones proceden del abstract, por lo que coinciden plenamente (e incluyen texto de financiación); las keywords (PEM, fuerza de prensión, marcadores inflamatorios) son coherentes con el foco del estudio.",
+   "conceptos": [
+    "síndrome post-COVID",
+    "malestar post-esfuerzo (PEM)",
+    "fuerza de prensión manual",
+    "criterios de consenso canadienses",
+    "cohorte prospectiva"
+   ]
+  },
+  {
+   "id": 331,
+   "tipo": "Estudio original",
+   "tema": "Analiza la evolución a largo plazo de los síntomas neuropsicológicos y la EM/SFC tras la infección por SARS-CoV-2.",
+   "diseno": "Estudio de registro de un centro universitario alemán con 1022 pacientes post-COVID, 411 con más de una visita; comparación de síntomas y cribado neuropsicológico estructurado entre la primera y la segunda visita.",
+   "hallazgos": "El 95,5% presentó enfermedad polisintomática. El 31,3% cumplía criterios de EM/SFC en la primera visita (mediana de 255 días) y el 19,4% en la segunda (mediana de 402 días). La fatiga (83,7% a 72,7%) y los problemas de concentración (66,2% a 57,9%) autorreferidos disminuyeron, sin cambios significativos en el cribado estructurado.",
+   "conclusion": "Una proporción significativa de supervivientes con síntomas persistentes presenta EM/SFC; aunque los síntomas subjetivos se reducen, muchos pacientes siguen afectados y se necesitan nuevos conceptos terapéuticos e intervenciones especializadas.",
+   "triangulacion": "Keywords y abstract son coherentes. La discusión solo aporta una frase final que pide estudios prospectivos e intervenciones; el resto es ruido de contribuciones, financiación y licencia.",
+   "conceptos": [
+    "COVID persistente",
+    "síntomas neuropsicológicos",
+    "EM/SFC post-COVID",
+    "estudio de registro",
+    "fatiga"
+   ]
+  },
+  {
+   "id": 334,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Plantea que las alteraciones de la metilación por variantes MTHFR conectan COVID persistente, SFC, POTS, MCAS, SIBO y síndrome de Ehlers-Danlos.",
+   "diseno": "Artículo de hipótesis y revisión bioquímica de los ciclos del folato y la metionina; sin datos propios.",
+   "hallazgos": "Propone que la preponderancia femenina, la fatiga, la inflamación crónica y las anomalías MTHFR unen estos síndromes, con el estrés oxidativo, la sobrecarga mitocondrial, el déficit de antioxidantes y nutrientes y el microbioma subóptimo como determinantes. La vitamina D activa y las vitaminas B2, B3, B6, B9 y B12 serían clave para la metilación.",
+   "conclusion": "Los seis síndromes podrían ser fenotipos relacionados desencadenados por la hipometilación epigenética debida a MTHFR anómalas, con la homocisteína como marcador; destacan los déficits de vitamina D y magnesio y el valor de una dieta rica en antioxidantes.",
+   "triangulacion": "Keywords, abstract y conclusiones son coherentes en MTHFR, metilación y síndromes solapados. Las conclusiones añaden el papel del magnesio y extienden la hipótesis a envejecimiento, cáncer y enfermedad cardiovascular; es un modelo especulativo sin datos empíricos propios.",
+   "conceptos": [
+    "MTHFR",
+    "metilación",
+    "homocisteína",
+    "síndrome de activación mastocitaria (MCAS)",
+    "POTS"
+   ]
+  },
+  {
+   "id": 345,
+   "tipo": "Revisión narrativa",
+   "tema": "Revisa las bases biológicas de la EM/SFC centrándose en las mitocondrias de las células inmunitarias y su interacción con otros sistemas.",
+   "diseno": "Revisión narrativa de la literatura; el abstract disponible es el texto inicial del artículo.",
+   "hallazgos": "Describe los papeles interactivos del microbioma y la permeabilidad intestinal, el sistema opioide endógeno, las mitocondrias de células inmunitarias, el sistema nervioso autónomo, el microARN-155, la infección o reactivación viral, la leptina, la melatonina y el ritmo circadiano.",
+   "conclusion": "Intestino y mitocondrias de células inmunitarias serían dos centros clave que interactúan con la regulación circadiana de la activación inmune y glial; la modulación de la función mitocondrial inmune/glial sería crucial para integrar los datos sobre la EM/SFC.",
+   "triangulacion": "Keywords, texto inicial y conclusiones son coherentes en mitocondria, inmunidad, intestino y sistema opioide. Las conclusiones añaden la infrafinanciación por mala conceptualización y la extrapolación a fibromialgia, depresión, demencia y migraña.",
+   "conceptos": [
+    "disfunción mitocondrial",
+    "células inmunitarias",
+    "microbiota intestinal",
+    "sistema opioide endógeno",
+    "ritmo circadiano"
+   ]
+  },
+  {
+   "id": 349,
+   "tipo": "Caso clínico",
+   "tema": "Carta que describe un caso de enfermedad de Parkinson tras COVID-19 y plantea que la infección hizo sintomático un Parkinson prodrómico.",
+   "diseno": "Carta al editor con un caso (mujer de 64 años con COVID-19 confirmado por PCR y temblor de reposo a los 5 días) estudiado con DaTscan, y revisión de casos publicados.",
+   "hallazgos": "La paciente presentó hipomimia mínima y bradicinesia y rigidez izquierdas leves, con captación reducida en el putamen derecho en el DaTscan, compatible con enfermedad de Parkinson.",
+   "conclusion": "Los autores proponen un Parkinson prodrómico desenmascarado por el estrés biológico o psicológico de la COVID-19 y también la posibilidad de parkinsonismo postencefalítico; hasta establecer la correlación etiopatogénica, estos casos deben interpretarse con cautela.",
+   "triangulacion": "Las keywords (Parkinson prodrómico, estrés psicológico) coinciden con el texto inicial y la discusión. La discusión amplía los mecanismos (encefalitis, hipótesis olfatoria, daño hipóxico) y es explícitamente prudente; la EM/SFC no aparece en ninguna fuente.",
+   "conceptos": [
+    "enfermedad de Parkinson",
+    "COVID-19",
+    "Parkinson prodrómico",
+    "parkinsonismo postencefalítico",
+    "SARS-CoV-2"
+   ]
+  },
+  {
+   "id": 351,
+   "tipo": "Hipótesis / modelo teórico",
+   "tema": "Propone mecanismos moleculares por los que la neuroinflamación mantiene la EM/SFC y la COVID persistente y favorece las recaídas.",
+   "diseno": "Artículo de hipótesis apoyado en parte en estudios moleculares propios (metiloma de ADN, mutaciones génicas; datos en GEO) en cohortes de pacientes y controles de Nueva Zelanda.",
+   "hallazgos": "Tras el estresor inicial (virus u otros), la patología sistémica llegaría al cerebro por vías neurovasculares o a través de una BHE disfuncional, generando neuroinflamación crónica; la señalización cerebro-cuerpo mantendría el ciclo de recaída-recuperación. La COVID persistente surgiría por mecanismos muy similares con señales propias del SARS-CoV-2.",
+   "conclusion": "La similitud de síntomas pese a la diversidad de desencadenantes apoya un componente disfuncional del SNC común a ambas enfermedades, perpetuado por los estreses cotidianos.",
+   "triangulacion": "Keywords y abstract son coherentes (neuroinflamación, recaídas, BHE, activación inmune crónica). El texto de discusión es casi todo ruido (ética, contribuciones, financiación) y solo confirma el papel de los estreses cotidianos.",
+   "conceptos": [
+    "neuroinflamación",
+    "barrera hematoencefálica",
+    "recaídas",
+    "activación inmunitaria crónica",
+    "COVID persistente"
+   ]
+  },
+  {
+   "id": 353,
+   "tipo": "Estudio original",
+   "tema": "Compara la fatiga relacionada con el cáncer (CRF) y el SFC con medidas multidimensionales para explorar marcadores psicofisiológicos que las diferencien.",
+   "diseno": "Estudio transversal comparativo con 25 pacientes con CRF y 20 con SFC; cuestionarios (FSS, HADS, PSS, PSQI), PCR ultrasensible, variabilidad de la frecuencia cardíaca (HRV), EEG y evaluación neurocognitiva.",
+   "hallazgos": "Ambos grupos tenían niveles comparables de variables psicológicas, incluida la fatiga. Los pacientes con CRF tuvieron PCR-us más alta y menor índice de HRV. En el SFC, la fatiga se asoció al estrés percibido y a las potencias delta, theta y alfa del EEG frontal.",
+   "conclusion": "CRF y SFC tienen mecanismos fisiopatológicos distintos; la inflamación y la HRV podrían diferenciarlas y los parámetros del EEG frontal podrían ser biomarcadores cuantitativos del SFC.",
+   "triangulacion": "Las conclusiones proceden del abstract y coinciden plenamente. Las keywords subrayan la PCR y la inflamación, pero no recogen la HRV ni el EEG, que el estudio presenta como biomarcadores relevantes.",
+   "conceptos": [
+    "fatiga relacionada con el cáncer",
+    "proteína C reactiva",
+    "variabilidad de la frecuencia cardíaca (HRV)",
+    "EEG frontal",
+    "biomarcadores"
+   ]
+  },
+  {
+   "id": 354,
+   "tipo": "Estudio original",
+   "tema": "Evalúa de forma multimodal y simultánea anomalías cerebrales y del LCR en el SFC y si la comorbilidad psiquiátrica las modifica.",
+   "diseno": "Estudio caso-control con pacientes con SFC con y sin comorbilidad psiquiátrica y controles sanos; evaluación neuropsicológica, proteínas y leucocitos en LCR, flujo sanguíneo cerebral, lactato ventricular y glutatión cortical por espectroscopia. Tamaño total no consta (26 pacientes en el análisis de valores atípicos).",
+   "hallazgos": "No hubo diferencias entre pacientes con y sin comorbilidad psiquiátrica. El conjunto de pacientes mostró menor glutatión y flujo cerebral, mayor lactato ventricular y más anomalías del LCR que los controles; 13 de 26 tuvieron valores anómalos en dos o más de las cuatro variables cerebrales.",
+   "conclusion": "La comorbilidad psiquiátrica no parece agravar el SFC; un subgrupo presenta disfunción cerebral probablemente causal, al que los autores proponen aplicar el término encefalomielitis miálgica.",
+   "triangulacion": "Keywords, texto inicial y discusión son coherentes. La discusión añade limitaciones (exclusión de pacientes medicados, datos incompletos, posible falta de potencia) que matizan la ausencia de diferencias por comorbilidad psiquiátrica.",
+   "conceptos": [
+    "comorbilidad psiquiátrica",
+    "líquido cefalorraquídeo",
+    "flujo sanguíneo cerebral",
+    "lactato ventricular",
+    "glutatión cortical"
+   ]
+  },
+  {
+   "id": 357,
+   "tipo": "Estudio original",
+   "tema": "Investiga si la naltrexona restaura la función del canal TRPM3 en células NK de pacientes con EM/SFC.",
+   "diseno": "Estudio experimental in vitro con patch-clamp de célula completa en células NK estimuladas con IL-2 de 8 pacientes con EM/SFC y 8 controles emparejados por edad y sexo, tras modulación con sulfato de pregnenolona, naltrexona (24 h) y ononetina.",
+   "hallazgos": "Se confirmó una función de TRPM3 alterada en las NK de pacientes. La incubación con naltrexona durante 24 h restauró la actividad del canal, y la naltrexona no actúa como agonista directo del canal TRPM3.",
+   "conclusion": "La naltrexona contrarrestaría la inhibición de TRPM3 mediada por receptores opioides en las NK, remodelando la señal de Ca2+, lo que apoya su posible uso terapéutico en la EM/SFC.",
+   "triangulacion": "Las tres fuentes son coherentes en naltrexona, receptor opioide mu, NK y señalización de calcio. La discusión añade el papel de los receptores opioides inmunitarios en la analgesia e incluye ruido de ética y financiación; la evidencia es in vitro con muestra pequeña.",
+   "conceptos": [
+    "TRPM3",
+    "naltrexona",
+    "células NK",
+    "receptor opioide mu",
+    "patch-clamp"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "cluster": 6,
+ "resumen": "This topic covers orthostatic intolerance (OI) and POTS in ME/CFS, studied mainly with tilt-table testing, the NASA Lean Test and measurement of cerebral blood flow (CBF). The papers show that OI is common and can be measured objectively in ME/CFS, that CBF falls during orthostatic stress even without tachycardia or hypotension, and that deconditioning does not explain this [#128, #200, #411].",
+ "sintesis": [
+  "The literature has moved from recognizing that POTS is common and underdiagnosed in CFS toward a more detailed haemodynamic picture of OI. Early studies measured POTS prevalence during brief standing, finding it in 27% of patients versus 9% of controls [#411]. They proposed POTS as a distinct clinical subgroup, younger and less fatigued, that can be identified with sleepiness and orthostatic scales [#164]; an editorial linked this to central nervous system dysfunction [#410].",
+  "The bulk of the work, published mainly between 2020 and 2023 and largely from one clinical group, uses extracranial Doppler during tilt testing. In a large controlled sample, CBF fell by 26% in ME/CFS versus 7% in controls. The fall was abnormal in most patients with a normal heart rate and blood pressure response and in all those with POTS, and it correlated with symptoms [#128]. The reduction persists after lying down again and is related to severity [#129, #544]; it is greater in patients with joint hypermobility [#138]; and a 20-degree tilt is enough to provoke it in severely ill patients and adolescents, although this angle detects less POTS [#126, #172]. Other studies from the same programme describe orthostatic chronotropic incompetence, a higher resting heart rate per unit of stroke volume, and only a modest effect of end-tidal CO2 on CBF [#375, #528, #394].",
+  "A second strand challenges the deconditioning explanation. Two CPET studies found no relationship between percentage of predicted peak VO2 and the fall in CBF [#200, #175], and POTS developing in previously active people with long COVID is read the same way [#374]. Small studies add further mechanisms: low blood volume in patients with orthostatic symptoms [#97], circulatory decompensation with a narrow pulse pressure in recent-onset disease [#265], hypocapnia that capnography can detect [#395], changes in the peripheral pulse [#148], and reduced intracranial compliance associated with OI severity [#310].",
+  "The functional consequences are also documented. Orthostatic stress worsens working memory and reaction times after the test [#167, #373], and the number of hours spent upright is associated with OI severity and with the ability to work [#567]. Comparisons with long COVID, in samples of 10 to 42 patients, find orthostatic, CBF and cognitive profiles very similar to those in ME/CFS, which the authors interpret as a single condition triggered by SARS-CoV-2 [#1, #373, #374].",
+  "Several papers fit the topic only partly because they study POTS without ME/CFS patients. These include immunological studies of adrenergic autoantibodies and of inflammation with a platelet granule deficiency [#568, #396], UK surveys of symptom burden and healthcare experience [#24, #412], a review that presents POTS as a heterogeneous functional disorder [#409], and an approach to managing fatigue in POTS [#338]. Another line, from a single group, attributes OI to postural imbalance rather than tachycardia [#380, #527] and supports this with an uncontrolled rTMS study [#431].",
+  "Treatment evidence is the weakest part of the topic: two case reports, on gravity-based exercise and craniosacral therapy [#264, #337], one study without a control group [#431], and untested proposals for biofeedback or heart rate control [#434, #164]. Overall, observational and cross-sectional designs predominate, often retrospective, and causal conclusions sometimes go beyond the data [#380, #544]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Prevalence and the POTS subgroup in ME/CFS",
+   "texto": "Early studies established that POTS is more common in CFS than in controls and proposed it as a clinical subgroup that differs in age, fatigue and sleepiness. An editorial reinforced this view, framing it as central nervous system dysfunction."
+  },
+  {
+   "titulo": "Cerebral blood flow during orthostatic stress",
+   "texto": "Extracranial Doppler during tilt testing shows a fall in CBF in most patients, even when heart rate and blood pressure are normal. The fall persists after the test, increases with severity and is greater in people with joint hypermobility; a gentler 20-degree tilt reproduces it."
+  },
+  {
+   "titulo": "Deconditioning or a distinct pathophysiology",
+   "texto": "CPET studies find no link between peak oxygen uptake and the fall in CBF, and long COVID cases in previously active people are used as further evidence. The conclusion is that deconditioning does not explain OI."
+  },
+  {
+   "titulo": "Haemodynamic, respiratory and cerebral mechanisms",
+   "texto": "Studies describe low blood volume, narrow pulse pressure, chronotropic incompetence, a higher resting heart rate per unit of stroke volume, hypocapnia, baroreflex and peripheral pulse changes, and reduced intracranial compliance. Most are small or retrospective and need replication."
+  },
+  {
+   "titulo": "Cognitive and functional impact, and clinical tools",
+   "texto": "Orthostatic stress worsens working memory and reaction times, and hours spent upright reflect OI severity and the ability to work. The NASA Lean Test and standardized questionnaires are proposed as practical tools for the clinic."
+  },
+  {
+   "titulo": "Long COVID and post-viral onset",
+   "texto": "Comparisons of long COVID with ME/CFS that began after EBV infection or gradually find equivalent orthostatic, CBF and cognitive profiles. The authors conclude that it is essentially the same disease with a different trigger."
+  },
+  {
+   "titulo": "POTS outside ME/CFS: immunity, burden and management",
+   "texto": "A group of POTS studies without ME/CFS patients explores adrenergic autoantibodies and inflammation, symptom burden, experiences of healthcare and fatigue management. It also includes a review that interprets POTS as a functional disorder, and case reports of non-drug interventions."
+  }
+ ],
+ "consensos": [
+  "OI and POTS are common in ME/CFS and should be assessed routinely with standing or tilt tests [#411, #128, #376].",
+  "In most people with ME/CFS, CBF falls abnormally during orthostatic stress, even when the heart rate and blood pressure response is normal [#128, #126, #129].",
+  "The size of the orthostatic abnormalities is associated with clinical severity [#129, #544, #375].",
+  "Physical deconditioning does not explain OI in ME/CFS [#200, #175, #374].",
+  "Orthostatic stress has measurable cognitive and functional consequences, such as poorer working memory and fewer hours spent upright [#167, #373, #567].",
+  "OI in long COVID is comparable to OI in ME/CFS, in both symptoms and objective abnormalities [#1, #374, #373]."
+ ],
+ "debates": [
+  "The role of tachycardia: for some authors POTS defines a distinct subgroup [#164]; others find that tachycardia does not explain orthostatic symptoms [#376], that OI depends mainly on postural imbalance [#380, #527], or that CBF falls without any change in heart rate [#128].",
+  "The nature of POTS: one review presents it as a functional disorder sustained by hypervigilance and behavioural factors, with deconditioning among its mechanisms [#409]; other studies propose autoimmune or inflammatory causes [#568, #396] and rule out deconditioning [#200].",
+  "Choice of orthostatic test: a 20-degree tilt reproduces the fall in CBF but detects less POTS than a 70-degree tilt [#172, #126], and the NASA Lean Test needs at least 5 minutes to show changes [#265]. Capnography adds findings that would otherwise be missed [#395].",
+  "Causal inference: several studies draw causal or treatment conclusions from associations or uncontrolled data, for example on the link between severity and CBF [#544], imbalance as a cause of OI [#380], or the efficacy of rTMS and craniosacral therapy [#431, #337]."
+ ],
+ "lagunas": [
+  "There are no controlled trials of treatments; the evidence is limited to case reports, uncontrolled studies and untested proposals [#264, #337, #431, #434].",
+  "Many mechanistic studies have small or unreported sample sizes and need replication [#97, #148, #310, #527].",
+  "Most of the CBF evidence comes from a single clinical programme, with retrospective designs and often only women, which limits external validation [#394, #528, #138].",
+  "The immune findings in POTS have not been studied in ME/CFS patients, so their relevance to OI in ME/CFS is unknown [#568, #396].",
+  "Longitudinal studies are needed to clarify how OI evolves, how it relates in time to worsening, and whether it is useful for monitoring treatment [#395, #265, #544]."
+ ]
+}

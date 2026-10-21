@@ -1,0 +1,109 @@
+{
+ "cluster": 7,
+ "resumen": "This theme gathers 1187 papers on fatigue, sleep, stress and general reviews of chronic fatigue syndrome. It combines clinical reviews, studies of fatigue as a symptom in primary care, work on the stress axis and sleep, surveys of specific populations, and trials of exercise, cognitive behavioral therapy and supplements. It mixes nonspecific chronic fatigue with ME/CFS as a disease, and it relies on very heterogeneous diagnostic definitions. It acts as a meeting point with almost every other theme in the corpus.",
+ "sintesis": [
+  "A large share of the sample consists of general reviews of chronic fatigue syndrome. They range from update articles to clinical handbooks, nursing fact sheets and narrative reviews in regional journals [#408, #1613, #2547, #4493, #4590, #3968]. Almost all follow the same template: fatigue lasting six months or more, diagnosis by exclusion, unknown etiology and symptomatic treatment [#1185, #1280, #5512]. Several list a wide range of etiological factors, including genetic, immune, infectious, endocrine and neuropsychiatric ones [#408, #761, #64]. The most recent reviews add a possible link with long COVID and the weight of post-exertional malaise [#5411, #4590]. Many address psychiatrists, family physicians or nurses, which explains their introductory tone [#868, #6492, #6908].",
+  "The second block treats fatigue as a symptom and separates it from ME/CFS as a disease. A systematic review of primary care with 26 studies estimates a prevalence of depression of 18.5% among people with tiredness and of serious somatic disease of 4.3%. It could not pool the data for chronic fatigue syndrome [#2678]. An evaluation guide classifies fatigue as physiologic, secondary or chronic, and reserves ME/CFS for a subgroup defined by post-exertional malaise [#5411]. Other papers distinguish fatigue or asthenia from the syndrome [#5830, #4731, #1248] and compare fatigue across physical and mental conditions [#7146]. The Chalder questionnaire was created for the syndrome, but it now measures tiredness in clinical and nonclinical populations [#1941].",
+  "Mechanistic studies center on stress, the hypothalamic-pituitary-adrenal (HPA) axis and sleep. One review describes HPA hypoactivity, sympathetic overactivity and low vagal tone in chronic fatigue [#218]. Another reports basal hypocortisolism and reduced diurnal variation, and cannot tell whether the alteration is a cause or a consequence [#1529]. A partial meta-analysis found an attenuated cortisol awakening response in the syndrome (d = -0.34) and no differences in other markers [#1479]. For sleep, subjective complaints are common, but objective recordings show no consistent pattern [#1813, #4436]. Other studies explore genetics, telomeres and a model of persistent fatigue induced by interferon alpha [#1911, #3194, #3454].",
+  "Interventions form another large block. Reviews present cognitive behavioral therapy and graded exercise as the options with moderate benefit [#1185, #2547]. The Cochrane reviews of exercise rely on searches up to 2014 [#2896, #3765, #6065]. A review of 56 randomized trials with 6956 participants found eight interventions with statistical significance and none with proven efficacy [#3915]. The literature on supplements and nutraceuticals is growing, with few studies and a high risk of bias [#6161, #4342, #6374, #3412]. Isometric yoga, massage, complementary medicine and traditional Chinese medicine also appear [#1626, #6934, #146, #913].",
+  "The theme gathers 1187 papers between 2010 and 2026. Output falls from 108 papers in 2010 to a low of 48 in 2022, then rises to 63 in 2025. The year 2026 holds 41 papers through October. By relevance label, 884 papers (74%) deal centrally with ME/CFS and 49 deal with it secondarily. Another 170 treat it peripherally, 66 start from another concept and 14 remain uncertain, so a sizable part discusses fatigue in general and only mentions ME/CFS. The theme talks more than chance would predict with the XMRV retrovirus theme (O/E 1.52) and with cognitive behavioral therapy and PACE (1.44). It talks less with long COVID (0.80). Coupling with pain and fibromyalgia drops from 0.966 to 0.423 between 2010-2012 and 2024-2026, while coupling with immunity and biomarkers rises from 0.47 to 0.695."
+ ],
+ "lineas": [
+  {
+   "titulo": "General reviews and clinical handbooks",
+   "texto": "Narrative reviews and handbooks summarize the definition, diagnosis and management of the syndrome. They agree on diagnosis by exclusion and on an etiology that remains unclear [#408, #1280, #4493]. A 2016 review concludes that no proposed etiological factor has strong, reproducible evidence [#2547]. Several target psychiatrists, family physicians or nurses [#868, #6492, #6908].",
+   "papers": [408, 1280, 4493, 2547, 868, 6492, 6908, 4590]
+  },
+  {
+   "titulo": "Fatigue as a nonspecific symptom",
+   "texto": "This group studies fatigue outside the ME/CFS framework. It includes differential diagnosis in primary care, where depression outweighs serious somatic disease [#2678], and the clinical evaluation of the fatigued patient [#5411, #1248]. It also includes measurement tools such as the Chalder questionnaire [#1941] and comparisons of fatigue across seven clinical cohorts [#7146]. Other papers separate mental fatigue from the syndrome [#5830].",
+   "papers": [2678, 5411, 1248, 1941, 7146, 5830, 4731, 5611]
+  },
+  {
+   "titulo": "Stress, cortisol, sleep and genetics",
+   "texto": "Biological studies look for mechanisms of chronic fatigue. One review links fatigue to HPA hypoactivity, autonomic imbalance and immune abnormalities [#218], and another reviews HPA function in the syndrome [#1529]. A twin study of 146 pairs estimated concordance of 55% in monozygotic and 19% in dizygotic twins for idiopathic chronic fatigue [#1911]. A study of interferon alpha proposes a model of persistent fatigue driven by inflammation [#3454].",
+   "papers": [218, 1529, 1479, 1813, 4436, 1911, 3194, 3454]
+  },
+  {
+   "titulo": "Epidemiology and risk factors",
+   "texto": "Population studies and surveys estimate how common the syndrome is and what it is linked to. A study of Medicare data linked the syndrome to non-Hodgkin lymphoma (OR 1.29) [#1067], and a Taiwanese cohort linked atopy to a higher risk (HR 1.48) [#2191]. Surveys of teachers and students report prevalences of 12.9% and 33.8% [#895, #6197]. In the LifeLines cohort, people with the syndrome showed lower physical activity [#3409].",
+   "papers": [1067, 2191, 895, 5191, 6197, 6747, 3409, 346]
+  },
+  {
+   "titulo": "Treatment trials and reviews",
+   "texto": "This line evaluates therapies for the syndrome. The Cochrane reviews of exercise and a 2025 meta-analysis examine exercise-based rehabilitation [#2896, #3765, #6097]. A randomized trial of 30 patients resistant to conventional therapy tested isometric yoga [#1626]. Reviews of trials note that no intervention has been proven [#3915, #2794], and reviews of supplements describe heterogeneous studies with a high risk of bias [#6161].",
+   "papers": [2896, 3765, 6097, 1626, 3915, 2794, 6161, 6065]
+  },
+  {
+   "titulo": "Criteria, naming and subgroups",
+   "texto": "Several papers debate how to define and name the disease. The Institute of Medicine recommended a new name and new criteria [#2081]. One proposal would split unexplained chronic fatigue into more specific syndromes [#3123], and another would call the condition «systemic immune disorder» [#2389]. A nursing concept analysis counts more than 25 diagnostic criteria since 1988 [#6908], and an Australian guideline from 2002 was flagged as outdated [#6496].",
+   "papers": [2081, 3123, 2389, 6908, 6496, 868]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Reviews agree that no diagnostic test exists and that diagnosis is clinical and based on exclusion [#1185, #4493, #2794, #4342].",
+   "papers": [1185, 4493, 2794, 4342, 408]
+  },
+  {
+   "texto": "Authors agree that the etiology is unknown and probably multifactorial [#2547, #408, #1613, #5936].",
+   "papers": [2547, 408, 1613, 5936, 5512]
+  },
+  {
+   "texto": "No specific treatment has demonstrated efficacy, and the evidence comes from heterogeneous studies or studies of limited quality [#3915, #2794, #4392, #6161].",
+   "papers": [3915, 2794, 4392, 6161, 1185]
+  },
+  {
+   "texto": "In primary care, fatigue rarely has a serious somatic cause and is associated with depression and psychosocial factors [#2678, #5411, #218].",
+   "papers": [2678, 5411, 218, 1248]
+  },
+  {
+   "texto": "Patients frequently report sleep disturbances in the syndrome [#1813, #4590, #4436].",
+   "papers": [1813, 4590, 4436, 1185]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "The value of cognitive behavioral therapy and graded exercise remains under discussion. Several reviews present them as options with moderate efficacy [#1185, #2547, #1613]. Other authors consider them ineffective and tied to a somatoform view [#2389]. A recent guide warns that exercise can trigger post-exertional malaise [#5411], and a 2025 meta-analysis describes its efficacy as a matter of ongoing debate [#6097].",
+   "papers": [1185, 2547, 1613, 2389, 5411, 6097]
+  },
+  {
+   "texto": "The syndrome is read through a biopsychosocial model by some authors and as an immune or organic disorder by others. A 2016 review notes that the biopsychosocial model is gaining ground over the biomedical one [#2547]. Another review points out that many psychiatrists see it as a purely psychological disorder [#868]. Other texts describe it as a systemic immune disorder or an immune-mediated disease [#2389, #3123, #4731].",
+   "papers": [2547, 868, 2389, 3123, 4731, 1280]
+  },
+  {
+   "texto": "The role of the HPA axis is uncertain. One review cannot establish whether endocrine dysregulation is a cause, a consequence or an epiphenomenon [#1529]. The salivary cortisol meta-analysis found differences only in the cortisol awakening response, and total cortisol was rarely associated with fatigue [#1479]. Another review assigns axis hypoactivity a role in maintaining chronic fatigue [#218].",
+   "papers": [218, 1529, 1479]
+  },
+  {
+   "texto": "Subjective and objective sleep measures do not agree. Polysomnography shows no consistent pattern, and the heterogeneity of phenotypes and protocols may explain this [#1813]. In LifeLines, people with the syndrome slept longer than controls, and the linear association between activity, sleep and severity appeared only in controls [#3409]. A systematic review of 20 observational studies examines these objective measures [#4436].",
+   "papers": [1813, 3409, 4436]
+  },
+  {
+   "texto": "Prevalence varies widely with the criterion and the method. Reviews quote ranges of 0.2 to 6.4% [#2547], 0.23 to 2.6% [#1813] and a global 0.89% [#6908]. Surveys report 12.9% in teachers [#895], 27% in middle-aged women seen at a polyclinic [#1600] and 33.8% in students [#6197].",
+   "papers": [2547, 1813, 6908, 895, 1600, 6197]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "The field lacks validated biomarkers and independent replication. Reviews note that no diagnostic test or targeted treatment exists [#4342, #2794]. The two telomere papers in the sample come from the same Georgia surveillance study [#2478, #3194], and the causal role of HPA dysfunction remains unestablished [#1529].",
+   "papers": [4342, 2794, 2478, 3194, 1529]
+  },
+  {
+   "texto": "Large, high-quality trials are missing. A review of supplements includes 14 studies with 809 participants and a high risk of bias [#6161]. A yoga trial enrolled 30 patients [#1626]. A review of clinical trials calls for more robust studies and better outcome measures [#5684], and the Cochrane exercise review still rests on searches from 2014 [#6065].",
+   "papers": [6161, 1626, 5684, 3915, 6065]
+  },
+  {
+   "texto": "Many surveys identify the syndrome with self-assessment questionnaires without clinical confirmation, and few studies separate ME/CFS from nonspecific fatigue. Student surveys use online or self-administered questionnaires [#6197, #5191, #6749]. The teacher study added a later assessment by physicians [#895]. The primary care review could not pool the data for the syndrome [#2678], and the comparison across clinical cohorts is cross-sectional [#7146].",
+   "papers": [6197, 5191, 6749, 895, 2678, 7146]
+  },
+  {
+   "texto": "Longitudinal studies and causal mechanisms are scarce. A follow-up of 100 patients showed that fatigue severity stays stable [#346]. Population cohorts linking the syndrome to lymphoma or atopy do not clarify the mechanism [#1067, #2191]. Among the papers read, the only experimental model is an indirect human model based on interferon alpha [#3454].",
+   "papers": [346, 1067, 2191, 3454]
+  },
+  {
+   "texto": "Data are missing for specific populations and for post-COVID fatigue. One guide expects the syndrome to become more common after the pandemic [#5411]. A machine learning study of 3850 patients predicts post-COVID fatigue without separating it from ME/CFS [#6833]. In a review of 56 trials, only 457 of the 6956 participants were adolescents [#3915].",
+   "papers": [5411, 6833, 3915, 7146]
+  }
+ ]
+}

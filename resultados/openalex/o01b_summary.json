@@ -1,0 +1,359 @@
+{
+ "raw": 7245,
+ "kept": 7169,
+ "dropped": {
+  "W2491006117": {
+   "title": "Table 6, Trials of exercise therapies for ME/CFS",
+   "reason": "archivo suplementario"
+  },
+  "W7137293658": {
+   "title": "MOESM1 of Longitudinal analysis of immune abnormalities in varying severities of Chronic Fatigue Syndrome/Myalgic Enceph",
+   "reason": "archivo suplementario"
+  },
+  "W7136205881": {
+   "title": "MOESM4 of ERK1/2, MEK1/2 and p38 downstream signalling molecules impaired in CD56dimCD16+ and CD56brightCD16dim/â natura",
+   "reason": "archivo suplementario"
+  },
+  "W7136391744": {
+   "title": "Additional file 2: Figure S1. of Illness progression in chronic fatigue syndrome: a shifting immune baseline",
+   "reason": "archivo suplementario"
+  },
+  "W7136480594": {
+   "title": "Additional file 4: Figure S3. of Reduced diversity and altered composition of the gut microbiome in individuals with mya",
+   "reason": "archivo suplementario"
+  },
+  "W7136540840": {
+   "title": "MOESM3 of ERK1/2, MEK1/2 and p38 downstream signalling molecules impaired in CD56dimCD16+ and CD56brightCD16dim/â natura",
+   "reason": "archivo suplementario"
+  },
+  "W7136636734": {
+   "title": "Additional file 4: Figure S2. of Illness progression in chronic fatigue syndrome: a shifting immune baseline",
+   "reason": "archivo suplementario"
+  },
+  "W7136876444": {
+   "title": "MOESM2 of ERK1/2, MEK1/2 and p38 downstream signalling molecules impaired in CD56dimCD16+ and CD56brightCD16dim/â natura",
+   "reason": "archivo suplementario"
+  },
+  "W7137033958": {
+   "title": "Additional file 1: Figure S1. of Reduced diversity and altered composition of the gut microbiome in individuals with mya",
+   "reason": "archivo suplementario"
+  },
+  "W7137059516": {
+   "title": "Additional file 2: Figure S2. of Reduced diversity and altered composition of the gut microbiome in individuals with mya",
+   "reason": "archivo suplementario"
+  },
+  "W7137810883": {
+   "title": "MOESM4 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7137859944": {
+   "title": "MOESM2 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7137890029": {
+   "title": "MOESM1 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7137947990": {
+   "title": "MOESM3 of Novel identification and characterisation of Transient receptor potential melastatin 3 ion channels on Natural",
+   "reason": "archivo suplementario"
+  },
+  "W7138003107": {
+   "title": "MOESM9 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138023447": {
+   "title": "MOESM2 of Novel identification and characterisation of Transient receptor potential melastatin 3 ion channels on Natural",
+   "reason": "archivo suplementario"
+  },
+  "W7138048375": {
+   "title": "MOESM3 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138089002": {
+   "title": "MOESM1 of Novel identification and characterisation of Transient receptor potential melastatin 3 ion channels on Natural",
+   "reason": "archivo suplementario"
+  },
+  "W7138126271": {
+   "title": "Additional file 1: of Implementing resources to support the diagnosis and management of Chronic Fatigue Syndrome/Myalgic",
+   "reason": "archivo suplementario"
+  },
+  "W7138165383": {
+   "title": "Additional file 1: of Experiences of general practitioner continuity among women with chronic fatigue syndrome/myalgic e",
+   "reason": "archivo suplementario"
+  },
+  "W7138308083": {
+   "title": "MOESM7 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138312461": {
+   "title": "MOESM5 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138338340": {
+   "title": "MOESM11 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138346348": {
+   "title": "MOESM12 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138360943": {
+   "title": "MOESM10 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138397577": {
+   "title": "Additional file 2: of Implementing resources to support the diagnosis and management of Chronic Fatigue Syndrome/Myalgic",
+   "reason": "archivo suplementario"
+  },
+  "W7138416929": {
+   "title": "MOESM6 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7138450540": {
+   "title": "MOESM8 of Mitochondrial DNA variants correlate with symptoms in myalgic encephalomyelitis/chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W2584613308": {
+   "title": "Additional file 1: Table S1. of Giardia-specific cellular immune responses in post-giardiasis chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W4394081643": {
+   "title": "MOESM1 of Examining clinical similarities between myalgic encephalomyelitis/chronic fatigue syndrome and d-lactic acidos",
+   "reason": "archivo suplementario"
+  },
+  "W7136033036": {
+   "title": "Additional file 1: of Adult patientsâ experiences of NHS specialist services for chronic fatigue syndrome (CFS/ME): a qu",
+   "reason": "archivo suplementario"
+  },
+  "W7136044689": {
+   "title": "Additional file 1: Table S1. of Specialist treatment of chronic fatigue syndrome/ME: a cohort study among adult patients",
+   "reason": "archivo suplementario"
+  },
+  "W7136057701": {
+   "title": "Additional file 1: Table S1. of Acupuncture and moxibustion for chronic fatigue syndrome in traditional Chinese medicine",
+   "reason": "archivo suplementario"
+  },
+  "W7136059432": {
+   "title": "Additional file 1: of Health care resource use by patients before and after a diagnosis of chronic fatigue syndrome (CFS",
+   "reason": "archivo suplementario"
+  },
+  "W7136074943": {
+   "title": "MOESM2 of Examining clinical similarities between myalgic encephalomyelitis/chronic fatigue syndrome and d-lactic acidos",
+   "reason": "archivo suplementario"
+  },
+  "W7136075374": {
+   "title": "Additional file 2: Figure S1. of Acupuncture and moxibustion for chronic fatigue syndrome in traditional Chinese medicin",
+   "reason": "archivo suplementario"
+  },
+  "W7136082518": {
+   "title": "Additional file 1: Table S1. of Giardia-specific cellular immune responses in post-giardiasis chronic fatigue syndrome",
+   "reason": "archivo suplementario"
+  },
+  "W7208604258": {
+   "title": "MOESM2 of Transient receptor potential melastatin 2 channels are overexpressed in myalgic encephalomyelitis/chronic fati",
+   "reason": "archivo suplementario"
+  },
+  "W7124133971": {
+   "title": "Additional file 3 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124140159": {
+   "title": "Additional file 10 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic",
+   "reason": "archivo suplementario"
+  },
+  "W7124154466": {
+   "title": "Additional file 11 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic",
+   "reason": "archivo suplementario"
+  },
+  "W7124157150": {
+   "title": "Additional file 4 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124163690": {
+   "title": "Additional file 8 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124165794": {
+   "title": "Additional file 2 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124168479": {
+   "title": "Additional file 7 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124169437": {
+   "title": "Additional file 9 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124170499": {
+   "title": "Additional file 5 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124180563": {
+   "title": "Additional file 6 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7124184303": {
+   "title": "Additional file 1 of Abnormal T-Cell activation and cytotoxic T-Cell frequency discriminate symptom severity in myalgic ",
+   "reason": "archivo suplementario"
+  },
+  "W7126064429": {
+   "title": "Additional file 1 of Post-Covid-19 symptoms, subjective work ability and sick leave 2 years after acute infection—result",
+   "reason": "archivo suplementario"
+  },
+  "W7128606087": {
+   "title": "Additional file 2 of Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogeni",
+   "reason": "archivo suplementario"
+  },
+  "W7128607378": {
+   "title": "Additional file 3 of Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogeni",
+   "reason": "archivo suplementario"
+  },
+  "W7128612149": {
+   "title": "Additional file 4 of Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogeni",
+   "reason": "archivo suplementario"
+  },
+  "W7128619611": {
+   "title": "Additional file 1 of Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogeni",
+   "reason": "archivo suplementario"
+  },
+  "W7128620797": {
+   "title": "Additional file 6 of Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogeni",
+   "reason": "archivo suplementario"
+  },
+  "W7128624709": {
+   "title": "Additional file 5 of Uncovering the genetic architecture of ME/CFS: a precision approach reveals impact of rare monogeni",
+   "reason": "archivo suplementario"
+  },
+  "W7128917318": {
+   "title": "Additional file 1 of Distinct functional connectivity patterns in myalgic encephalomyelitis and long COVID patients duri",
+   "reason": "archivo suplementario"
+  },
+  "W7133301255": {
+   "title": "Additional file 1 of Tuina therapy for patients with chronic fatigue syndrome: a randomized controlled trial",
+   "reason": "archivo suplementario"
+  },
+  "W7133325999": {
+   "title": "Additional file 2 of Tuina therapy for patients with chronic fatigue syndrome: a randomized controlled trial",
+   "reason": "archivo suplementario"
+  },
+  "W7156932843": {
+   "title": "Additional file 1 of Cardiopulmonary Exercise Testing Reveals Functional Limitations and Work Disability in Severe Post-",
+   "reason": "archivo suplementario"
+  },
+  "W7164014477": {
+   "title": "Additional file 1 of Hyperbaric oxygen therapy improves clinical symptoms and functional capacity and modulates thalamic",
+   "reason": "archivo suplementario"
+  },
+  "W7204252987": {
+   "title": "Additional file 1 of Self-management support needs for individuals with Myalgic Encephalomyelitis and their next of kin ",
+   "reason": "archivo suplementario"
+  },
+  "W7170200645": {
+   "title": "Additional file 2 of Handgrip strength in children, adolescents, and young adults with suspected myalgic encephalomyelit",
+   "reason": "archivo suplementario"
+  },
+  "W7170207333": {
+   "title": "Additional file 1 of Handgrip strength in children, adolescents, and young adults with suspected myalgic encephalomyelit",
+   "reason": "archivo suplementario"
+  },
+  "W7169495514": {
+   "title": "Additional file 2 of Perioperative outcomes in patients with myalgic encephalomyelitis/chronic fatigue syndrome undergoi",
+   "reason": "archivo suplementario"
+  },
+  "W7169565530": {
+   "title": "Additional file 3 of Perioperative outcomes in patients with myalgic encephalomyelitis/chronic fatigue syndrome undergoi",
+   "reason": "archivo suplementario"
+  },
+  "W7169601688": {
+   "title": "Additional file 1 of Perioperative outcomes in patients with myalgic encephalomyelitis/chronic fatigue syndrome undergoi",
+   "reason": "archivo suplementario"
+  },
+  "W7214710050": {
+   "title": "Additional file 1 of Muscle symptoms and a latent physiological symptom-dysregulation factor in ME/CFS: exploratory anal",
+   "reason": "archivo suplementario"
+  },
+  "W7214727740": {
+   "title": "Additional file 3 of Muscle symptoms and a latent physiological symptom-dysregulation factor in ME/CFS: exploratory anal",
+   "reason": "archivo suplementario"
+  },
+  "W7214757133": {
+   "title": "Additional file 2 of Muscle symptoms and a latent physiological symptom-dysregulation factor in ME/CFS: exploratory anal",
+   "reason": "archivo suplementario"
+  },
+  "W7221618622": {
+   "title": "Additional file 2 of Which needs do children, adolescents, and young adults with ME/CFS and their parents express and fe",
+   "reason": "archivo suplementario"
+  },
+  "W7221628674": {
+   "title": "Additional file 1 of Which needs do children, adolescents, and young adults with ME/CFS and their parents express and fe",
+   "reason": "archivo suplementario"
+  },
+  "W4230672175": {
+   "title": "Novel characterisation of mast cell phenotypes from peripheral blood mononuclear cells in chronic fatigue syndrome/myalg",
+   "reason": "duplicado de W2498031320 (mismo DOI)"
+  },
+  "W3199527258": {
+   "title": "[Long COVID: Is it really myalgic encephalomyelitis? Bibliographic review and considerations].",
+   "reason": "duplicado de W3200523202 (mismo DOI)"
+  },
+  "W7212036036": {
+   "title": "Reducing fatigue-related symptoms in Long COVID-19: a preliminary report of a lymphatic drainage intervention",
+   "reason": "duplicado de W4223948898 (mismo DOI)"
+  },
+  "W7212024056": {
+   "title": "Single-Center Study of Therapeutic Apheresis in 24 Male Patients from the MENA Region: Reduction of Lipids, Inflammatory",
+   "reason": "duplicado de W4414114806 (mismo DOI)"
+  }
+ },
+ "n_suppl": 72,
+ "n_dup": 4,
+ "retracted": [
+  {
+   "key": "W2026087575",
+   "year": 2010,
+   "title": "RETRACTED: Detection of MLV-related virus gene sequences in blood of patients with chronic fatigue syndrome and healthy "
+  },
+  {
+   "key": "W2044049850",
+   "year": 2012,
+   "title": "Identification of XMRV Infection-Associated microRNAs in Four Cell Types in Culture"
+  },
+  {
+   "key": "W2774927854",
+   "year": 2017,
+   "title": "RETRACTED: Conflicting results in article describing “HPV-vaccination and risk of chronic fatigue syndrome/myalgic encep"
+  },
+  {
+   "key": "W4236880332",
+   "year": 2018,
+   "title": "Traditional Chinese medicinal herbs for the treatment of idiopathic chronic fatigue and chronic fatigue syndrome"
+  },
+  {
+   "key": "W3015365171",
+   "year": 2020,
+   "title": "Retracted: Cognitive–behavioural therapy combined with music therapy for chronic fatigue following Epstein-Barr virus in"
+  },
+  {
+   "key": "W3083145854",
+   "year": 2020,
+   "title": "RETRACTED: Using Plasma Autoantibodies of Central Nervous System Proteins to Distinguish Veterans with Gulf War Illness "
+  },
+  {
+   "key": "W3125971332",
+   "year": 2021,
+   "title": "RETRACTED: Sex-Based Differences in Plasma Autoantibodies to Central Nervous System Proteins in Gulf War Veterans versus"
+  },
+  {
+   "key": "W4308388243",
+   "year": 2022,
+   "title": "WITHDRAWN: Autoimmune autonomic nervous system imbalance and conditions: Chronic fatigue syndrome, fibromyalgia, silicon"
+  },
+  {
+   "key": "W4411571950",
+   "year": 2025,
+   "title": "RETRACTED: Causal Relationship Between Diet, Lipids, Immune Cells, and Chronic Fatigue Syndrome: A Two‐Mediation Mendeli"
+  }
+ ]
+}

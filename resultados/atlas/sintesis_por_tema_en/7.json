@@ -1,0 +1,63 @@
+{
+ "cluster": 7,
+ "resumen": "These papers examine autonomic dysfunction, cardiovascular function, the endothelium and blood clotting in ME/CFS, together with vascular, craniocervical and sleep models that try to explain fatigue, orthostatic intolerance and PEM. They show altered autonomic regulation, with less vagal and more sympathetic activity [#240, #505], and signs of endothelial dysfunction and a pro-clotting state in subgroups of patients [#160, #521]. No single marker is yet good enough for diagnosis.",
+ "sintesis": [
+  "The strongest evidence concerns cardiac dysautonomia. A meta-analysis of 64 case-control studies finds a higher heart rate at rest and on standing, a higher LF/HF ratio and a lower HF component. This pattern fits less vagal and more sympathetic modulation, although heterogeneity is high and no single parameter is sensitive enough for diagnosis [#240]. Later studies using mHealth devices, continuous recording or formal autonomic testing confirm lower HRV, lower baroreflex sensitivity, slower parasympathetic recovery after exercise and a high prevalence of POTS [#426, #505, #424, #219].",
+  "A second strand looks at stratifying patients. Cluster analysis identifies autonomic phenotypes associated with severity [#88]. Other studies relate HRV to fatigue, with differences between men and women [#63], or sympathovagal balance to PEM, although that result did not survive correction for multiple comparisons [#403]. On the other hand, a crossover study found no differences in cerebral blood flow or HRV with light exercise [#127]. An autonomic laboratory with more than 2600 patients found that questionnaires do not correlate with objective tests, including in the ME/CFS subgroup [#344], which casts doubt on using the COMPASS-31 for screening, as a neurological review had proposed [#6].",
+  "The endothelial strand has become more prominent since 2020. An early study found prolonged cholinergic vasodilation in skin microcirculation [#420]. Later work has reported eNOS-linked microRNAs [#54], raised ET-1 and VCAM-1 associated with skin temperature rhythms [#160], peripheral endothelial dysfunction in a post-COVID subgroup [#229], and biomarkers such as PAI-1 and E-selectin that may distinguish ME/CFS from long COVID [#80]. One small study also found hypercoagulability, hyperactivated platelets and fibrinaloid microclots [#521]; these findings have since been discussed in reviews of cardiovascular, haematological and viral pathology [#117, #266].",
+  "Many theoretical models build on this base. They invoke autoantibodies and β2-adrenergic receptor dysfunction, with hypoperfusion and sodium and calcium overload in muscle [#12, #384]; cerebral hypoperfusion and impaired neurovascular coupling [#62]; ischaemia-reperfusion injury [#577]; or, in a speculative letter, endothelial leakage as the cause of PEM [#187]. These hypotheses fit the data but have not been tested experimentally by their authors. The craniocervical line is more controversial. It links CFS to raised intracranial pressure or venous obstruction [#519, #21] and rests on a retrospective series without a control group [#461] and on isolated surgical cases [#327, #481].",
+  "Studies of cardiac structure and function are mostly negative: echocardiography is normal in women [#114], and heart structure and exercise capacity resemble those of sedentary controls, although post-exercise cytokines do separate the groups [#447]. A JACC review, by contrast, highlights lower stroke volume and cardiac output related to PEM [#573], and a population survey links ME/CFS to cardiovascular disease after adjustment, without being able to establish causality [#356]. Sleep studies add another angle, with frequent objective sleep problems and distinct polysomnographic phenotypes [#71, #14] and lower parasympathetic activity in deep sleep [#381, #87].",
+  "Evidence on treatment is sparse and weak: an activity programme without a control group that half the patients tolerated poorly [#429], a small exercise trial with immunological outcomes [#307], and post-COVID studies that are not really about ME/CFS [#26, #275]. In addition, two papers on intracranial aneurysms and stroke are unrelated to the disease and seem to have been included by mistake [#348, #350], and several others fit the topic poorly because they focus on sleep, muscle or CSF [#515, #182, #243]."
+ ],
+ "lineas": [
+  {
+   "titulo": "Cardiac autonomic regulation and HRV",
+   "texto": "Studies measure heart rate, HRV, the baroreflex and the orthostatic response at rest, after exercise and with mHealth devices. The meta-analysis and case-control studies agree on less vagal and more sympathetic modulation, with frequent POTS, although no single marker is enough for diagnosis."
+  },
+  {
+   "titulo": "Autonomic phenotypes, severity and measurement",
+   "texto": "This work looks for autonomic subgroups and their relationship to severity or PEM, and tests questionnaires against objective measures. Sympathetic phenotypes are associated with greater severity, but questionnaires do not reflect objectively measured dysautonomia."
+  },
+  {
+   "titulo": "Endothelial dysfunction and vascular biomarkers",
+   "texto": "Studies of the microcirculation, endothelial reactivity and circulating biomarkers such as ET-1, VCAM-1, PAI-1, E-selectin and eNOS-linked microRNAs. The findings point to endothelial dysfunction in subgroups and to possible profiles that distinguish ME/CFS from long COVID."
+  },
+  {
+   "titulo": "Clotting, platelets, viruses and ischaemic models",
+   "texto": "This strand brings together hypercoagulability, fibrinaloid microclots, herpesvirus reservoirs and ischaemia-reperfusion injury as mechanisms of vascular damage. It consists mainly of reviews and mechanistic proposals resting on a single small original study."
+  },
+  {
+   "titulo": "Hypoperfusion and adrenergic receptors",
+   "texto": "Theoretical models in which autoantibodies against β2AdR and M3 set off a chain of vasoconstriction, muscle and brain hypoperfusion and ion overload that would explain PEM and neurological symptoms. They have no empirical data of their own."
+  },
+  {
+   "titulo": "Cardiac function and cardiovascular risk",
+   "texto": "Studies of cardiac structure and function, blood pressure and population-level associations with cardiovascular disease. Resting echocardiography is usually normal, whereas the main review and the population survey suggest lower cardiac output and a higher cardiovascular burden."
+  },
+  {
+   "titulo": "Sleep, circadian rhythms and craniocervical models",
+   "texto": "Polysomnography and actigraphy studies with night-time HRV, plus a separate line on intracranial pressure, venous obstruction and cervical stenosis. The sleep studies show objective sleep abnormalities and lower parasympathetic tone at night; the craniocervical work rests on hypotheses, uncontrolled series and case reports."
+  }
+ ],
+ "consensos": [
+  "ME/CFS is associated with altered cardiac autonomic regulation, with a higher heart rate at rest and on standing and less vagal modulation, as shown in the meta-analysis and in case-control studies using a range of methods.",
+  "No single autonomic measure is sensitive enough for diagnosis, and dysautonomia affects subgroups rather than all patients.",
+  "A subgroup of patients has endothelial dysfunction and raised vascular biomarkers, including ET-1, and this is also seen in post-COVID cases that meet ME/CFS criteria.",
+  "ME/CFS and post-COVID condition share patterns of dysautonomia, POTS and endothelial dysfunction, although some markers differ.",
+  "Patients show objective sleep abnormalities and lower parasympathetic activity in deep sleep, and primary sleep disorders should be ruled out."
+ ],
+ "debates": [
+  "Changes in cerebral blood flow and HRV are not found in every design: a crossover study with light exercise found no difference from sedentary controls, unlike most studies and the meta-analysis.",
+  "Resting echocardiography shows normal cardiac structure and function, whereas other sources describe lower stroke volume and cardiac output, and a population-level association with cardiovascular disease whose causal direction cannot be established.",
+  "The value of autonomic questionnaires is disputed: they are proposed for screening, but in a large laboratory series they did not correlate with objective tests.",
+  "The intracranial pressure and craniocervical obstruction models claim a paradigm shift, but they rest on hypotheses, retrospective series without control groups and isolated surgical cases.",
+  "Exercise or activity programmes improve some markers, but they lack control groups or are poorly tolerated by half the patients, and some immunological results are over-interpreted."
+ ],
+ "lagunas": [
+  "Small samples, sometimes of unreported size, predominate, and exploratory analyses often do not survive correction for multiple comparisons; larger cohorts and replication are needed.",
+  "Longitudinal and experimental studies are needed to establish whether dysautonomia and endothelial dysfunction cause symptoms such as PEM; most studies are cross-sectional or correlational.",
+  "The mechanistic models involving β2-adrenergic receptors, ischaemia-reperfusion, endothelial herpesviruses and vascular leakage have not been tested empirically.",
+  "Diagnostic criteria vary, Fukuda predominates, and there is no agreed autonomic testing protocol; stricter criteria and studies of severely ill patients are called for.",
+  "Treatment evidence is minimal and comes mostly from post-COVID pilots that are not about ME/CFS; the collection also contains papers unrelated to the topic."
+ ]
+}

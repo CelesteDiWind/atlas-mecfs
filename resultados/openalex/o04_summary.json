@@ -1,0 +1,119 @@
+{
+ "n": 7169,
+ "with_refs": 5265,
+ "n_refs": 120834,
+ "links": 261061,
+ "windows": [
+  {
+   "ventana": "2010-2012",
+   "papers": 1228,
+   "active": 860,
+   "validated": 9870,
+   "bicm_err": 3.5777247830992565e-10
+  },
+  {
+   "ventana": "2011-2013",
+   "papers": 1204,
+   "active": 853,
+   "validated": 6721,
+   "bicm_err": 3.511786417220719e-10
+  },
+  {
+   "ventana": "2012-2014",
+   "papers": 1059,
+   "active": 737,
+   "validated": 2327,
+   "bicm_err": 3.7186964618740603e-10
+  },
+  {
+   "ventana": "2013-2015",
+   "papers": 1123,
+   "active": 781,
+   "validated": 2773,
+   "bicm_err": 3.483933141978923e-10
+  },
+  {
+   "ventana": "2014-2016",
+   "papers": 1142,
+   "active": 789,
+   "validated": 2549,
+   "bicm_err": 3.1093350116861984e-10
+  },
+  {
+   "ventana": "2015-2017",
+   "papers": 1186,
+   "active": 845,
+   "validated": 3081,
+   "bicm_err": 3.475406629149802e-10
+  },
+  {
+   "ventana": "2016-2018",
+   "papers": 1114,
+   "active": 806,
+   "validated": 2299,
+   "bicm_err": 2.106617102981545e-10
+  },
+  {
+   "ventana": "2017-2019",
+   "papers": 1108,
+   "active": 833,
+   "validated": 2490,
+   "bicm_err": 3.567492967704311e-10
+  },
+  {
+   "ventana": "2018-2020",
+   "papers": 1150,
+   "active": 870,
+   "validated": 2502,
+   "bicm_err": 3.047944119316526e-10
+  },
+  {
+   "ventana": "2019-2021",
+   "papers": 1254,
+   "active": 995,
+   "validated": 3741,
+   "bicm_err": 2.4931523512350395e-10
+  },
+  {
+   "ventana": "2020-2022",
+   "papers": 1307,
+   "active": 1049,
+   "validated": 4187,
+   "bicm_err": 5.234142008703202e-10
+  },
+  {
+   "ventana": "2021-2023",
+   "papers": 1384,
+   "active": 1145,
+   "validated": 4703,
+   "bicm_err": 3.7755398807348683e-10
+  },
+  {
+   "ventana": "2022-2024",
+   "papers": 1364,
+   "active": 1105,
+   "validated": 4931,
+   "bicm_err": 3.48791218129918e-10
+  },
+  {
+   "ventana": "2023-2025",
+   "papers": 1513,
+   "active": 1165,
+   "validated": 5466,
+   "bicm_err": 3.980176188633777e-10
+  },
+  {
+   "ventana": "2024-2026",
+   "papers": 1534,
+   "active": 1068,
+   "validated": 3824,
+   "bicm_err": 5.642277756123804e-10
+  }
+ ],
+ "full": {
+  "active": 5265,
+  "validated": 96459,
+  "bicm_err": 4.489493221626617e-10,
+  "secs": 3
+ }
+}

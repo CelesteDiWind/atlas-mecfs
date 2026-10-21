@@ -1,0 +1,256 @@
+{
+ "cluster": 3,
+ "resumen": "This topic covers traditional Chinese medicine (acupuncture, moxibustion, tuina, qigong and herbal formulas), other complementary treatments and animal models of induced \"chronic fatigue syndrome\". Of 495 papers, 247 are labelled central to ME/CFS and 104 are animal models. Small trials of low methodological quality dominate, often without stated diagnostic criteria, along with rodents exposed to forced swimming or multiple stressors. Systematic reviews favour these therapies, but with low certainty.",
+ "sintesis": [
+  "The topic holds 495 papers, 317 of them with an abstract. The most frequent keyword is \"chronic fatigue syndrome\" (402), followed by acupuncture (84), traditional Chinese medicine (78), oxidative stress (59) and moxibustion (37). Journals include Chinese traditional medicine titles such as Liaoning zhongyi zazhi (10) and Shanghai zhenjiu zazhi (9), alongside Evidence-based Complementary and Alternative Medicine (10) and Journal of Ethnopharmacology (7). The sample of 80 papers mixes clinical trials of acupuncture, moxibustion, tuina, qigong and herbal formulas [#922, #2705, #3080, #1606, #1303], systematic reviews [#2865, #3672, #4646] and rodent studies [#423, #1814, #5341]. Some papers come from Korean and Chinese journals [#464, #925, #2214].",
+  "Clinical trials in the sample tend to be small or medium-sized and measure fatigue with rating scales. Controls are often another active treatment, such as Shengmai injection [#478, #922], vitamins, ATP and oryzanol [#902, #1303], or a waiting list [#925, #1091]. Chinese abstracts often report overall \"effective rates\": 88.89% in a series without a control group [#459] and 96.2% against 83.3% in a trial with a drug comparator [#922]. More recent trials use scales such as the Fatigue Severity Scale [#2214, #4829] and the 1994 CDC criteria [#6708]. A 2010 review notes the lack of large-sample studies and of a recognised efficacy standard [#52].",
+  "Animal models make up 104 of the 495 papers in the topic (21%). The dominant design induces fatigue with daily forced swimming [#695, #2311, #6306, #7156, #6859], cold-water swimming [#916], exhaustive swimming with sleep deprivation [#1643] or combined multiple stressors [#4290, #5768, #5341, #6845]. Only two studies in the sample use immune stimuli: Brucella abortus antigen [#423] and poly-I:C [#1814]. Typical outcomes are immobility, locomotor activity, oxidative stress, the hypothalamic-pituitary-adrenal axis and hippocampal cytokines [#916, #1643, #5768]. These studies test plant extracts, polysaccharides or electroacupuncture. The abstracts reviewed describe no measure of post-exertional malaise.",
+  "\"Chronic fatigue syndrome\" is used here in a broader sense than the ME/CFS of the international criteria. Several trials combine the syndrome with idiopathic chronic fatigue [#925, #2214], refer to \"CFS-like illness\" [#1267, #1606, #2813] or include people with fibromyalgia [#4713, #5322]. A recent review of herbal medicine after COVID-19 reports that diagnoses relied mostly on the 1994 CDC criteria [#6080]. Two trials cite that definition explicitly [#2423, #6708]. Animal models label stress-induced fatigue as \"CFS\" without clinical criteria [#695, #4290]. Outside Chinese medicine, the sample includes polyphenol-rich chocolate [#365], red ginseng [#4713, #4781], Ayurveda [#6234, #6609] and Persian medicine [#2946].",
+  "The topic published 37 papers in 2010 and 38 in 2012, fell to 16 in 2019 and rose to 33 in both 2024 and 2025. In 2026, with the year incomplete until October, it reaches 45. By relevance label, 247 of 495 papers (50%) deal centrally with ME/CFS. The rest are 104 animal models, 89 peripheral, 37 secondary, 13 on another concept and 5 uncertain. The topic talks most with \"Fatigue, sleep, stress and general reviews\" (O/E 1.41) and least with \"XMRV retrovirus\" (O/E 0.51). It cites other topics more than they cite it (balance −1.9 against −0.7 expected). Its coupling with long COVID rises from 0.153 to 0.531 between 2012-2014 and 2024-2026."
+ ],
+ "lineas": [
+  {
+   "titulo": "Acupuncture and moxibustion trials",
+   "texto": "Trials compare acupuncture or moxibustion with a waiting list, drugs or usual care. A Korean trial of 150 participants found lower FSS scores with body acupuncture than with usual care at 5 weeks [#2214]. Another, with 290 participants, found a larger fatigue improvement when ginger moxibustion was added to acupuncture [#4829]. In a pilot trial of 45 participants, moxibustion reduced fatigue more than acupuncture [#2705].",
+   "papers": [
+    2214,
+    4829,
+    2705,
+    922,
+    478,
+    925,
+    1422
+   ]
+  },
+  {
+   "titulo": "TCM reviews and meta-analyses",
+   "texto": "Syntheses pool dozens of trials, almost all Chinese. One review included 31 trials of acupuncture and moxibustion [#2865]. Another found a higher response rate with acupuncture than with sham acupuncture (RR 2.08), with low certainty [#3672]. A moxibustion meta-analysis of 15 studies rated the evidence from moderate to very low [#4646]. A massage review pooled 32 trials and 2594 patients [#5831], and a 2026 network meta-analysis included 29 studies [#6824].",
+   "papers": [
+    2865,
+    3672,
+    4646,
+    5831,
+    6824,
+    6323,
+    2925
+   ]
+  },
+  {
+   "titulo": "Qigong, tuina and bodywork",
+   "texto": "Three qigong trials with 64, 137 and 150 participants, each against a waiting list, improved fatigue [#1091, #1267, #1606]. Qigong also raised adiponectin in 108 women with CFS-like illness [#2813]. Abdominal tuina beat acupuncture on the FS-14 fatigue scale and on depression in a trial of 80 participants [#3080]. A 2025 protocol compares qigong tuina with cognitive behavioural therapy [#6194].",
+   "papers": [
+    1091,
+    1267,
+    1606,
+    2813,
+    3080,
+    6194,
+    6708,
+    783
+   ]
+  },
+  {
+   "titulo": "Herbal formulas and supplements",
+   "texto": "Many Chinese trials test oral formulas or acupoint applications against vitamins, ATP or placebo ointment [#457, #902, #1303]. A double-blind trial of 190 adults with cistanche and ginkgo lowered physical and mental fatigue scores [#4664]. A review of ginseng in CFS found only two studies with 68 patients [#4781]. A crossover trial of guanidinoacetic acid in 21 women did not change the primary fatigue outcome [#2423].",
+   "papers": [
+    457,
+    902,
+    1303,
+    4664,
+    4781,
+    2423,
+    4713,
+    365
+   ]
+  },
+  {
+   "titulo": "Animal models of induced fatigue",
+   "texto": "Rodents exposed to forced swimming or multiple stressors receive plant extracts, formulas or electroacupuncture. An edible fungus improved exercise tolerance and antioxidant markers in mice [#3116]. Astragalus polysaccharide altered the gut microbiota and short-chain fatty acids [#5341]. Electroacupuncture improved spatial memory and lowered hippocampal NF-κB in rats [#4290, #5768]. Other models use bacterial antigen or poly-I:C [#423, #1814].",
+   "papers": [
+    3116,
+    5341,
+    4290,
+    5768,
+    423,
+    1814,
+    916,
+    1643
+   ]
+  },
+  {
+   "titulo": "Other traditions and lifestyle",
+   "texto": "Reviews and case reports describe Ayurveda, Unani medicine, Persian medicine and naturopathy as options for chronic fatigue [#5402, #6433, #2946, #5895]. One case report of Ayurveda, diet and yoga presents a therapeutic success in a single patient [#6234]. In primary care, a trial of nutrition, chronobiology and exercise includes fibromyalgia and CFS [#5322, #6073]. A 2026 mini-review proposes lifestyle medicine for fibromyalgia and ME/CFS [#7135].",
+   "papers": [
+    5402,
+    6433,
+    2946,
+    5895,
+    6234,
+    5322,
+    6073,
+    7135
+   ]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "Reviews agree that no specific treatment exists for the syndrome and that Chinese medicine is proposed as a complementary therapy [#52, #3881, #4781].",
+   "papers": [
+    52,
+    3881,
+    4781,
+    5030,
+    6613
+   ]
+  },
+  {
+   "texto": "Meta-analyses of acupuncture, moxibustion and massage point to lower fatigue than controls [#3672, #4646, #5831, #6824].",
+   "papers": [
+    3672,
+    4646,
+    5831,
+    6824,
+    2925
+   ]
+  },
+  {
+   "texto": "Reported adverse effects are few and mild: two cases of mild subcutaneous bleeding in acupuncture trials [#2925] and mild symptoms in two moxibustion studies [#4646]. A trial of 290 participants reported no severe events [#4829].",
+   "papers": [
+    2925,
+    4646,
+    4829
+   ]
+  },
+  {
+   "texto": "The authors themselves admit limited methodological quality: low in most acupuncture studies [#3672], with methodological weaknesses [#6323] and moderate to very low evidence for moxibustion [#4646].",
+   "papers": [
+    3672,
+    6323,
+    4646,
+    4781
+   ]
+  },
+  {
+   "texto": "In animal models, studies of plant extracts measure oxidative stress (malondialdehyde, superoxide dismutase) as the target mechanism [#695, #2311, #3116, #6306].",
+   "papers": [
+    695,
+    2311,
+    3116,
+    6306,
+    7156
+   ]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "The efficacy of acupuncture remains disputed. A 2025 meta-analysis calls it a matter of intense debate because of contradictory findings [#6323]. Another review found a benefit over sham acupuncture, but with low certainty [#3672]. A third found relief of fatigue and pain against sham, with no conclusions on quality of life or mood [#2925].",
+   "papers": [
+    6323,
+    3672,
+    2925,
+    2865,
+    3881
+   ]
+  },
+  {
+   "texto": "There is no agreement on which modality works best. Moxibustion beat acupuncture in a small trial [#2705] and in a meta-analysis (OR 4.58) with evidence of variable quality [#4646]. In the network meta-analysis, moxibustion stood out for overall fatigue, massage for physical and mental fatigue, and cupping for sleep [#6824]. A 2026 protocol starts from the premise that conventional moxibustion has limited efficacy [#6985].",
+   "papers": [
+    2705,
+    4646,
+    6824,
+    6985,
+    2214
+   ]
+  },
+  {
+   "texto": "Qigong gives uneven results across outcomes. It reduces fatigue and depression, but one trial found no improvement in anxiety [#1267]. In another, the global sleep score fell short of significance (P = 0.064), while subjective quality and latency improved [#1606]. A review of complementary trials found a positive effect for qigong and none for distant healing [#783].",
+   "papers": [
+    1267,
+    1606,
+    1091,
+    783,
+    2813
+   ]
+  },
+  {
+   "texto": "Supplements give mixed signals. Polyphenol-rich chocolate improved fatigue in 10 people [#365]. Guanidinoacetic acid did not change general fatigue, although it raised muscle creatine and strength [#2423]. Red ginseng improved self-rated status in an open-label study [#4713], and a review could not draw firm conclusions [#4781].",
+   "papers": [
+    365,
+    2423,
+    4713,
+    4781,
+    4664
+   ]
+  },
+  {
+   "texto": "Animal models are not validated against ME/CFS. The authors admit that no applicable model existed [#423], and designs vary between bacterial antigen [#423], poly-I:C [#1814] and repeated stress [#4290]. One paper describes ME and post-exertional malaise, yet induces fatigue with forced swimming [#6306].",
+   "papers": [
+    423,
+    1814,
+    4290,
+    6306,
+    695
+   ]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Trials with sham control and double blinding are missing. Many use a waiting list [#925, #1091], unblinded usual care [#2214] or an active comparator unrelated to the intervention [#478, #922]. The trial with placebo ointment is an exception [#457]. Protocols from 2020 and 2021 plan double-blind placebo designs [#3880, #4664].",
+   "papers": [
+    925,
+    1091,
+    2214,
+    478,
+    922,
+    457,
+    3880
+   ]
+  },
+  {
+   "texto": "Diagnostic criteria are rarely detailed, and the abstracts do not describe requiring post-exertional malaise. They mention the 1994 CDC criteria [#2423, #6708], \"CFS-like illness\" [#1267] and idiopathic chronic fatigue [#2214]. No data exist on ME/CFS subgroups defined by international criteria.",
+   "papers": [
+    2423,
+    6708,
+    1267,
+    2214,
+    6080,
+    4713
+   ]
+  },
+  {
+   "texto": "Samples are small, follow-up is short and replication outside Asia is lacking. Some studies enrolled 10 and 21 participants [#365, #2423] or 45 participants [#2705]. Follow-up reaches 3 months [#1606, #3080] or 12 weeks [#4829]. Reviews of herbal medicine after COVID-19 include only Asian studies [#6080].",
+   "papers": [
+    365,
+    2423,
+    2705,
+    1606,
+    3080,
+    4829,
+    6080
+   ]
+  },
+  {
+   "texto": "Animal models lack validation against the clinical features of ME/CFS. Forced swimming studies measure immobility and antioxidants [#695, #2311, #6306, #7156, #6859], and microbiota or autophagy mechanisms are not checked in patients [#5341, #6845].",
+   "papers": [
+    695,
+    2311,
+    6306,
+    7156,
+    6859,
+    5341
+   ]
+  },
+  {
+   "texto": "Many protocols still lack results, and formulas are not standardised [#3880, #6194, #6985, #5322]. A review of medicinal cake moxibustion calls for standardised recipes [#6691]. Two duplicate Zenodo records summarise tai chi and qigong trials with the help of an AI tool [#6711, #6730].",
+   "papers": [
+    3880,
+    6194,
+    6985,
+    5322,
+    6691,
+    6711,
+    6730
+   ]
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "cluster": 6,
+ "resumen": "This topic gathers 1353 papers on the biomedical core of ME/CFS: immunity (NK cells, cytokines, autoantibodies), metabolism and mitochondria, gut microbiota, biomarkers and omics. Most of them (934) focus on the disease, and output rises from 38 papers in 2010 to 147 in 2025. The sample consists mainly of small case-control studies and reviews. The most repeated findings are reduced NK cytotoxicity and metabolic alterations. No diagnostic biomarker is validated, and autoantibodies, cytokines and microbiota give uneven results.",
+ "sintesis": [
+  "Cellular immunity dominates the sample. In 95 patients and 50 controls, Brenu and colleagues found reduced cytotoxicity in NK cells and CD8 T cells, along with higher IL-10, IFN-γ and TNF-α [#639]. A systematic review of 17 observational studies confirms that impaired NK cytotoxicity is a consistent feature, while phenotype and receptors remain equivocal [#3794]. Other studies report changes in B-cell subsets, regulatory T cells and neutrophils [#1590], severity-related changes in NK and T-cell receptors [#2162], and fewer terminal NK cells with a less mature T-cell profile [#6614]. A single-cell study of four patients and four controls points the same way [#5985].",
+  "Cytokines and autoantibodies give a harder picture. Montoya and colleagues found 17 cytokines that rise linearly with severity, 13 of them proinflammatory [#2989]. Hornig and colleagues observed that early cases show activation of both pro- and anti-inflammatory cytokines, and that the changes track illness duration more closely than severity [#2048]. Systematic reviews conclude that the evidence does not support using cytokines as independent diagnostic indices [#3679] and that the baseline difference from healthy people remains unclear [#3729]. On autoimmunity, a cohort of 268 patients showed raised antibodies against β2, M3 and M4 receptors [#2265], but a later analysis of 172 participants found no differences [#6237].",
+  "The metabolic line describes a hypometabolic state. Naviaux and colleagues analysed 612 metabolites in 45 patients and 39 controls and found abnormalities in 20 pathways, with 80% of the diagnostic metabolites decreased [#2623]. In peripheral blood mononuclear cells from six patients, mitochondrial coupling efficiency was lower and proteomic changes centred on pyruvate dehydrogenase [#4496]. Another multimodal study found a reduced ATP/ADP ratio in immune cells [#6614]. After exercise, a multi-omic analysis described changes in the citric acid cycle and in beta-oxidation [#6464]. A review notes that oxidative stress is almost invariable in these disorders, whereas mitochondrial dysfunction is less consistent in CFS [#2104].",
+  "On microbiota, Giloteaux and colleagues found lower diversity and more markers of microbial translocation (LPS, LBP, sCD14) in 48 cases than in 39 controls [#2551]. A review of 11 studies, covering 553 patients and 480 controls, confirms lower alpha diversity, although the lack of standardised methods limits comparison [#5743]. Among the omics studies, RNA sequencing in 10 New Zealand patients flagged IL8 and NFKBIA, confirmed by qPCR [#3466], and 11 circulating microRNAs separated ME/CFS from fibromyalgia in a machine-learning model [#5222]. A 2023 systematic review concludes that no diagnostic biomarker is validated [#5352].",
+  "The topic holds 1353 papers, 889 of them with an abstract. It grows from 38 in 2010 to 147 in 2025, and 2026 already has 112 by October. By relevance, 934 are central to ME/CFS, 107 secondary, 295 peripheral, 9 uncertain, 3 animal-model and 5 about another concept. The topic talks to the XMRV retrovirus topic (O/E 2.0) and to persistent COVID (1.37) more than chance predicts. It talks less to cognitive behavioural therapy and PACE (0.49) and to pain and fibromyalgia (0.66). The ratio of direct citations to persistent COVID falls from 2.076 (2010-2012) to 0.762 (2024-2026), while recent reviews place ME/CFS among the post-infectious syndromes [#7077, #6917]."
+ ],
+ "lineas": [
+  {
+   "titulo": "NK cells and T lymphocytes",
+   "texto": "Reduced NK cytotoxicity is the most repeated finding. A systematic review of 17 observational studies calls it a consistent feature, while phenotype and receptors remain equivocal [#3794]. Brenu and colleagues report it in 95 patients against 50 controls [#639]. Other studies add changes in B cells, regulatory T cells and neutrophils [#1590], and in NK and T-cell receptors by severity [#2162]. A single-cell study of four patients and four controls shows lower perforin and CD107a expression after stimulation [#5985].",
+   "papers": [3794, 639, 1590, 2162, 5985, 6614, 6633, 1621]
+  },
+  {
+   "titulo": "Cytokines and systemic inflammation",
+   "texto": "Montoya and colleagues link 17 cytokines to severity [#2989], and Hornig and colleagues describe a profile that shifts with illness duration [#2048]. IP-10 is the focus of another study of 92 patients [#2880]. After exercise, a multi-omic analysis reports an exaggerated innate response to microbial antigens [#6464]. In a randomised trial, Bifidobacterium infantis lowered CRP, TNF-α and IL-6 in 48 patients with CFS [#1467].",
+   "papers": [2989, 2048, 2880, 3679, 3729, 1467, 6464, 5794]
+  },
+  {
+   "titulo": "Autoantibodies and autoimmunity",
+   "texto": "Löbel and colleagues found raised antibodies against β2, M3 and M4 receptors in a cohort of 268 patients, and levels fell after prolonged B-cell depletion with rituximab [#2265]. A review summarises Norwegian trials with clinical benefit in about half of patients [#3249]. Another study of 188 people proposes anti-β2 and anti-M4 antibodies as markers of progression [#5621]. In Sweden, cerebrospinal fluid defined distinct immunotypes [#6312]. An analysis of 172 participants did not confirm the differences [#6237].",
+   "papers": [2265, 3249, 5621, 6237, 6312]
+  },
+  {
+   "titulo": "Metabolism, mitochondria and redox stress",
+   "texto": "Naviaux and colleagues described 20 altered pathways, mostly with decreased metabolites [#2623]. Patients' immune cells show lower mitochondrial coupling [#4496] and a lower ATP/ADP ratio [#6614]. A review links redox imbalance to hypometabolism in ME/CFS and long COVID [#4557]. In UK Biobank, a model with nine NMR biomarkers reached an AUC of 0.83 [#6031].",
+   "papers": [2623, 4496, 6614, 4557, 6031, 6464, 2104, 3256]
+  },
+  {
+   "titulo": "Gut microbiota",
+   "texto": "16S and metagenomic studies describe lower diversity and more microbial translocation [#2551]. Subgroups defined by irritable bowel syndrome separate the bacterial profiles [#2892]. Two systematic reviews synthesise seven studies [#3441] and eleven studies [#5743]. Recent reviews raise the idea of treating the gut [#4629, #6665].",
+   "papers": [2551, 2892, 3441, 5743, 4629, 6665, 1467]
+  },
+  {
+   "titulo": "Biomarkers, omics and genetics",
+   "texto": "A 2023 systematic review concludes that no diagnostic biomarker is validated [#5352]. Among the candidates, 11 circulating microRNAs distinguish ME/CFS from fibromyalgia [#5222], and the transcriptome of mononuclear cells points to IL8 and NFKBIA in 10 patients [#3466]. In genetics, a pilot analysis of 383 participants [#3649] and a combinatorial study in UK Biobank with 199 SNPs in 14 genes [#5138] precede DecodeME, which is recruiting up to 25,000 people [#4957].",
+   "papers": [5352, 5222, 3466, 3649, 5138, 4957, 6909, 5951]
+  }
+ ],
+ "consensos": [
+  {
+   "texto": "No diagnostic biomarker is validated. Reviews agree that diagnosis remains clinical and based on exclusion [#5352, #3722, #4623].",
+   "papers": [5352, 3722, 4623, 3708, 1759, 6799]
+  },
+  {
+   "texto": "Reduced NK-cell cytotoxicity appears consistently in case-control studies [#3794, #639, #6633].",
+   "papers": [3794, 639, 6633, 5985, 6614]
+  },
+  {
+   "texto": "Reviews describe a metabolic disturbance with hypometabolic features [#2623, #4557] and near-invariable oxidative stress [#2104], summarised as a failure of energy homeostasis [#3708].",
+   "papers": [2623, 4557, 2104, 6614, 6464, 3708]
+  },
+  {
+   "texto": "Patient heterogeneity calls for stratification by subgroup, duration or severity [#3708, #2892, #6312, #2048].",
+   "papers": [3708, 2892, 6312, 2048, 5253]
+  },
+  {
+   "texto": "ME/CFS and long COVID share immune and redox alterations [#4557, #6633, #5384].",
+   "papers": [4557, 6633, 5384, 7077, 4817]
+  }
+ ],
+ "debates": [
+  {
+   "texto": "Autoantibodies against adrenergic and muscarinic receptors are raised in a cohort of 268 patients [#2265] and have been proposed as markers of progression [#5621]. An analysis of 172 participants on two high-throughput platforms found no differences, even for G protein-coupled receptors [#6237]. The review on autoimmunity calls for more work on their role [#3249].",
+   "papers": [2265, 5621, 6237, 3249]
+  },
+  {
+   "texto": "The value of cytokines as markers is still disputed. One study links 17 cytokines to severity [#2989], but reviews find no evidence for independent diagnostic use [#3679] and regard the baseline difference from controls as unresolved [#3729]. Profiles also change with illness duration [#2048], which complicates comparison.",
+   "papers": [2989, 3679, 3729, 2048, 2880]
+  },
+  {
+   "texto": "Authors disagree on the role of viral persistence. A review on enteroviruses concludes that earlier methods cannot rule out chronic infection [#4481], and one on herpesviruses blames negative results on inconsistent data [#4321]. A study of 200 patients found active infection in 45% [#5197], yet the EUROMENE review stresses the lack of large studies with well-designed groups [#3385].",
+   "papers": [4481, 4321, 5197, 3385, 6644, 6896]
+  },
+  {
+   "texto": "Microbiota results depend on methods and comorbidities. A review of 11 studies points to the lack of standardised analytical methods [#5743]. A metagenomic study shows that co-occurring irritable bowel syndrome separates bacterial profiles [#2892], so comorbidity may shape the results [#2551].",
+   "papers": [5743, 2892, 2551, 3441, 4629]
+  },
+  {
+   "texto": "Researchers debate whether ME/CFS is a distinct entity or one of several overlapping conditions. Eleven microRNAs discriminate ME/CFS from fibromyalgia [#5222]. Other reviews group these conditions as low-energy disorders [#6487] or as post-infectious syndromes [#7077]. One review suggests that some patients may have an unrecognised chronic inflammatory response syndrome [#6406].",
+   "papers": [5222, 6487, 7077, 6406, 6375]
+  }
+ ],
+ "lagunas": [
+  {
+   "texto": "Many mechanistic findings come from very small samples: six patients in bioenergetics [#4496], four and four in single-cell work [#5985], 10 and 10 in transcriptomics [#3466], and nine patients in neuroinflammation PET [#1738]. A single case with longitudinal follow-up adds detail but cannot be generalised [#5794].",
+   "papers": [4496, 5985, 3466, 1738, 5794]
+  },
+  {
+   "texto": "The studies in the systematic reviews are observational case-control designs [#3794, #3729], and candidate biomarkers remain unvalidated [#5352]. Independent replication with standardised methods is missing, especially for microbiota [#5743] and autoantibodies [#6237].",
+   "papers": [3794, 3729, 5352, 5743, 6237]
+  },
+  {
+   "texto": "Longitudinal studies from illness onset are lacking. The cytokine profile changes with duration [#2048], and a staging model proposes a shift from a hypermetabolic to a hypometabolic state [#4118] that still needs testing in cohorts followed over time. Before-and-after exercise designs remain scarce [#6464].",
+   "papers": [2048, 4118, 6464, 5794, 1759]
+  },
+  {
+   "texto": "Biomarkers need validation in prospective cohorts and by subgroup. An inflammatory, immune and receptor panel awaits validation in prospective studies [#5621], and a trial network with harmonised criteria and biomarker phenotyping has been proposed [#5384].",
+   "papers": [5621, 5384, 6909, 6312, 5352]
+  },
+  {
+   "texto": "Genetics still lacks replication: the analysis of 383 participants is a pilot [#3649], the UK Biobank study uses a combinatorial method with its own replication cohorts [#5138], and DecodeME appears here only through its recruitment protocol [#4957].",
+   "papers": [3649, 5138, 4957, 6909, 7077]
+  }
+ ]
+}

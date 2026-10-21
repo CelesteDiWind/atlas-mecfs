@@ -1,0 +1,67 @@
+{
+ "cluster": 2,
+ "resumen": "A large and varied set of 171 papers on the immune, infectious and post-viral side of ME/CFS and its parallels with long COVID, mixing small case-control studies, reviews and hypotheses. There are many signs of immune disruption, viral reactivation and autoimmunity, but no validated biomarker and no single proven infectious cause [#93, #236, #150].",
+ "sintesis": [
+  "The literature here is very mixed: a few prospective cohort studies, many modest case-control studies, narrative and systematic reviews, and a good number of hypothesis papers. The common thread is the idea that ME/CFS is a post-infectious disease with lasting immune changes, and since 2021 a growing share of papers compare it with long COVID. General reviews stress the lack of validated biomarkers and the heterogeneity of patients [#3, #150, #474].",
+  "In cellular and humoral immunology, original studies describe changes in NK cells, B- and T-cell subsets, cytokines and inflammatory markers. Reduced NK cytotoxicity is the most consistently reported finding. A systematic review proposes it as a reliable cellular model [#33], and a study of 176 patients tested it as a biomarker [#94], but a later multicentre study concluded that the assay is not ready for clinical use [#358]. Meta-analyses of cytokines and inflammatory proteins give only partial, inconsistent support for an inflammatory component [#30, #300], and a plasma signature that changes with disease duration suggests that the immune picture is not static [#215].",
+  "Infection is the largest strand. Prospective cohorts followed after infectious mononucleosis, including 4501 university students and adolescents from the CEBA cohort, identify prior predictors such as more physical symptoms and immune irregularities, and a profile of T-cell activation and low-grade inflammation [#144, #323, #575]. The herpesvirus data conflict. Serology shows no excess infection in ME/CFS [#67], whereas other studies link HHV-6, HHV-7 and parvovirus B19 load to severity [#95, #530] and find active viral transcripts in a small set of post-mortem biopsies [#533]. A meta-analysis identifies candidate viruses but no single cause [#236], and the enteroviral theory rests mainly on historical outbreaks and case reports [#47, #456].",
+  "Autoimmunity is another established line. Autoantibodies against adrenergic and muscarinic receptors have been replicated in German and Swedish cohorts [#68, #83], and open-label pilot trials of immunoadsorption in 5 and 10 patients report improvement [#287, #225]. The results are promising, but there was no control group. Other leads have not held up: anti-neuronal antibodies are no more common in ME/CFS [#499], and activin B failed to replicate as a biomarker [#44, #416]. The work on TRPM3 and TRPM7 channels in NK cells, including the effect of naltrexone in vitro, comes from samples of 9 to 17 patients [#294, #357, #485].",
+  "Two further groups of studies widen the infectious picture. Population cohorts from Taiwan link tuberculosis, peptic ulcer, burns and psoriasis to a higher later risk of CFS [#271, #272, #297, #298]; these are administrative data that show association, not mechanism. Studies of long COVID describe fatigued cohorts in which a substantial proportion meet ME/CFS criteria [#330, #331], brain-directed autoimmunity [#102], CD8 T-cell dysfunction [#281] and reactivation of latent viruses [#401, #496].",
+  "Much of this topic is speculative. There are many models of neuroinflammation and neuroglial dysfunction [#19, #105, #522], and hypotheses about EBV [#233, #234], persistent antigens [#564], disturbed homeostasis [#551], or methylation and MTHFR [#322, #334]. Some lie well outside the mainstream, such as the radiation and quantum-mechanics models [#7, #8], and offer no data of their own. Reviews of long COVID and ME/CFS argue that the two lie on a continuum, although one warns that the evidence is not yet enough to establish COVID-19 as a trigger of ME/CFS [#448, #472].",
+  "Several articles fit poorly or are not strictly about ME/CFS: a case of Parkinson's disease after COVID-19 [#349], hepatitis B vaccination and autoimmunity [#85], a rat model of fatigue [#270], Korean fatigue scales [#173], fatigue in Sjögren's syndrome and vasculitis [#134, #247, #248], migraine [#308], cryotherapy [#543], and a record with no content [#572]. Over time, the focus has moved from classic immune biomarkers and herpesviruses (2000-2019) to comparisons with long COVID, autoantibodies and patient subgroups (2021-2024)."
+ ],
+ "lineas": [
+  {
+   "titulo": "NK cells, lymphocytes and immune profiles",
+   "texto": "Case-control studies describe changes in NK cells, B- and T-cell subsets and immune phenotypes that might aid diagnosis. NK cytotoxicity is the most often repeated finding, but its clinical use has not been confirmed."
+  },
+  {
+   "titulo": "Cytokines and systemic inflammation",
+   "texto": "Meta-analyses and systematic reviews find partial, inconsistent inflammatory changes, while individual studies point to IL-12p40, CSF-1, leptin or duration-dependent signatures. Open questions are whether the inflammation is low-grade and whether it varies with severity."
+  },
+  {
+   "titulo": "Herpesviruses, EBV and other persistent viruses",
+   "texto": "Serology, viral load in saliva and tissue, and analyses of anti-EBV IgG look for reactivation in subgroups with an infectious onset. The results conflict and often come from small samples or reanalyses of biobank data."
+  },
+  {
+   "titulo": "Post-infectious onset and risk factors",
+   "texto": "Prospective cohorts after mononucleosis and population cohorts from Taiwan look at what precedes ME/CFS. They identify physical and immune predictors and associations with other diseases, but no proven mechanism."
+  },
+  {
+   "titulo": "Autoimmunity and depletion therapies",
+   "texto": "Studies describe autoantibodies against adrenergic, muscarinic and vasoregulatory GPCRs, and pilot trials of immunoadsorption or rituximab. The treatment evidence is preliminary and lacks proper controls."
+  },
+  {
+   "titulo": "TRP channelopathy and naltrexone",
+   "texto": "One research group reports loss of TRPM3 function and TRPM7 changes in NK cells, and their restoration with naltrexone in vitro. These are experimental studies with very few patients and need independent replication."
+  },
+  {
+   "titulo": "Parallels with long COVID",
+   "texto": "Cohort studies and reviews compare long COVID with post-infectious ME/CFS, focusing on redox balance, autoimmunity, viral reactivation and trial platforms. They suggest a clinical continuum while remaining cautious about causality."
+  },
+  {
+   "titulo": "Neuroinflammatory and other hypothesis-driven models",
+   "texto": "Many theoretical proposals attribute ME/CFS to neuroinflammation, neuroglial dysfunction, persistent antigens or altered methylation. They are useful for generating questions but are not backed by data of their own."
+  }
+ ],
+ "consensos": [
+  "There is still no validated diagnostic biomarker for ME/CFS; reviews agree that immune candidates need validating in large, multicentre cohorts.",
+  "ME/CFS is heterogeneous, and patients need to be stratified by trigger, duration or severity before immune findings can be interpreted.",
+  "Immune disruption is present in ME/CFS, with reduced NK cytotoxicity the most often repeated finding, although it is unknown whether this is a cause or a consequence.",
+  "Long COVID and post-infectious ME/CFS overlap clinically, and a substantial proportion of long COVID patients meet ME/CFS criteria.",
+  "Given how much of the evidence comes from small cross-sectional designs, longitudinal studies with larger samples and consistent case definitions are needed."
+ ],
+ "debates": [
+  "The role of herpesviruses: serology shows no excess infection in ME/CFS, whereas studies of viral load, saliva and tissue point to reactivation linked to severity.",
+  "Whether the NK cytotoxicity assay can serve as a biomarker: reviews and early studies support it, but the multicentre MCAM study concludes that it is not ready for clinical use.",
+  "Whether the disease is inflammatory or autoimmune: cytokine meta-analyses are inconsistent and anti-neuronal antibodies are not raised, but there is evidence for adrenergic autoantibodies and for a response to immunoadsorption.",
+  "Whether COVID-19 can be considered a trigger of ME/CFS: some authors equate long COVID with ME/CFS, while another paper warns that the evidence is still insufficient.",
+  "Whether a psychosomatic cause should be reconsidered: a German review argues for it, while cohort studies find physical and immune predictors and no excess of psychological symptoms."
+ ],
+ "lagunas": [
+  "The findings on TRPM3, TRPM7, activin B and immune signatures come from small samples or a single group and have not been independently replicated.",
+  "Studies of immunoadsorption, rituximab, minocycline and apheresis are open-label trials, pilots or case reports, without enough controlled data to judge efficacy.",
+  "Few longitudinal studies follow immune changes from onset, whether after an earlier infection or in long COVID, or compare them with other post-infectious illnesses.",
+  "Tissue and mechanistic studies are lacking; the evidence for tissue infection or neuroinflammation comes from small post-mortem series or theoretical models."
+ ]
+}
