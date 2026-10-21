@@ -1,0 +1,19 @@
+Atlas EM/SFC · ME/CFS literature atlas
+Copyright (c) 2026 Celeste Giraldo Lozano
+
+Salvo que se indique lo contrario, el contenido de este repositorio (textos, análisis, síntesis, figuras y el código
+de la página) se distribuye bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+Unless otherwise noted, the content of this repository (texts, analyses, syntheses, figures and the page code) is
+licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Texto legal / Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Resumen / Summary:       https://creativecommons.org/licenses/by/4.0/
+
+Excepciones / Exceptions:
+- Metadatos bibliográficos de OpenAlex (títulos, autores, revistas, citas): dominio público (CC0 1.0).
+  Bibliographic metadata from OpenAlex (titles, authors, journals, citations): public domain (CC0 1.0).
+- Resúmenes (abstracts) de los artículos: pertenecen a sus autores o editoriales; se muestran solo como referencia.
+  Article abstracts belong to their authors or publishers and are shown for reference only.
+- Three.js (cargado desde un CDN): licencia MIT, © sus autores.
+  Three.js (loaded from a CDN): MIT License, © its authors.
