@@ -116,6 +116,13 @@ h1 span { color: var(--accent); }
 #legend.filtering button[aria-pressed="false"] { opacity: .45; }
 #legend .dot { width: 11px; height: 11px; border-radius: 50%; box-shadow: 0 0 0 2px var(--surface); }
 #legend .n { font-family: var(--f-data); font-size: .74rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+#subWrap { margin: 8px 0 0 14px; padding-left: 8px; border-left: 2px solid var(--line, rgba(127,127,127,.3)); }
+#subLegend { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 1px; }
+#subLegend button { width: 100%; display: grid; grid-template-columns: 10px 1fr auto; align-items: center; gap: 8px; border: 0; background: transparent; border-radius: 6px; padding: 4px 6px; text-align: left; cursor: pointer; font-size: .78rem; line-height: 1.25; color: inherit; }
+#subLegend button:hover, #subLegend button[aria-pressed="true"] { background: var(--surface-2); }
+#subLegend.filtering button[aria-pressed="false"] { opacity: .45; }
+#subLegend .dot { width: 9px; height: 9px; border-radius: 50%; }
+#subLegend .n { font-family: var(--f-data); font-size: .7rem; color: var(--muted); font-variant-numeric: tabular-nums; }
 #yearLegend { display: grid; gap: 4px; }
 #yearLegend .bar { height: 10px; border-radius: 3px; background: linear-gradient(90deg, var(--yr-lo), var(--yr-hi)); }
 #yearLegend .ends { display: flex; justify-content: space-between; font-family: var(--f-data); font-size: .74rem; color: var(--muted); }
@@ -487,6 +494,10 @@ a.an-ptitle:hover { text-decoration: underline; }
     <div class="collapsible legend-wrap">
       <p class="label-sm" id="legendTitle">Temas · clic para aislar</p>
       <ul id="legend"></ul>
+      <div id="subWrap" hidden>
+        <p class="label-sm" id="subTitle" data-i18n="subTitle">Subtemas · clic para aislar</p>
+        <ul id="subLegend"></ul>
+      </div>
       <div id="yearLegend" hidden>
         <div class="bar"></div>
         <div class="ends"><span id="yMin"></span><span id="yMax"></span></div>
@@ -712,7 +723,7 @@ function wantedCorpus() {
       options: "Opciones", showOptions: "Mostrar opciones", hideOptions: "Ocultar opciones",
       searchPh: "Buscar título, autor, palabra clave…", searchAria: "Buscar artículos",
       view: "Vista", colorBy: "Color por", topic: "Tema", year: "Año",
-      legendTopics: "Temas · clic para aislar", legendYear: "Año de publicación", noYear: "Gris: sin año identificado",
+      legendTopics: "Temas · clic para aislar", subTitle: "Subtemas · clic para aislar", legendYear: "Año de publicación", noYear: "Gris: sin año identificado",
       panelAria: "Detalle del artículo", grabAria: "Expandir o reducir la ficha", closeAria: "Cerrar ficha",
       hSimilar: "Más parecidos", hFile: "Archivo en la colección",
       meta: (n, y0, y1, oa) => `${n} artículos · ${y0}–${y1} · ${oa} en acceso abierto`,
@@ -784,7 +795,7 @@ function wantedCorpus() {
       options: "Options", showOptions: "Show options", hideOptions: "Hide options",
       searchPh: "Search title, author, keyword…", searchAria: "Search papers",
       view: "View", colorBy: "Color by", topic: "Topic", year: "Year",
-      legendTopics: "Topics · click to isolate", legendYear: "Publication year", noYear: "Grey: year not identified",
+      legendTopics: "Topics · click to isolate", subTitle: "Subtopics · click to isolate", legendYear: "Publication year", noYear: "Grey: year not identified",
       panelAria: "Paper details", grabAria: "Expand or shrink the panel", closeAria: "Close panel",
       hSimilar: "Most similar", hFile: "File in the collection",
       meta: (n, y0, y1, oa) => `${n} papers · ${y0}–${y1} · ${oa} open access`,
@@ -1114,13 +1125,13 @@ function wantedCorpus() {
   }
 
   // ---------- estado ----------
-  let mode = "topic", activeTopic = null, query = "", matches = null, selected = null, hovered = null;
+  let mode = "topic", activeTopic = null, activeSub = null, query = "", matches = null, selected = null, hovered = null;
   let network = "none", layout = "sem", sizeMode = "cit";
   let pair = null; // [tema, tema]: diálogo entre dos temas (enlace desde el análisis sistemático)
   let relMode = "all"; // relevancia para la EM/SFC (corpus OpenAlex): all | me (centrales y secundarios) | core
   const relOK = (p) => relMode === "all" || (relMode === "me" ? (p.r || 0) <= 1 : !p.r);
   const yearOn = () => yFrom > yMin || yTo < yMax;
-  const isActive = (i) => (activeTopic === null || P[i].c === activeTopic) && (!matches || matches.has(i))
+  const isActive = (i) => (activeTopic === null || P[i].c === activeTopic) && (activeSub === null || P[i].st === activeSub) && (!matches || matches.has(i))
     && (!yearOn() || (P[i].y >= yFrom && P[i].y <= yTo)) && (!pair || P[i].c === pair[0] || P[i].c === pair[1]) && relOK(P[i]);
 
   function updateNetPositions() {
@@ -1203,11 +1214,16 @@ function wantedCorpus() {
     return p.nn;
   }
 
+  const hasSubs = (c) => OA && C[c] && C[c].subs && C[c].subs.length > 1;
+  // nombre del subtema en el idioma elegido (data/subtopic_labels_oa.json); sin nombre, sus tres términos más distintivos
+  const subName = (sb) => (lang === "en" ? sb.name_en : sb.name) || sb.terms.slice(0, 3).join(" · ");
   function paint() {
     const tmp = new THREE.Color();
     for (let i = 0; i < N; i++) {
       const p = P[i];
-      if (mode === "topic") tmp.copy(col.series[p.c]);
+      // con un tema con subtemas aislado, sus subtemas toman la paleta completa y los demás temas pasan a gris
+      if (mode === "topic" && (activeTopic === null || !hasSubs(activeTopic))) tmp.copy(col.series[p.c]);
+      else if (mode === "topic") tmp.copy(p.c === activeTopic && p.st != null ? col.series[p.st % col.series.length] : col.nodata);
       else if (p.y) tmp.copy(col.yrLo).lerp(col.yrHi, (p.y - yMin) / Math.max(1, yMax - yMin));
       else tmp.copy(col.nodata);
       if (!isActive(i)) tmp.lerp(col.bg, 0.82);
@@ -1239,12 +1255,28 @@ function wantedCorpus() {
     li.querySelector("button").addEventListener("click", () => setTopic(activeTopic === c.id ? null : c.id));
     legend.appendChild(li);
   });
+  function renderSubs() {
+    const ul = $("subLegend"), c = activeTopic === null ? null : C[activeTopic];
+    $("subWrap").hidden = !c || !hasSubs(activeTopic) || mode !== "topic";
+    ul.innerHTML = "";
+    if ($("subWrap").hidden) return;
+    ul.classList.toggle("filtering", activeSub !== null);
+    c.subs.forEach((sb) => {
+      const li = document.createElement("li");
+      li.innerHTML = `<button type="button" aria-pressed="${activeSub === sb.id}"><span class="dot" style="background:${seriesVar(sb.id)}"></span><span></span><span class="n">${sb.n}</span></button>`;
+      li.querySelector("span:nth-child(2)").textContent = subName(sb);
+      li.querySelector("button").title = sb.terms.join(", ");
+      li.querySelector("button").addEventListener("click", () => { activeSub = activeSub === sb.id ? null : sb.id; renderSubs(); paint(); updateCount(); });
+      ul.appendChild(li);
+    });
+  }
   function setTopic(t) {
-    activeTopic = t;
+    activeTopic = t; activeSub = null;
     if (pair) { pair = null; renderPair(); }
     $("openAnalysis").href = topicHref(t ?? 0); // el botón abre el análisis del tema aislado (o del primero)
     [...legend.querySelectorAll("button")].forEach((b, i) => b.setAttribute("aria-pressed", String(t === i)));
     legend.classList.toggle("filtering", t !== null);
+    renderSubs();
     paint(); updateCount();
   }
   function setMode(m) {
@@ -1253,6 +1285,7 @@ function wantedCorpus() {
     $("modeYear").setAttribute("aria-pressed", String(m === "year"));
     $("yearLegend").hidden = m !== "year";
     legend.hidden = m === "year";
+    renderSubs();
     $("legendTitle").textContent = m === "year" ? T().legendYear : T().legendTopics;
     paint();
   }
@@ -1366,6 +1399,8 @@ function wantedCorpus() {
     const chips = $("pChips"); chips.innerHTML = "";
     const chip = (html, cls = "") => { const s = document.createElement("span"); s.className = "chip " + cls; s.innerHTML = html; chips.appendChild(s); return s; };
     chip(`<i style="background:${seriesVar(p.c)}"></i><span></span>`).querySelector("span").textContent = cname(p.c);
+    const sb = hasSubs(p.c) && p.st != null ? C[p.c].subs.find((x) => x.id === p.st) : null;
+    if (sb) { const s = chip("<span></span>", "rel"); s.querySelector("span").textContent = subName(sb); s.title = sb.terms.join(", "); }
     if (p.y) chip(String(p.y), "mono");
     if (p.cit) chip(T().cites(p.cit), "mono");
     if (OA && p.mi != null) chip(T().inManual, "mono");
@@ -1912,6 +1947,7 @@ function wantedCorpus() {
     renderNetNote();
     updateNbLegend();
     renderCycleList();
+    renderSubs();
     if (selected !== null) renderPanel(selected);
   }
   $("langEs").addEventListener("click", () => applyLang("es"));

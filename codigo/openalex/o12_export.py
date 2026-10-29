@@ -27,6 +27,23 @@ def clean(t):
     return re.sub(r"\s+", " ", TAG.sub("", (t or "").replace("�", ""))).strip()
 
 
+VAGUE = {"based", "self", "organized", "organization", "model", "models", "theory", "science", "sciences", "time", "new", "adaptive"}
+
+
+def label_terms(terms, k=5):
+    """Términos para la etiqueta de un subtema sin repeticiones: una frase de dos palabras desplaza a las palabras sueltas
+    que contiene, y se omiten las poco informativas."""
+    out = []
+    for t in terms:
+        w = set(t.split())
+        if any(w <= set(x.split()) for x in out):
+            continue
+        if len(w) == 1 and t in VAGUE:
+            continue
+        out = [x for x in out if not (len(x.split()) == 1 and x in w)] + [t]
+    return out[:k]
+
+
 def r4(x):
     return [round(float(v), 4) for v in x]
 
@@ -66,7 +83,17 @@ def main():
     names = json.load(open(os.path.join(ROOT, "data", "cluster_labels_oa.json"), encoding="utf-8"))
     names_en = json.load(open(os.path.join(ROOT, "data", "cluster_labels_oa_en.json"), encoding="utf-8"))
     info = json.load(open(os.path.join(OUT, "clusters_oa.json"), encoding="utf-8"))
+    # subtemas (segundo nivel; o24_subtopics.py) con nombres a mano en data/subtopic_labels_oa.json: {tema: {subtema: [es, en]}}
+    st_path = os.path.join(OUT, "subtopics_oa.json")
+    sub_info = json.load(open(st_path, encoding="utf-8")) if os.path.exists(st_path) else None
+    sub_names = json.load(open(os.path.join(ROOT, "data", "subtopic_labels_oa.json"), encoding="utf-8")) if sub_info else {}
     clusters = [dict(id=c, name=names[str(c)], name_en=names_en[str(c)], terms=info[str(c)]["terms"], n=info[str(c)]["n"]) for c in range(8)]
+    if sub_info:
+        for c in clusters:
+            ts = sub_info["topics"][str(c["id"])]["subtopics"]
+            if ts:
+                c["subs"] = [dict(id=int(k), n=v["n"], terms=label_terms(v["terms"]), name=sub_names[str(c["id"])][k][0],
+                                  name_en=sub_names[str(c["id"])][k][1]) for k, v in ts.items()]
 
     out_papers, abs_by_year = [], defaultdict(dict)
     for i, w in enumerate(W):
@@ -75,6 +102,7 @@ def main():
         doi = (w["doi"] or "").replace("https://doi.org/", "")
         p = {"id": i, "t": clean(w["title"]), "y": w["year"], "a": [clean(x) for x in au[:8]] + (["et al."] if len(au) > 8 else []), "v": clean(e.get("v", "")),
              "doi": doi, "oa": e.get("oa", ""), "cit": cit[i], "kw": [clean(k) for k in e.get("kw", [])], "c": int(L["labels"][i]),
+             **({"st": int(sub_info["sub"][i])} if sub_info and sub_info["topics"][str(int(L["labels"][i]))]["subtopics"] else {}),
              "p": r4(L["xyz"][i]), "p2": r4(L["xy"][i][:2]), "s": round(float(L["sizes"][i]), 4),
              "nn": [int(j) for j in L["nn"][i]], "nn_s": [round(float(v), 3) for v in L["nn_s"][i]],
              "pc": r4(L["xyz_c"][i]), "pc2": r4(L["xy_c"][i][:2]), "sc": round(float(L["sizes_c"][i]), 4),

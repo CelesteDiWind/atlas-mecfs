@@ -143,6 +143,38 @@ Método:
   medicina china y tratamientos complementarios; ejercicio, sistema autonómico y cerebro; dolor, fibromialgia y
   síndromes funcionales; inmunidad, mitocondria y biomarcadores; fatiga, sueño, estrés y revisiones generales.
 
+#### Cuántos temas y subtemas (o24)
+
+- **El número de temas (8) no salió de los datos.** Se fijó por legibilidad (una paleta de 8 colores que se distinga bien).
+  El 24-10-2026 se comprobó con los criterios del atlas de la complejidad sobre los 7.169 trabajos: estabilidad frente a
+  100 submuestras del 80 % (ARI), silhouette y Davies-Bouldin sobre el UMAP de 10 dimensiones, modularidad de la red de
+  citas directas internas y HDBSCAN.
+
+  | k | Estabilidad | Silhouette | Modularidad de citas |
+  |---|---|---|---|
+  | 3 | 0,996 | 0,28 | 0,25 |
+  | 4 | 0,984 | 0,30 | 0,26 |
+  | 5 | 0,679 | 0,28 | 0,30 |
+  | 6 | 0,694 | 0,30 | 0,30 |
+  | 8 | 0,621 | 0,35 | 0,30 |
+  | 10 | 0,785 | 0,38 | 0,31 |
+  | 14 | 0,819 | 0,43 | 0,30 |
+  | 16 | 0,899 | 0,44 | 0,29 |
+
+  Los 8 temas actuales tienen modularidad 0,311 (la mejor que se alcanza con cualquier k) y silhouette 0,31. HDBSCAN solo
+  encuentra 3 grupos.
+- **Lectura:** el campo es un continuo con 3 o 4 bloques grandes y estables. Para k entre 5 y 8 la estabilidad cae
+  (0,62 a 0,76): los límites entre temas de ese tamaño son en parte arbitrarios. Por eso los 8 temas se presentan como una
+  resolución de lectura validada por la red de citas, no como el número óptimo.
+- **Subtemas (segundo nivel):** dentro de cada uno de los 8 temas, KMeans sobre el mismo UMAP de 10 dimensiones con k entre
+  2 y 6 elegido por silhouette. La silhouette premia los grupos diminutos (un subtema de 1 trabajo en el tema XMRV, otro de
+  12 en el de dolor), así que solo se consideran los k con todos los subtemas de al menos 30 trabajos; si ninguno
+  cumple, el tema no tiene subtemas (XMRV y dolor/fibromialgia). Resultan 21 subtemas en 6 temas.
+- **Nombres:** los subtemas se nombraron a mano a partir de sus términos distintivos (TF-IDF contra el resto del tema) y de
+  sus trabajos más centrales (`data/subtopic_labels_oa.json`). Un subtema agrupa textos en otros idiomas, prensa y registros
+  sin resumen: SPECTER2 los junta por su forma, no por su contenido.
+- Solo el corpus OpenAlex tiene subtemas; la selección manual (583 trabajos, unos 70 por tema) no.
+
 ### 3.4 Red de acoplamiento validada y homología (o04, o05)
 
 - **Red:** acoplamiento validado (BiCM + Poisson + BH, q < 0,05), completa y en 15 ventanas de 3 años (2010–12 a
@@ -267,8 +299,9 @@ centrales.
 - **Consulta por palabras:** el corpus OpenAlex depende de una consulta en el título o el resumen. Pierde trabajos que
   no usan esos términos e incluye otros donde la EM/SFC es secundaria. La clasificación de relevancia lo mitiga, pero
   la hizo una IA en los casos dudosos.
-- **Temas:** salen de agrupar embeddings. Su número (8) y sus límites son una elección; las tendencias son más robustas
-  que los valores absolutos.
+- **Temas:** salen de agrupar embeddings. Su número (8) es una elección de legibilidad: los datos no señalan un
+  número óptimo (sección 3.3). Los subtemas (21) sí tienen el número elegido por silhouette con un mínimo de 30 trabajos.
+  Las tendencias son más robustas que los valores absolutos.
 - **Referencias:** solo el 73 % de los trabajos tiene lista de referencias en OpenAlex; los demás quedan fuera de las
   redes de citas.
 - **Metadatos:** los países, el acceso abierto y las citas dependen de OpenAlex, que tiene huecos y errores.

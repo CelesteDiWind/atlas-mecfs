@@ -146,6 +146,37 @@ Method:
   Chinese medicine and complementary treatments; exercise, the autonomic system and the brain; pain, fibromyalgia and
   functional syndromes; immunity, mitochondria and biomarkers; fatigue, sleep, stress and general reviews.
 
+#### How many topics and subtopics (o24)
+
+- **The number of topics (8) was not chosen from the data.** It was fixed for readability (an 8-colour palette that can be
+  told apart). On 24 October 2026 it was checked with the criteria used in the complexity atlas, on the 7,169 works:
+  stability under 100 subsamples of 80 % (ARI), silhouette and Davies-Bouldin on the 10-dimensional UMAP, modularity of the
+  internal direct-citation network, and HDBSCAN.
+
+  | k | Stability | Silhouette | Citation modularity |
+  |---|---|---|---|
+  | 3 | 0.996 | 0.28 | 0.25 |
+  | 4 | 0.984 | 0.30 | 0.26 |
+  | 5 | 0.679 | 0.28 | 0.30 |
+  | 6 | 0.694 | 0.30 | 0.30 |
+  | 8 | 0.621 | 0.35 | 0.30 |
+  | 10 | 0.785 | 0.38 | 0.31 |
+  | 14 | 0.819 | 0.43 | 0.30 |
+  | 16 | 0.899 | 0.44 | 0.29 |
+
+  The current 8 topics have modularity 0.311 (the best reached at any k) and silhouette 0.31. HDBSCAN finds only 3 groups.
+- **Reading:** the field is a continuum with 3 or 4 large, stable blocks. For k between 5 and 8 stability drops (0.62 to
+  0.76): the boundaries between topics of that size are partly arbitrary. The 8 topics are therefore presented as a reading
+  resolution validated by the citation network, not as the optimal number.
+- **Subtopics (second level):** inside each of the 8 topics, KMeans on the same 10-dimensional UMAP with k from 2 to 6 chosen
+  by silhouette. Silhouette rewards tiny groups (a 1-work subtopic in the XMRV topic, a 12-work one in the pain topic), so
+  only values of k where every subtopic has at least 30 works are considered; if none qualifies, the topic has no subtopics
+  (XMRV and pain/fibromyalgia). This gives 21 subtopics in 6 topics.
+- **Names:** subtopics were named by hand from their distinctive terms (TF-IDF against the rest of the topic) and their most
+  central works (`data/subtopic_labels_oa.json`). One subtopic gathers texts in other languages, press items and records
+  without abstracts: SPECTER2 groups them by form, not by content.
+- Only the OpenAlex corpus has subtopics; the hand-picked selection (583 works, about 70 per topic) does not.
+
 ### 3.4 Validated coupling network and homology (o04, o05)
 
 - **Network:** validated coupling (BiCM + Poisson + BH, q < 0.05), for the full period and for 15 three-year windows
@@ -265,8 +296,9 @@ Everything is computed three times, once per relevance filter: all works; core a
 
 - **Keyword query:** the OpenAlex corpus misses works that do not use the search terms, and it includes works where
   ME/CFS is secondary. The relevance labels mitigate this, but AI assigned them in unclear cases.
-- **Topics:** they come from clustering embeddings, so their number (8) and boundaries are a choice. Trends are more
-  robust than absolute values.
+- **Topics:** they come from clustering embeddings. Their number (8) is a readability choice: the data point to no optimal
+  number (section 3.3). The 21 subtopics do use the number chosen by silhouette with a minimum of 30 works. Trends are
+  more robust than absolute values.
 - **References:** only 73% of works have a reference list in OpenAlex; the rest are left out of the citation networks.
 - **Metadata:** countries, open-access status and citations depend on OpenAlex, which has gaps and errors.
 - **Current year:** 2026 is incomplete (up to October).
